@@ -14,10 +14,20 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "white card: headline 'Connect Clueso MCP' + input-type paragraph (recording/doc/PPT/URL/Figma/prompt) + URL bar mockup + row of agent logo cards (ChatGPT, Claude, Gemini, Cursor)",
   "rank": 6,
   "votes": 614,
   "comments": 158,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/7d52afc1-9d27-45c5-b258-6b557bf0e7d4.jpeg?auto=format",
+    "https://ph-files.imgix.net/a87e6ab5-cd4b-4fd2-84df-958abdac9141.png?auto=format",
+    "https://ph-files.imgix.net/21b37e15-fd9a-4244-b278-771e55ffa8fc.png?auto=format",
+    "https://ph-files.imgix.net/e320f70c-afab-42df-addb-adf715e0d04f.png?auto=format",
+    "https://ph-files.imgix.net/9f606ad1-d60c-4e5e-bc2d-c50aac6a5258.png?auto=format",
+    "https://ph-files.imgix.net/e7cc9805-77f0-44fb-b9f7-e898ce577f44.png?auto=format",
+    "https://ph-files.imgix.net/8609f277-8368-4d2a-9ac8-a7f20b111e4b.png?auto=format",
+    "https://ph-files.imgix.net/09c45078-6182-43ba-a34b-a7b5ea8c4331.png?auto=format"
+  ]
 }

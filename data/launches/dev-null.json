@@ -15,10 +15,21 @@
   "tagline_formula": "outcome-for-audience",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "dark card: full product UI — sidebar with '/dev/null — a social network for devs' + commits feed showing real names (Guillermo Rauch) in a reply thread",
   "rank": 11,
   "votes": 547,
   "comments": 64,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format",
+    "https://ph-files.imgix.net/b4426896-744d-42a9-b1f2-cae7f57dcca3.jpeg?auto=format",
+    "https://ph-files.imgix.net/09808ebe-d7d8-4cd0-8422-a65ac8242931.png?auto=format",
+    "https://ph-files.imgix.net/78f9703e-3780-49ac-a149-3726fc41eb5a.png?auto=format",
+    "https://ph-files.imgix.net/473c100e-512b-4afe-b99b-7001659743ea.png?auto=format",
+    "https://ph-files.imgix.net/342d1ae7-459e-4575-a3f8-ac8879facdc8.png?auto=format",
+    "https://ph-files.imgix.net/36756073-ca6a-4216-b24d-974ef80c66d2.png?auto=format",
+    "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
+    "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
+  ]
 }

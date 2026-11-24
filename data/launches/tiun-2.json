@@ -14,10 +14,20 @@
   "tagline_formula": "outcome-for-audience",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "black minimal card: headline 'One backend. Sufficient to power your entire business.' + isometric layered cube + capability list (Authentication, Billing/Payments, Customer Database, Analytics)",
   "rank": 3,
   "votes": 633,
   "comments": 100,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/d3f13ed1-c39b-4519-b391-4381f3807dc9.jpeg?auto=format",
+    "https://ph-files.imgix.net/3e1ea18e-038d-4c9d-9794-2cbed5dd021e.jpeg?auto=format",
+    "https://ph-files.imgix.net/2d4ed090-9330-4181-9b29-2ac01add8dc5.jpeg?auto=format",
+    "https://ph-files.imgix.net/f015708c-2b6f-46ab-8b49-50e5ab3a7af3.jpeg?auto=format",
+    "https://ph-files.imgix.net/e4c5be8d-5c8b-4182-8861-aeed1248be74.jpeg?auto=format",
+    "https://ph-files.imgix.net/20b725f4-87a1-477e-9870-81eacb62eb74.jpeg?auto=format",
+    "https://ph-files.imgix.net/5e7986d5-7aca-4718-b40f-1d0592a8a978.jpeg?auto=format",
+    "https://ph-files.imgix.net/70fe28e5-0006-498f-adce-4f9fcb6f26f6.jpeg?auto=format"
+  ]
 }

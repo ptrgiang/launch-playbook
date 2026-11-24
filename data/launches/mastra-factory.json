@@ -15,10 +15,17 @@
   "tagline_formula": "other",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "black card: headline 'Build with an agent factory' + description + 'Sign in with Mastra Platform' button + abstract dotted pipeline columns (Intake/Build/Review/Ship)",
   "rank": 10,
   "votes": 547,
   "comments": 110,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format",
+    "https://ph-files.imgix.net/44f42000-a3f3-459d-8c54-61afb8e2eb66.png?auto=format",
+    "https://ph-files.imgix.net/2ebb13ee-589f-4f14-9eb6-1e70b413a863.png?auto=format",
+    "https://ph-files.imgix.net/35123271-fa98-4b46-a958-159f87b0716f.png?auto=format",
+    "https://ph-files.imgix.net/01fde82c-ad06-4b0a-b705-12593ba82245.jpeg?auto=format"
+  ]
 }

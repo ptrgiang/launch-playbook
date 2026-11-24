@@ -14,10 +14,21 @@
   "tagline_formula": "outcome-for-audience",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "orange gradient card: centered text only — 'Path to Astra: critical capabilities and frontier safeguards' — brand-name carry, no product visual",
   "rank": 12,
   "votes": 542,
   "comments": 18,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format",
+    "https://ph-files.imgix.net/67e6061d-afa4-45c9-be02-695a30c2c0ca.png?auto=format",
+    "https://ph-files.imgix.net/23ff7372-9912-4e6a-9ff7-b395eef8fedf.png?auto=format",
+    "https://ph-files.imgix.net/09574acb-8237-4979-a89e-a886ab1feb53.webp?auto=format",
+    "https://ph-files.imgix.net/cf81fdb4-5d77-429d-a55d-68dd834b2580.webp?auto=format",
+    "https://ph-files.imgix.net/fe5bba0e-d8e7-43ff-99aa-8fe9197acbb5.jpeg?auto=format",
+    "https://ph-files.imgix.net/a6286bd6-4623-4872-b0f4-9655dafb8891.jpeg?auto=format",
+    "https://ph-files.imgix.net/47fa0767-ce76-4893-8955-571fe0b765de.jpeg?auto=format",
+    "https://ph-files.imgix.net/c32d60c3-f17e-413c-b10d-472f17d8c7fe.jpeg?auto=format"
+  ]
 }

@@ -14,10 +14,20 @@
   "tagline_formula": "other",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "dark card: headline 'Turn scripts into viral social media videos' + 3 phone-frame mockups of generated TikTok-style videos with text overlays",
   "rank": 2,
   "votes": 693,
   "comments": 67,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format",
+    "https://ph-files.imgix.net/7862547e-c6c5-4075-af17-f4fdfc544882.png?auto=format",
+    "https://ph-files.imgix.net/f48ea0b3-c631-4c9e-8e12-b0249fb05f37.png?auto=format",
+    "https://ph-files.imgix.net/7d6a63c9-73ff-400a-b57f-919e0c9b9e2f.png?auto=format",
+    "https://ph-files.imgix.net/40fcef54-bebe-4deb-8bea-68f51d0ef99e.png?auto=format",
+    "https://ph-files.imgix.net/c5473229-85fc-4e93-9ea6-028849eddad1.jpeg?auto=format",
+    "https://ph-files.imgix.net/a8d95925-a797-44b7-b1a0-364639fc338f.png?auto=format",
+    "https://ph-files.imgix.net/968af607-10d8-4aab-9ae7-49024a8d5b9b.png?auto=format"
+  ]
 }

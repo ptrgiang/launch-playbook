@@ -14,10 +14,17 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "dark card: 'WORKS IN' agent pills (Claude, Codex, Cursor, Manus, Antigravity) + headline 'Live B2B data inside your AI-agent. One prompt away' + 6 data-type tiles (Companies, People, Emails, Phone Numbers, Enrichment, Signals)",
   "rank": 18,
   "votes": 497,
   "comments": 164,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format",
+    "https://ph-files.imgix.net/1fc7eac4-8b8e-43ca-98ec-741db5868ee5.png?auto=format",
+    "https://ph-files.imgix.net/12506f60-5e88-4c26-9024-1d13d183acf4.png?auto=format",
+    "https://ph-files.imgix.net/5b094ddd-1763-4d6c-80f1-a9ce8cbed2d1.png?auto=format",
+    "https://ph-files.imgix.net/cb1c8b99-1117-40e0-bd24-93a19756dac6.png?auto=format"
+  ]
 }

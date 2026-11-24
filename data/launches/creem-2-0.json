@@ -14,10 +14,18 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "cream card: 'AFFILIATES' pill + headline 'Flexible commission per product' + subhead + illustrated sale-split diagram ($200 sale → Alice 75%/$150, James 25%/$50) + CREEM logo",
   "rank": 4,
   "votes": 630,
   "comments": 172,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/88fc1155-d720-497f-a5cc-89a8b39a0783.jpeg?auto=format",
+    "https://ph-files.imgix.net/86d2b232-2289-4e68-87c8-8bfe4fe8794e.png?auto=format",
+    "https://ph-files.imgix.net/fc327fb9-e0ed-4def-b714-f006f877027a.png?auto=format",
+    "https://ph-files.imgix.net/88edf02d-2664-422a-b150-b18370f7b1c3.png?auto=format",
+    "https://ph-files.imgix.net/5e41b5c8-a552-4d60-abeb-75c27f0caa79.png?auto=format",
+    "https://ph-files.imgix.net/95019b82-1cf7-46ea-bf17-dac923ced472.png?auto=format"
+  ]
 }

@@ -14,10 +14,18 @@
   "tagline_formula": "familiar-reframe",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "cream minimal card: Pancake wordmark + rainbow arch graphic + kicker 'The Vercel for GTM' + giant headline 'Deploy GTM ideas that bring you customers'",
   "rank": 5,
   "votes": 614,
   "comments": 72,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format",
+    "https://ph-files.imgix.net/a5755eb0-cf23-49a3-b169-a07e973e6299.jpeg?auto=format",
+    "https://ph-files.imgix.net/3cee6bc0-910a-4c75-ae48-ef61df501bab.png?auto=format",
+    "https://ph-files.imgix.net/7e29247c-f60c-4012-86ab-f400a0607bb6.png?auto=format",
+    "https://ph-files.imgix.net/76be9e14-edb9-436a-abad-23bcc5a86157.png?auto=format",
+    "https://ph-files.imgix.net/0025e164-b60f-4873-b9d7-5000a4743975.png?auto=format"
+  ]
 }

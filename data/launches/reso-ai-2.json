@@ -14,10 +14,19 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "blue gradient card: logo + headline 'Be the answer when your buyers ask AI' + subhead 'Your AI Search Optimisation agentic employee' + domain — headline-only, no product visual",
   "rank": 16,
   "votes": 507,
   "comments": 44,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format",
+    "https://ph-files.imgix.net/bb9e3cf6-1bbf-40c4-825d-09bb20a409c4.png?auto=format",
+    "https://ph-files.imgix.net/1841ef25-9cbb-4c76-ad84-d899aecb8f06.png?auto=format",
+    "https://ph-files.imgix.net/31130b1d-edf4-4882-bfe1-99a0804d5f92.png?auto=format",
+    "https://ph-files.imgix.net/9b97dcd7-ad05-4825-9e01-69aa2aaaf684.png?auto=format",
+    "https://ph-files.imgix.net/22abc50c-c8a5-4705-9ca5-078cc08b1f82.jpeg?auto=format",
+    "https://ph-files.imgix.net/36d7aff5-8871-4641-ba77-19d965e4389b.png?auto=format"
+  ]
 }

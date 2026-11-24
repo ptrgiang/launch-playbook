@@ -14,10 +14,18 @@
   "tagline_formula": "familiar-reframe",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "white editorial card: 'LIVE · 1,800+ TOOLS' kicker + headline 'The OpenRouter for agent tools.' (blue highlight) + 4 spec tiles (Catalog/Keys/Billing/Setup) + page number '01/05'",
   "rank": 19,
   "votes": 493,
   "comments": 44,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/c4b9b2dd-f271-4505-ae43-b40d2f7ff055.png?auto=format",
+    "https://ph-files.imgix.net/4d9fbdf9-77b1-4653-9a0b-d9e0f3810725.png?auto=format",
+    "https://ph-files.imgix.net/fbe4908a-832a-44c9-8011-e77f235f9393.png?auto=format",
+    "https://ph-files.imgix.net/36cb2f40-6e5f-4f43-8570-b49c7b7568ae.png?auto=format",
+    "https://ph-files.imgix.net/02d32dbc-610a-4134-a174-1304c1865c5e.png?auto=format",
+    "https://ph-files.imgix.net/fa1860cc-9875-4b5c-b3ca-23af41c4fcbd.jpeg?auto=format"
+  ]
 }

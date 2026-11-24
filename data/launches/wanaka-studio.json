@@ -14,10 +14,20 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "mint card: 'AI-NATIVE GAME ENGINE' kicker + headline 'Make AAA 3D games with AI.' (lime highlight) + editor screenshot (3D city scene + 'Build with AI' chat panel + inspector) + ticks 'No code · Multiplayer · 1-click publish'",
   "rank": 17,
   "votes": 499,
   "comments": 118,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format",
+    "https://ph-files.imgix.net/4d06fd2c-928d-4d1d-be3d-2d9680ca4706.png?auto=format",
+    "https://ph-files.imgix.net/7a73848a-5cdb-4a4f-a2c6-aab467929de7.png?auto=format",
+    "https://ph-files.imgix.net/66e09a38-38af-4927-a46d-5cc9c1de7091.jpeg?auto=format",
+    "https://ph-files.imgix.net/11245bf7-a8a3-4121-a963-bc03ad9464ff.jpeg?auto=format",
+    "https://ph-files.imgix.net/6f14347f-8b99-4528-be0e-a809f21f1295.png?auto=format",
+    "https://ph-files.imgix.net/65ca3d36-f745-4856-9338-a4b724e1425a.jpeg?auto=format",
+    "https://ph-files.imgix.net/eb2130b7-5f58-456a-9a69-0aaa314a65e6.jpeg?auto=format"
+  ]
 }

@@ -15,10 +15,21 @@
   "tagline_formula": "familiar-reframe",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "purple gradient card: headline 'The AI GTM agent everyone was waiting for.' + 'Powered by GPT-6 Astra' badge + 3 proof metrics (17K+ campaigns, 19K+ meetings, $697M+ pipeline) + client logo strip (Google, Microsoft, Uber, Disney…)",
   "rank": 1,
   "votes": 704,
   "comments": 217,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/8bdae202-3311-492a-a57f-67d5c79d8277.jpeg?auto=format",
+    "https://ph-files.imgix.net/377a52af-b497-46d3-b97f-ca405af35a34.png?auto=format",
+    "https://ph-files.imgix.net/914af1e9-6e84-4840-b0e3-ac69f0fdb4d7.png?auto=format",
+    "https://ph-files.imgix.net/77fe45d8-c649-4003-ba07-9854b8e09090.png?auto=format",
+    "https://ph-files.imgix.net/63cd0d68-cfd1-4309-94d9-3a096f0c3973.png?auto=format",
+    "https://ph-files.imgix.net/bfb4dcb2-0eef-42f0-bfa8-baf79c607c55.png?auto=format",
+    "https://ph-files.imgix.net/d6932000-d7f2-4dd4-8a8f-5e44ce82736e.png?auto=format",
+    "https://ph-files.imgix.net/3f3add98-2410-4746-8472-f616190aca26.png?auto=format",
+    "https://ph-files.imgix.net/fd34f8d3-b3ef-4bbd-8d03-48c3489bf11f.png?auto=format"
+  ]
 }

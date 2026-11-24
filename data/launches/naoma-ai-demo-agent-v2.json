@@ -14,10 +14,18 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "dark purple card: headline 'Skip the form. Get the demo now.' + 'AI ACCOUNT EXECUTIVE' tag + PH '#1 Product of the Day' badge tile + '50,000+ AI demos delivered' + live-demo product screenshot",
   "rank": 9,
   "votes": 552,
   "comments": 165,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format",
+    "https://ph-files.imgix.net/23be1b50-29d2-4cd1-ad18-09449b4bc7f0.png?auto=format",
+    "https://ph-files.imgix.net/37a854e5-956b-4b9a-8519-b3986a66cb99.png?auto=format",
+    "https://ph-files.imgix.net/9253e2e6-dd89-4a3c-be6d-0da0bbef1d4a.png?auto=format",
+    "https://ph-files.imgix.net/328ea02f-f2ea-4fae-80aa-47d0d6a643ff.png?auto=format",
+    "https://ph-files.imgix.net/c62a21c4-c21c-4617-9056-dd5a9fe67367.png?auto=format"
+  ]
 }

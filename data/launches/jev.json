@@ -14,10 +14,20 @@
   "tagline_formula": "outcome-for-audience",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "dark card: raw product screenshot — TypeSafe console login screen ('Welcome to TypeSafe', Google/email sign-in) in browser chrome on pixel-art background — no pitch text (weak first card)",
   "rank": 7,
   "votes": 604,
   "comments": 16,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format",
+    "https://ph-files.imgix.net/63891015-3b29-483e-8e00-51d510534026.jpeg?auto=format",
+    "https://ph-files.imgix.net/8d828473-a023-42f2-a098-82df8b2cca24.jpeg?auto=format",
+    "https://ph-files.imgix.net/08ebb30f-296b-4113-83b2-6496ef4e8cf3.jpeg?auto=format",
+    "https://ph-files.imgix.net/bad0911c-eea0-465f-b28f-ff2f44ed816c.jpeg?auto=format",
+    "https://ph-files.imgix.net/33ab5408-e18c-40ce-b174-8ddbb34d94be.jpeg?auto=format",
+    "https://ph-files.imgix.net/2bd6e973-c360-4205-a2a3-11fde82b8dc2.jpeg?auto=format",
+    "https://ph-files.imgix.net/2f839d96-5304-4b9a-814b-18dfbd9cc79d.jpeg?auto=format"
+  ]
 }

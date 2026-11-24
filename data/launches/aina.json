@@ -4,7 +4,7 @@
   "url": "https://www.producthunt.com/products/aina",
   "launch_date": "2026-09-18",
   "day_of_week": "Friday",
-  "category": "Career / AI coach",
+  "category": null,
   "topics": [
     "Productivity",
     "Artificial Intelligence",
@@ -15,7 +15,7 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": "brand-blue card: two-line headline 'Talk to your AI coach. Get a real plan.' + audience subhead + video-call UI screenshot with AI avatar and meeting-history panel",
+  "gallery_first_card": null,
   "rank": 15,
   "votes": 508,
   "comments": 190,

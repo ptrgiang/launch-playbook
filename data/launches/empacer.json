@@ -14,10 +14,20 @@
   "tagline_formula": "outcome-for-audience",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "dark+blue split card: punchy 3-word headline 'Talk. Approve. Done.' + 'voice AI agent for small business owners' + phone mockup of assistant chat (suggestion chips + voice button)",
   "rank": 20,
   "votes": 488,
   "comments": 84,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format",
+    "https://ph-files.imgix.net/abcf9ce9-7ef5-46ea-b8b7-dc458e1a4282.png?auto=format",
+    "https://ph-files.imgix.net/946fe0a5-fe70-4384-a47f-f8d9e80f61a4.png?auto=format",
+    "https://ph-files.imgix.net/b5bfbe10-2bf8-43e2-9861-df04c0cac8d9.png?auto=format",
+    "https://ph-files.imgix.net/45be37f2-6f04-4108-b91b-c531fb0213cd.png?auto=format",
+    "https://ph-files.imgix.net/33dd463b-18fd-400e-8f51-3594c1ed3723.png?auto=format",
+    "https://ph-files.imgix.net/0da12497-d71c-44e5-94ce-3d885dd6b391.png?auto=format",
+    "https://ph-files.imgix.net/a1505ee2-c8de-4f69-a32f-a5f4325d924e.jpeg?auto=format"
+  ]
 }
