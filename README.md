@@ -9,7 +9,7 @@ Built for Claude Code, Codex, Cursor, Gemini CLI, and anything else that reads f
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/launch-playbook.git
+git clone https://github.com/ptrgiang/launch-playbook.git
 cd launch-playbook
 
 # 1. Copy the workspace template for your launch
