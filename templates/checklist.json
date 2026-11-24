@@ -1,0 +1,47 @@
+{
+  "generated_by": "launch-checklist",
+  "phases": {
+    "prep": [
+      { "id": "pick-date", "task": "Pick Tue/Wed/Thu launch date, check conflicts", "due": "T-14", "status": "todo" },
+      { "id": "landing-audit", "task": "Landing page <3s mobile, CTA above fold, no signup wall", "due": "T-14", "status": "todo" },
+      { "id": "ph-warmup", "task": "Comment on other launches to build maker history", "due": "T-14", "status": "todo" },
+      { "id": "taglines", "task": "Draft + pick tagline (stranger test)", "due": "T-10", "status": "todo" },
+      { "id": "description", "task": "Write copy/description.md", "due": "T-9", "status": "todo" },
+      { "id": "maker-comment", "task": "Write copy/maker-comment.md", "due": "T-9", "status": "todo" },
+      { "id": "screenshots", "task": "Capture screenshots for gallery", "due": "T-8", "status": "todo" },
+      { "id": "gallery", "task": "Build gallery 1270×760 (hook → product → payoff → proof → CTA)", "due": "T-7", "status": "todo" },
+      { "id": "demo-video", "task": "Record 30–60s demo, muted-viewable, YouTube", "due": "T-7", "status": "todo" },
+      { "id": "thumbnail", "task": "Thumbnail 240×240, first frame reads small", "due": "T-7", "status": "todo" },
+      { "id": "crossposts", "task": "Draft all cross-posts per channel rules", "due": "T-7", "status": "todo" },
+      { "id": "subreddit-check", "task": "Re-check rules for every target subreddit", "due": "T-6", "status": "todo" },
+      { "id": "email-blast", "task": "Draft supporter email (send T0 07:00 PST)", "due": "T-5", "status": "todo" },
+      { "id": "supporters", "task": "Finalize supporters list — 'check it out' framing only", "due": "T-5", "status": "todo" },
+      { "id": "ph-offer", "task": "Create PH coupon/offer if priced", "due": "T-5", "status": "todo" },
+      { "id": "draft-page", "task": "Assemble full launch page draft, verify every asset", "due": "T-3", "status": "todo" },
+      { "id": "page-audit", "task": "Run review-launch-page audit", "due": "T-2", "status": "todo" },
+      { "id": "faq", "task": "Pre-draft FAQ answers in copy/faq.md", "due": "T-2", "status": "todo" },
+      { "id": "load-test", "task": "Load test landing page, verify analytics + UTM", "due": "T-2", "status": "todo" },
+      { "id": "sleep-plan", "task": "Decide who covers 00:01–04:00 PST and EU morning", "due": "T-1", "status": "todo" }
+    ],
+    "day": [
+      { "id": "publish", "task": "Publish 00:01–00:15 PST", "due": "T0 00:01", "status": "todo" },
+      { "id": "maker-live", "task": "Post maker comment within 5 min", "due": "T0 00:06", "status": "todo" },
+      { "id": "reply-wave-1", "task": "Reply every comment <30 min", "due": "T0 00:15–04:00", "status": "todo" },
+      { "id": "checkpoint", "task": "Checkpoint: rank, velocity, climbers", "due": "T0 04:00", "status": "todo" },
+      { "id": "x-thread", "task": "Post + pin X thread", "due": "T0 07:00–09:00", "status": "todo" },
+      { "id": "linkedin", "task": "LinkedIn post (link in first comment)", "due": "T0 07:00–09:00", "status": "todo" },
+      { "id": "reddit", "task": "Reddit posts per-sub", "due": "T0 09:00–11:00", "status": "todo" },
+      { "id": "email-send", "task": "Send supporter blast", "due": "T0 07:00–08:00", "status": "todo" },
+      { "id": "reply-duty", "task": "Reply duty all day; milestone QTs ok", "due": "T0 11:00–23:59", "status": "todo" }
+    ],
+    "post": [
+      { "id": "show-hn", "task": "Show HN live (own day, own copy)", "due": "T+1", "status": "todo" },
+      { "id": "badge", "task": "Embed PH badge if top 5", "due": "T+1", "status": "todo" },
+      { "id": "capture-metrics", "task": "Capture rank/votes/comments/traffic/signups/conversion", "due": "T+1", "status": "todo" },
+      { "id": "postmortem", "task": "Run /postmortem → postmortem.md", "due": "T+2", "status": "todo" },
+      { "id": "directories", "task": "BetaList, Uneed, AlternativeTo, SaaSHub", "due": "T+3", "status": "todo" },
+      { "id": "ih-retro", "task": "Indie Hackers retro with real numbers", "due": "T+5", "status": "todo" },
+      { "id": "pr-corpus", "task": "PR postmortem into repo data/", "due": "T+7", "status": "todo" }
+    ]
+  }
+}

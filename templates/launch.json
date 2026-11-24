@@ -1,0 +1,35 @@
+{
+  "product": {
+    "name": "",
+    "url": "",
+    "one_liner": "",
+    "what_it_does": "",
+    "who_its_for": "",
+    "pricing": "",
+    "ph_offer": ""
+  },
+  "launch": {
+    "surface": "producthunt",
+    "target_date": "",
+    "category": "",
+    "topics": ["", "", ""]
+  },
+  "maker": {
+    "name": "",
+    "x_handle": "",
+    "ph_profile": "",
+    "voice_notes": ""
+  },
+  "channels": {
+    "x": true,
+    "linkedin": true,
+    "show_hn": true,
+    "reddit": []
+  },
+  "assets": {
+    "screenshots_dir": "assets/screenshots",
+    "demo_video": ""
+  },
+  "supporters": [],
+  "notes": ""
+}
