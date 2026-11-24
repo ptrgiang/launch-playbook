@@ -1,0 +1,23 @@
+{
+  "name": "tiun.",
+  "slug": "tiun-2",
+  "url": "https://www.producthunt.com/products/tiun-2",
+  "launch_date": "2026-09-15",
+  "day_of_week": "Tuesday",
+  "category": null,
+  "topics": [
+    "Payments",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "tagline": "Auth, billing, and payments for AI builders",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 3,
+  "votes": 633,
+  "comments": 100,
+  "featured": true,
+  "source": "api"
+}

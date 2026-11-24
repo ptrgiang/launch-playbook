@@ -1,0 +1,23 @@
+{
+  "name": "Wanaka Studio",
+  "slug": "wanaka-studio",
+  "url": "https://www.producthunt.com/products/wanaka-studio",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "category": null,
+  "topics": [
+    "Artificial Intelligence",
+    "Games",
+    "No-Code"
+  ],
+  "tagline": "Make and publish 3D games with the first AI game engine",
+  "tagline_formula": "number-led",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 17,
+  "votes": 499,
+  "comments": 118,
+  "featured": true,
+  "source": "api"
+}

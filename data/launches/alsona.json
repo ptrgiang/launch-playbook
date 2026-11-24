@@ -1,0 +1,23 @@
+{
+  "name": "Alsona",
+  "slug": "alsona",
+  "url": "https://www.producthunt.com/products/alsona",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "category": null,
+  "topics": [
+    "Sales",
+    "SaaS",
+    "Artificial Intelligence"
+  ],
+  "tagline": "AI agents that turn buying signals into booked sales calls",
+  "tagline_formula": "other",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 8,
+  "votes": 554,
+  "comments": 132,
+  "featured": true,
+  "source": "api"
+}

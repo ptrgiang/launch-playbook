@@ -1,0 +1,23 @@
+{
+  "name": "CREEM 2.0",
+  "slug": "creem-2-0",
+  "url": "https://www.producthunt.com/products/creem-2-0",
+  "launch_date": "2026-09-17",
+  "day_of_week": "Thursday",
+  "category": null,
+  "topics": [
+    "Fintech",
+    "Payments",
+    "Marketing"
+  ],
+  "tagline": "Sell and grow your AI built products",
+  "tagline_formula": "other",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 4,
+  "votes": 630,
+  "comments": 172,
+  "featured": true,
+  "source": "api"
+}

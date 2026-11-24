@@ -1,0 +1,24 @@
+{
+  "name": "Mastra Factory",
+  "slug": "mastra-factory",
+  "url": "https://www.producthunt.com/products/mastra-factory",
+  "launch_date": "2026-09-09",
+  "day_of_week": "Wednesday",
+  "category": null,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "tagline": "From issue to production, run by agents.",
+  "tagline_formula": "other",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 10,
+  "votes": 547,
+  "comments": 110,
+  "featured": true,
+  "source": "api"
+}

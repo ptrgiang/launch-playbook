@@ -1,0 +1,23 @@
+{
+  "name": "GPT-6 Astra",
+  "slug": "gpt-6-astra-2",
+  "url": "https://www.producthunt.com/products/gpt-6-astra-2",
+  "launch_date": "2026-09-04",
+  "day_of_week": "Friday",
+  "category": null,
+  "topics": [
+    "Productivity",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "tagline": "OpenAI's most capable model for end-to-end work",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 12,
+  "votes": 542,
+  "comments": 18,
+  "featured": true,
+  "source": "api"
+}

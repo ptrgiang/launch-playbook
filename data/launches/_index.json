@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "ami-ai",
+    "name": "Ami AI",
+    "rank": 1,
+    "votes": 704,
+    "comments": 217,
+    "launch_date": "2026-09-18",
+    "day_of_week": "Friday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "spira-maxima",
+    "name": "Spira Maxima",
+    "rank": 2,
+    "votes": 693,
+    "comments": 67,
+    "launch_date": "2026-10-05",
+    "day_of_week": "Monday",
+    "tagline_formula": "other"
+  },
+  {
+    "slug": "tiun-2",
+    "name": "tiun.",
+    "rank": 3,
+    "votes": 633,
+    "comments": 100,
+    "launch_date": "2026-09-15",
+    "day_of_week": "Tuesday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "creem-2-0",
+    "name": "CREEM 2.0",
+    "rank": 4,
+    "votes": 630,
+    "comments": 172,
+    "launch_date": "2026-09-17",
+    "day_of_week": "Thursday",
+    "tagline_formula": "other"
+  },
+  {
+    "slug": "pancake-7",
+    "name": "Pancake",
+    "rank": 5,
+    "votes": 614,
+    "comments": 72,
+    "launch_date": "2026-10-14",
+    "day_of_week": "Wednesday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "clueso-mcp-2",
+    "name": "Clueso MCP",
+    "rank": 6,
+    "votes": 614,
+    "comments": 158,
+    "launch_date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "tagline_formula": "verb-first"
+  },
+  {
+    "slug": "jev",
+    "name": "Jev",
+    "rank": 7,
+    "votes": 604,
+    "comments": 16,
+    "launch_date": "2026-09-21",
+    "day_of_week": "Monday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "alsona",
+    "name": "Alsona",
+    "rank": 8,
+    "votes": 554,
+    "comments": 132,
+    "launch_date": "2026-11-10",
+    "day_of_week": "Tuesday",
+    "tagline_formula": "other"
+  },
+  {
+    "slug": "naoma-ai-demo-agent-v2",
+    "name": "Naoma AI Demo Agent V2",
+    "rank": 9,
+    "votes": 552,
+    "comments": 165,
+    "launch_date": "2026-09-14",
+    "day_of_week": "Monday",
+    "tagline_formula": "other"
+  },
+  {
+    "slug": "mastra-factory",
+    "name": "Mastra Factory",
+    "rank": 10,
+    "votes": 547,
+    "comments": 110,
+    "launch_date": "2026-09-09",
+    "day_of_week": "Wednesday",
+    "tagline_formula": "other"
+  },
+  {
+    "slug": "dev-null",
+    "name": "/dev/null",
+    "rank": 11,
+    "votes": 547,
+    "comments": 64,
+    "launch_date": "2026-10-20",
+    "day_of_week": "Tuesday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "gpt-6-astra-2",
+    "name": "GPT-6 Astra",
+    "rank": 12,
+    "votes": 542,
+    "comments": 18,
+    "launch_date": "2026-09-04",
+    "day_of_week": "Friday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "voiskey",
+    "name": "Voiskey",
+    "rank": 13,
+    "votes": 535,
+    "comments": 133,
+    "launch_date": "2026-09-15",
+    "day_of_week": "Tuesday",
+    "tagline_formula": "other"
+  },
+  {
+    "slug": "beacon-sh",
+    "name": "beacon.sh",
+    "rank": 14,
+    "votes": 522,
+    "comments": 132,
+    "launch_date": "2026-11-02",
+    "day_of_week": "Monday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "aina",
+    "name": "AINA",
+    "rank": 15,
+    "votes": 508,
+    "comments": 190,
+    "launch_date": "2026-09-18",
+    "day_of_week": "Friday",
+    "tagline_formula": "verb-first"
+  },
+  {
+    "slug": "reso-ai-2",
+    "name": "ReSO AI",
+    "rank": 16,
+    "votes": 507,
+    "comments": 44,
+    "launch_date": "2026-10-10",
+    "day_of_week": "Saturday",
+    "tagline_formula": "verb-first"
+  },
+  {
+    "slug": "wanaka-studio",
+    "name": "Wanaka Studio",
+    "rank": 17,
+    "votes": 499,
+    "comments": 118,
+    "launch_date": "2026-11-04",
+    "day_of_week": "Wednesday",
+    "tagline_formula": "number-led"
+  },
+  {
+    "slug": "anysite-io",
+    "name": "Anysite.io",
+    "rank": 18,
+    "votes": 497,
+    "comments": 164,
+    "launch_date": "2026-09-11",
+    "day_of_week": "Friday",
+    "tagline_formula": "number-led"
+  },
+  {
+    "slug": "monid-3",
+    "name": "Monid",
+    "rank": 19,
+    "votes": 493,
+    "comments": 44,
+    "launch_date": "2026-09-02",
+    "day_of_week": "Wednesday",
+    "tagline_formula": "outcome-for-audience"
+  },
+  {
+    "slug": "empacer",
+    "name": "Empacer",
+    "rank": 20,
+    "votes": 488,
+    "comments": 84,
+    "launch_date": "2026-10-29",
+    "day_of_week": "Thursday",
+    "tagline_formula": "outcome-for-audience"
+  }
+]

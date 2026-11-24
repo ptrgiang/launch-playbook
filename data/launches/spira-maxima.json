@@ -1,0 +1,23 @@
+{
+  "name": "Spira Maxima",
+  "slug": "spira-maxima",
+  "url": "https://www.producthunt.com/products/spira-maxima",
+  "launch_date": "2026-10-05",
+  "day_of_week": "Monday",
+  "category": null,
+  "topics": [
+    "Social Media",
+    "Marketing",
+    "Artificial Intelligence"
+  ],
+  "tagline": "Video model that turns script into viral social media videos",
+  "tagline_formula": "other",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 2,
+  "votes": 693,
+  "comments": 67,
+  "featured": true,
+  "source": "api"
+}

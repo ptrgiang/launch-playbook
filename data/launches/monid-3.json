@@ -1,0 +1,23 @@
+{
+  "name": "Monid",
+  "slug": "monid-3",
+  "url": "https://www.producthunt.com/products/monid-3",
+  "launch_date": "2026-09-02",
+  "day_of_week": "Wednesday",
+  "category": null,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "tagline": "OpenRouter for agent tools",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 19,
+  "votes": 493,
+  "comments": 44,
+  "featured": true,
+  "source": "api"
+}

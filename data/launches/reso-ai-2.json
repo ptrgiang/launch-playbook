@@ -1,0 +1,23 @@
+{
+  "name": "ReSO AI",
+  "slug": "reso-ai-2",
+  "url": "https://www.producthunt.com/products/reso-ai-2",
+  "launch_date": "2026-10-10",
+  "day_of_week": "Saturday",
+  "category": null,
+  "topics": [
+    "SEO",
+    "Artificial Intelligence",
+    "Marketing automation"
+  ],
+  "tagline": "Get discovered & recommended when customers ask AI",
+  "tagline_formula": "verb-first",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 16,
+  "votes": 507,
+  "comments": 44,
+  "featured": true,
+  "source": "api"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Empacer",
+  "slug": "empacer",
+  "url": "https://www.producthunt.com/products/empacer",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "category": null,
+  "topics": [
+    "Productivity",
+    "SaaS",
+    "Artificial Intelligence"
+  ],
+  "tagline": " The voice-first assistant for small and medium businesses",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 20,
+  "votes": 488,
+  "comments": 84,
+  "featured": true,
+  "source": "api"
+}

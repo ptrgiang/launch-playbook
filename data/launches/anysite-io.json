@@ -1,0 +1,23 @@
+{
+  "name": "Anysite.io",
+  "slug": "anysite-io",
+  "url": "https://www.producthunt.com/products/anysite-io",
+  "launch_date": "2026-09-11",
+  "day_of_week": "Friday",
+  "category": null,
+  "topics": [
+    "Sales",
+    "Marketing",
+    "Developer Tools"
+  ],
+  "tagline": "Build and enrich B2B lists by chatting to your agent",
+  "tagline_formula": "number-led",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 18,
+  "votes": 497,
+  "comments": 164,
+  "featured": true,
+  "source": "api"
+}

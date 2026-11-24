@@ -1,0 +1,23 @@
+{
+  "name": "Clueso MCP",
+  "slug": "clueso-mcp-2",
+  "url": "https://www.producthunt.com/products/clueso-mcp-2",
+  "launch_date": "2026-09-22",
+  "day_of_week": "Tuesday",
+  "category": null,
+  "topics": [
+    "Artificial Intelligence",
+    "Animation",
+    "Video"
+  ],
+  "tagline": "Create and edit videos by chatting",
+  "tagline_formula": "verb-first",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 6,
+  "votes": 614,
+  "comments": 158,
+  "featured": true,
+  "source": "api"
+}

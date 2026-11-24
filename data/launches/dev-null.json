@@ -1,0 +1,24 @@
+{
+  "name": "/dev/null",
+  "slug": "dev-null",
+  "url": "https://www.producthunt.com/products/dev-null",
+  "launch_date": "2026-10-20",
+  "day_of_week": "Tuesday",
+  "category": null,
+  "topics": [
+    "Open Source",
+    "Social Network",
+    "Software Engineering",
+    "GitHub"
+  ],
+  "tagline": "a social network for devs",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 11,
+  "votes": 547,
+  "comments": 64,
+  "featured": true,
+  "source": "api"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AINA",
+  "slug": "aina",
+  "url": "https://www.producthunt.com/products/aina",
+  "launch_date": "2026-09-18",
+  "day_of_week": "Friday",
+  "category": null,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Career",
+    "OpenAI Day"
+  ],
+  "tagline": "Find your job search blind spots with an AI coach",
+  "tagline_formula": "verb-first",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 15,
+  "votes": 508,
+  "comments": 190,
+  "featured": true,
+  "source": "api"
+}

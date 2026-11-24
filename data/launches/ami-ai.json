@@ -1,0 +1,24 @@
+{
+  "name": "Ami AI",
+  "slug": "ami-ai",
+  "url": "https://www.producthunt.com/products/ami-ai",
+  "launch_date": "2026-09-18",
+  "day_of_week": "Friday",
+  "category": null,
+  "topics": [
+    "Sales",
+    "Marketing",
+    "Artificial Intelligence",
+    "OpenAI Day"
+  ],
+  "tagline": "Lovable for getting customers",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 1,
+  "votes": 704,
+  "comments": 217,
+  "featured": true,
+  "source": "api"
+}

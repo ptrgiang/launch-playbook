@@ -1,0 +1,24 @@
+{
+  "name": "beacon.sh",
+  "slug": "beacon-sh",
+  "url": "https://www.producthunt.com/products/beacon-sh",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "category": null,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "GitHub",
+    "SDK"
+  ],
+  "tagline": "Open-source self-improving memory for AI coding agents",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 14,
+  "votes": 522,
+  "comments": 132,
+  "featured": true,
+  "source": "api"
+}

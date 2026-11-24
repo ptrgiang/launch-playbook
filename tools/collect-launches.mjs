@@ -15,7 +15,7 @@
  * Output: data/launches/<slug>.json + data/launches/_index.json
  */
 
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, mkdirSync, readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -38,7 +38,11 @@ const DAYS = Number(arg("days", 90));
 const LIMIT = Number(arg("limit", 50));
 const SCRAPE_ONLY = args.includes("--scrape-only");
 const VERBOSE = args.includes("--verbose");
-const TOKEN = process.env.PH_API_TOKEN || arg("token", null);
+const TOKEN_FILE = arg("token-file", null);
+const TOKEN =
+  process.env.PH_API_TOKEN ||
+  arg("token", null) ||
+  (TOKEN_FILE ? readFileSync(TOKEN_FILE, "utf8").trim() : null);
 
 const log = (...m) => console.log(...m);
 const dbg = (...m) => VERBOSE && console.log("  ·", ...m);
@@ -46,14 +50,24 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // ---------- shared fetch ----------
 
-async function fetchJson(url, opts = {}, retries = 1) {
+async function fetchJson(url, opts = {}, retries = 6) {
   const res = await fetch(url, {
     ...opts,
     headers: { "User-Agent": UA, Accept: "application/json", ...(opts.headers || {}) },
   });
   if (res.status === 429 && retries > 0) {
-    log("  rate-limited, backing off 10s");
-    await sleep(10_000);
+    // PH returns {"error":"rate_limit_reached","details":{"reset_in":<sec>}} —
+    // sleeping exactly to reset beats blind exponential backoff.
+    let wait = 30_000 * (7 - retries); // fallback: 30s → 180s
+    try {
+      const body = await res.json();
+      // PH may return an object or a one-element array of errors.
+      const first = Array.isArray(body) ? body[0] : body;
+      const resetIn = first?.details?.reset_in;
+      if (typeof resetIn === "number" && resetIn > 0) wait = resetIn * 1000 + 3000;
+    } catch {}
+    dbg(`rate-limited, waiting ${Math.round(wait / 1000)}s for reset`);
+    await sleep(wait);
     return fetchJson(url, opts, retries - 1);
   }
   if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
@@ -106,6 +120,7 @@ function dayOfWeek(dateStr) {
 
 // ---------- GraphQL collector ----------
 
+// Light pass: scalars only, keeps GraphQL complexity under the 500k cap.
 const POSTS_QUERY = `query($after: DateTime, $before: DateTime, $first: Int, $cursor: String) {
   posts(postedAfter: $after, postedBefore: $before, first: $first, after: $cursor) {
     edges {
@@ -119,20 +134,58 @@ const POSTS_QUERY = `query($after: DateTime, $before: DateTime, $first: Int, $cu
         commentsCount
         createdAt
         featuredAt
-        topics(first: 5) { edges { node { name } } }
-        makers(first: 5) { edges { node { username } } }
-        comments(first: 5) { edges { node { body user { username } } } }
       }
     }
     pageInfo { hasNextPage endCursor }
   }
 }`;
 
+// Heavy pass: per-post details, only for shortlisted candidates.
+const POST_QUERY = `query($slug: String!) {
+  post(slug: $slug) {
+    topics(first: 5) { edges { node { name } } }
+    makers { username }
+    comments(first: 5) { edges { node { body user { username } } } }
+  }
+}`;
+
+async function apiPost(slug) {
+  const data = await fetchJson(API_URL, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${TOKEN}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ query: POST_QUERY, variables: { slug } }),
+  });
+  if (data.errors) throw new Error(`GraphQL post ${slug}: ${JSON.stringify(data.errors[0])}`);
+  return data.data.post || {};
+}
+
+// Fast path: one VOTES-ordered query over the whole window → top N in a
+// single request. Falls back to day iteration if `order: VOTES` is rejected.
+async function apiTop(days, limit) {
+  const [after] = pstDayBoundsUTC(days[days.length - 1]);
+  const [, before] = pstDayBoundsUTC(days[0]);
+  const data = await fetchJson(API_URL, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${TOKEN}`, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      query: `query($after: DateTime, $before: DateTime, $first: Int) {
+        posts(postedAfter: $after, postedBefore: $before, first: $first, order: VOTES) {
+          edges { node { id name slug tagline url votesCount commentsCount createdAt featuredAt } }
+          pageInfo { hasNextPage }
+        }
+      }`,
+      variables: { after, before, first: limit },
+    }),
+  });
+  if (data.errors) throw new Error(`GraphQL: ${JSON.stringify(data.errors[0])}`);
+  return data.data.posts.edges.map((e) => e.node);
+}
+
 async function apiDay(dateStr) {
   const [after, before] = pstDayBoundsUTC(dateStr);
   const posts = [];
   let cursor = null;
-  for (let page = 0; page < 10; page++) {
+  for (let page = 0; page < 6; page++) {
     const data = await fetchJson(API_URL, {
       method: "POST",
       headers: { Authorization: `Bearer ${TOKEN}`, "Content-Type": "application/json" },
@@ -146,7 +199,7 @@ async function apiDay(dateStr) {
     posts.push(...conn.edges.map((e) => e.node));
     if (!conn.pageInfo.hasNextPage) break;
     cursor = conn.pageInfo.endCursor;
-    await sleep(300);
+    await sleep(1500); // PH rate limit is the binding constraint
   }
   return posts;
 }
@@ -199,7 +252,7 @@ function classifyTagline(t) {
 
 function findMakerComment(node) {
   const makers = new Set(
-    (node.makers?.edges || []).map((e) => e.node?.username).filter(Boolean)
+    (node.makers || []).map((m) => m?.username || m?.node?.username).filter(Boolean)
   );
   if (makers.size === 0) return null;
   for (const e of node.comments?.edges || []) {
@@ -255,6 +308,18 @@ async function main() {
   const useApi = TOKEN && !SCRAPE_ONLY;
   let failures = 0;
 
+  if (useApi) {
+    try {
+      const top = await apiTop(days, LIMIT);
+      log(`  fast path: got ${top.length} posts in one query`);
+      const all = new Map(top.map((p) => [p.slug, p]));
+      await enrichAndWrite([...all.values()], "api");
+      return;
+    } catch (e) {
+      log(`  fast path failed (${e.message}) — falling back to day iteration`);
+    }
+  }
+
   for (const day of days) {
     try {
       const posts = useApi ? await apiDay(day) : await scrapeDay(day);
@@ -268,19 +333,36 @@ async function main() {
         process.exit(1);
       }
     }
-    await sleep(useApi ? 400 : 1200); // be polite to PH
+    await sleep(useApi ? 1500 : 1200); // be polite to PH
   }
 
-  const sorted = [...all.values()].sort(
+  await enrichAndWrite([...all.values()], useApi ? "api" : "scraped", days.length - failures);
+}
+
+async function enrichAndWrite(posts, source, daysHit = null) {
+  const sorted = posts.sort(
     (a, b) => (b.votesCount ?? b.votes_count ?? 0) - (a.votesCount ?? a.votes_count ?? 0)
   );
   const top = sorted.slice(0, LIMIT);
+
+  // Heavy pass: topics/makers/first-comments for shortlisted posts only.
+  if (source === "api") {
+    log(`enriching top ${top.length} posts…`);
+    for (const node of top) {
+      try {
+        Object.assign(node, await apiPost(node.slug));
+      } catch (e) {
+        dbg(`enrich ${node.slug}: ${e.message}`);
+      }
+      await sleep(2000); // stay under PH rate limit
+    }
+  }
 
   mkdirSync(OUT_DIR, { recursive: true });
   const index = [];
 
   top.forEach((node, i) => {
-    const rec = normalize(node, useApi ? "api" : "scraped");
+    const rec = normalize(node, source);
     rec.rank = i + 1;
     writeFileSync(join(OUT_DIR, `${rec.slug}.json`), JSON.stringify(rec, null, 2) + "\n");
     index.push({
@@ -297,8 +379,7 @@ async function main() {
 
   writeFileSync(join(OUT_DIR, "_index.json"), JSON.stringify(index, null, 2) + "\n");
 
-  const daysHit = days.length - failures;
-  log(`\nwrote ${top.length} launches → data/launches/ (from ${all.size} posts across ${daysHit} days)`);
+  log(`\nwrote ${top.length} launches → data/launches/ (from ${posts.length} posts${daysHit != null ? ` across ${daysHit} days` : ""})`);
   log(`  featured: ${top.filter((p) => p.featuredAt != null || p.featured_at != null).length}/${top.length}`);
   log(`  note: tagline_formula is a heuristic guess; gallery_first_card/category need agent enrichment`);
 }

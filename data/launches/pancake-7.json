@@ -1,0 +1,23 @@
+{
+  "name": "Pancake",
+  "slug": "pancake-7",
+  "url": "https://www.producthunt.com/products/pancake-7",
+  "launch_date": "2026-10-14",
+  "day_of_week": "Wednesday",
+  "category": null,
+  "topics": [
+    "Sales",
+    "Marketing",
+    "Artificial Intelligence"
+  ],
+  "tagline": "The Vercel for GTM",
+  "tagline_formula": "outcome-for-audience",
+  "maker_comment_shape": "none",
+  "maker_comment_excerpt": null,
+  "gallery_first_card": null,
+  "rank": 5,
+  "votes": 614,
+  "comments": 72,
+  "featured": true,
+  "source": "api"
+}
