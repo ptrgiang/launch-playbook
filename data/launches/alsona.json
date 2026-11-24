@@ -4,7 +4,7 @@
   "url": "https://www.producthunt.com/products/alsona",
   "launch_date": "2026-11-10",
   "day_of_week": "Tuesday",
-  "category": null,
+  "category": "Sales AI",
   "topics": [
     "Sales",
     "SaaS",
@@ -14,10 +14,21 @@
   "tagline_formula": "other",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "cream card: headline 'Find who's ready to buy this week.' with highlighted keyphrase + 'for founders and small teams' subhead + prospect signal card (posted SDR role, competitor comment, raised Series A) with LIVE badge",
   "rank": 8,
   "votes": 554,
   "comments": 132,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format",
+    "https://ph-files.imgix.net/8ac4f287-b3cd-45b2-94f4-500d4fdccddb.png?auto=format",
+    "https://ph-files.imgix.net/1391244d-10f2-40ea-b223-454f80dcab08.png?auto=format",
+    "https://ph-files.imgix.net/1658d611-b1b5-4d6e-9c14-bd7c776b75d0.png?auto=format",
+    "https://ph-files.imgix.net/ea43c337-49dd-4a52-8f99-db326441d331.png?auto=format",
+    "https://ph-files.imgix.net/798236a1-2ac2-4ab9-9851-d0be572c5f32.png?auto=format",
+    "https://ph-files.imgix.net/0958c78b-3e0a-428f-b812-b6dedf072bb0.png?auto=format",
+    "https://ph-files.imgix.net/49c351ff-b607-4083-b43a-76542b9a31f0.png?auto=format",
+    "https://ph-files.imgix.net/2fcf79da-436f-477f-b0dc-38cc182425d9.png?auto=format"
+  ]
 }

@@ -4,7 +4,7 @@
   "url": "https://www.producthunt.com/products/aina",
   "launch_date": "2026-09-18",
   "day_of_week": "Friday",
-  "category": null,
+  "category": "Career / AI coach",
   "topics": [
     "Productivity",
     "Artificial Intelligence",
@@ -15,10 +15,21 @@
   "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
-  "gallery_first_card": null,
+  "gallery_first_card": "brand-blue card: two-line headline 'Talk to your AI coach. Get a real plan.' + audience subhead + video-call UI screenshot with AI avatar and meeting-history panel",
   "rank": 15,
   "votes": 508,
   "comments": 190,
   "featured": true,
-  "source": "api"
+  "source": "api",
+  "media_urls": [
+    "https://ph-files.imgix.net/9a1a05de-b67b-46ad-9bc1-8c033ac6b1ea.png?auto=format",
+    "https://ph-files.imgix.net/ede786c2-b4b7-4243-aa73-650e48391740.png?auto=format",
+    "https://ph-files.imgix.net/e2d9a06a-24d9-42d4-b7c8-5567a385700f.png?auto=format",
+    "https://ph-files.imgix.net/6ba14827-f73a-4a54-ae69-1fc9a24e736c.png?auto=format",
+    "https://ph-files.imgix.net/d3701870-8080-470e-b4bf-a73913d71c0a.png?auto=format",
+    "https://ph-files.imgix.net/2d63e025-b783-42e2-8da9-37f43ae46fba.png?auto=format",
+    "https://ph-files.imgix.net/222e8b3b-c9de-4b4a-aa02-410b4f6c532e.png?auto=format",
+    "https://ph-files.imgix.net/55df9cdf-5dae-4783-bf31-05924acfd603.png?auto=format",
+    "https://ph-files.imgix.net/dde60c1c-ad3d-49d1-b0e7-cea1a5c23a6e.jpeg?auto=format"
+  ]
 }

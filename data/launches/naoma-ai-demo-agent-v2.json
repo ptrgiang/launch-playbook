@@ -4,14 +4,14 @@
   "url": "https://www.producthunt.com/products/naoma-ai-demo-agent-v2",
   "launch_date": "2026-09-14",
   "day_of_week": "Monday",
-  "category": null,
+  "category": "Sales AI / automation",
   "topics": [
     "Sales",
     "Marketing",
     "Marketing automation"
   ],
   "tagline": "Turns website traffic into booked, qualified meetings",
-  "tagline_formula": "other",
+  "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
   "gallery_first_card": null,

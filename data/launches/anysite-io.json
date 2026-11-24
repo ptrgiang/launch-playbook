@@ -4,14 +4,14 @@
   "url": "https://www.producthunt.com/products/anysite-io",
   "launch_date": "2026-09-11",
   "day_of_week": "Friday",
-  "category": null,
+  "category": "Sales data / dev tools",
   "topics": [
     "Sales",
     "Marketing",
     "Developer Tools"
   ],
   "tagline": "Build and enrich B2B lists by chatting to your agent",
-  "tagline_formula": "number-led",
+  "tagline_formula": "verb-first",
   "maker_comment_shape": "none",
   "maker_comment_excerpt": null,
   "gallery_first_card": null,
