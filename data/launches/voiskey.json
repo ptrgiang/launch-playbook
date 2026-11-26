@@ -12,8 +12,8 @@
   ],
   "tagline": "AI voice typing that sounds right in every app",
   "tagline_formula": "other",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt, I'm Jenny, from the Voiskey team. We started this because of the same wall we kept hitting - AI dictation still isn't truly edit-free. The text comes out polished, and a lot of the time sanded flat: a message to a friend comes back like a memo, or a note to a colleague comes back like a template. None of it sounds like you, so you have to go back in and manually re-edit it before you send it. That's what Voiskey is built around. We called it \"expression intelligence\". Voiskey do",
   "gallery_first_card": "mint card: headline 'AI voice typing that gets what you meant' + laptop mockup of Gmail compose showing dictation with strikethrough auto-correction ('thursday—I mean Friday') + floating voice pill",
   "rank": 13,
   "votes": 535,
@@ -82,5 +82,20 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 24,
+  "maker_comment_count": 1,
+  "points": 535,
+  "daily_rank": 2,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

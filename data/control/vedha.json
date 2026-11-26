@@ -1,0 +1,14 @@
+{
+  "name": "Vedha",
+  "slug": "vedha",
+  "url": "https://www.producthunt.com/products/vedha",
+  "launch_date": "2026-11-11",
+  "day_of_week": "Wednesday",
+  "tagline": "Playwright tests that fail on silent 500s",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

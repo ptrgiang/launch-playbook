@@ -1,0 +1,14 @@
+{
+  "name": "Mountkeeper",
+  "slug": "mountkeeper",
+  "url": "https://www.producthunt.com/products/mountkeeper",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Your Mac's SMB network shares, one command away",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

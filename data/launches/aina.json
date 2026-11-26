@@ -13,8 +13,8 @@
   ],
   "tagline": "Find your job search blind spots with an AI coach",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "👋 Hey Product Hunt! I'm Natallia, founder of AINA! After 10+ years around hiring, HR tech, and operations, I kept seeing the same problem from the candidate side: people can be great at what they do and still have very little clarity on why their job search isn’t moving, how recruiters actually perceive their profile, or what they should change before the next interview. That’s what we built AINA for🫶 AINA is an AI career companion that you can actually talk to. Tell it where you are in your c",
   "gallery_first_card": null,
   "rank": 15,
   "votes": 508,
@@ -93,5 +93,20 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 25,
+  "maker_comment_count": 6,
+  "points": 510,
+  "daily_rank": 2,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 4,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": 1000000,
+  "funding_rounds": 1,
+  "is_bootstrapped": false,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "GitThul",
+  "slug": "gitthul",
+  "url": "https://www.producthunt.com/products/gitthul",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "A free, open-source Git GUI with an integrated terminal",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

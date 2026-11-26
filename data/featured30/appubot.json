@@ -1,0 +1,14 @@
+{
+  "name": "AppuBot",
+  "slug": "appubot",
+  "url": "https://www.producthunt.com/products/appubot",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Grok Bot alternative that runs on your AI, completely free",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 86,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

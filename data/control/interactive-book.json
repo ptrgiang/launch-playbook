@@ -1,0 +1,14 @@
+{
+  "name": "Interactive Book",
+  "slug": "interactive-book",
+  "url": "https://www.producthunt.com/products/interactive-book",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Learn by doing: books with labs, quizzes and a tutor",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

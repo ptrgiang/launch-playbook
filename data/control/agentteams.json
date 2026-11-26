@@ -10,5 +10,22 @@
   "votes": 28,
   "comments": 10,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt! 👋 I'm Susanne from the AgentTeams team. We built AgentTeams because most AI tools still feel like tools: you prompt, copy, paste, repeat. We wanted AI that works the way a great teammate does: you hire it for a role, give it context, and it gets on with the job. With AgentTeams you can: Hire AI agents for specific roles: support, engineering, marketing and more Organize them into teams that work together like virtual employees Manage and track their work in one place We'd love",
+  "maker_comment_votes": 8,
+  "maker_comment_count": 2,
+  "points": 28,
+  "daily_rank": 39,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 1,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

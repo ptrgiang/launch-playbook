@@ -12,8 +12,8 @@
   ],
   "tagline": "Fast, structured AI decisions for software automation",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey PH community 👋 Excited to hunt Jev today. Jev from Typesafe is taking over the tech community like the first launches of ChatGPT, Claude Code, and the drops that made everyone stop and rebuild what they were shipping. Jev is now open to everyone. No waitlist. Start in the console: https://console.typesafe.ai Jev is TypeSafe AI's System One model for typed decisions, not chat. You send unstructured state and get Choice, Score, and Noul answers with calibrated probabilities your software can ",
   "gallery_first_card": "dark card: raw product screenshot — TypeSafe console login screen ('Welcome to TypeSafe', Google/email sign-in) in browser chrome on pixel-art background — no pitch text (weak first card)",
   "rank": 7,
   "votes": 604,
@@ -61,5 +61,23 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 8,
+  "maker_comment_count": 1,
+  "points": 605,
+  "daily_rank": 2,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 17,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": 40000000,
+  "funding_rounds": 1,
+  "is_bootstrapped": false,
+  "investors": [
+    "DCVC",
+    "AWS Generative AI Accelerator"
+  ],
+  "maker_comment_by": "hunter"
 }

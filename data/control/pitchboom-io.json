@@ -10,5 +10,22 @@
   "votes": 41,
   "comments": 4,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt, I'm Arsène, a solo founder in Paris. pitchboom turns your product page into a motion-design video ad. Paste a URL, or two lines about what you sell: it writes the script and a storyboard you edit and approve for free. Only then does it record the voice-over, add music and render the MP4 in 16:9, 9:16, 1:1, 4:5 or 3:4, recomposed for each feed, not cropped. The video on this page was made with it, in Cinema (its directed-film quality). I replaced the script on the concept board w",
+  "maker_comment_votes": 3,
+  "maker_comment_count": 1,
+  "points": 41,
+  "daily_rank": 34,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

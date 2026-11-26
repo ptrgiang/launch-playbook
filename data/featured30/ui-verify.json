@@ -1,0 +1,14 @@
+{
+  "name": "UI Verify",
+  "slug": "ui-verify",
+  "url": "https://www.producthunt.com/products/ui-verify",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Visual testing for coding agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 107,
+  "comments": 33,
+  "featured": true,
+  "source": "api"
+}

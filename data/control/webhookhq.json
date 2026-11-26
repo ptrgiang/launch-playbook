@@ -1,0 +1,14 @@
+{
+  "name": "WebhookHQ",
+  "slug": "webhookhq",
+  "url": "https://www.producthunt.com/products/webhookhq",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Capture, debug and deliver webhooks",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

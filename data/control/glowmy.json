@@ -1,0 +1,14 @@
+{
+  "name": "Glowmy",
+  "slug": "glowmy",
+  "url": "https://www.producthunt.com/products/glowmy",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Live desktop effects for Windows: Matrix, CRT, 3D & music",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

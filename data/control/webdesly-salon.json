@@ -1,0 +1,14 @@
+{
+  "name": "Webdesly Salon",
+  "slug": "webdesly-salon",
+  "url": "https://www.producthunt.com/products/webdesly-salon",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "Private collections and appointments for luxury boutiques",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

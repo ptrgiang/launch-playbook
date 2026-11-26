@@ -12,8 +12,8 @@
   ],
   "tagline": "Video model that turns script into viral social media videos",
   "tagline_formula": "other",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunters! 👋 I'm Long, CEO of Spira AI. Third time launching here in the past few months, feeling good to be back again :) After our last two launches here I kept hitting the same wall: AI can generate a clip in seconds, but turning it into something you'd post still means opening an editor. Pick a presenter, cut in B-roll, fix the captions, find music. Generation got cheap. Finishing didn't, and finishing is where everyone quietly gives up and posts slop. That's why we trained Spira ",
   "gallery_first_card": "dark card: headline 'Turn scripts into viral social media videos' + 3 phone-frame mockups of generated TikTok-style videos with text overlays",
   "rank": 2,
   "votes": 693,
@@ -91,5 +91,8 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 26,
+  "maker_comment_count": 2,
+  "maker_comment_by": "maker"
 }

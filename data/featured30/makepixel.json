@@ -1,0 +1,14 @@
+{
+  "name": "MakePixel",
+  "slug": "makepixel",
+  "url": "https://www.producthunt.com/products/makepixel",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Pixel art editor for game sprites, tilesets and maps",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 84,
+  "comments": 3,
+  "featured": true,
+  "source": "api"
+}

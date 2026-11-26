@@ -1,0 +1,14 @@
+{
+  "name": "ForAgent",
+  "slug": "foragent",
+  "url": "https://www.producthunt.com/products/foragent",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Private phone numbers so AI agents can call each other",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 84,
+  "comments": 1,
+  "featured": true,
+  "source": "api"
+}

@@ -10,5 +10,10 @@
   "votes": 36,
   "comments": 13,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt! I’m Charan from QApilot. Today we’re launching QApilot Go, a Play policy checker for Android apps. → https://qapilot.io/play-policy-checker Upload an APK or pick your app from the Play Store. We crawl it, scan the build, and email you what would get you rejected. The specifics before you click: Android and Google Play only. 60+ rules across privacy, permissions, target API, SDKs, ads, content and store listing. Report in your inbox within the hour. Just an email, no account. No",
+  "maker_comment_votes": 25,
+  "maker_comment_count": 5,
+  "maker_comment_by": "maker"
 }

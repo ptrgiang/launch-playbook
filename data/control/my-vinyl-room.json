@@ -1,0 +1,14 @@
+{
+  "name": "MY VINYL ROOM",
+  "slug": "my-vinyl-room",
+  "url": "https://www.producthunt.com/products/my-vinyl-room",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Your personal digital vinyl collection",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

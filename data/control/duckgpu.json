@@ -1,0 +1,14 @@
+{
+  "name": "DuckGPU",
+  "slug": "duckgpu",
+  "url": "https://www.producthunt.com/products/duckgpu",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "$1.29/hour. Pay for time, not per generation.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

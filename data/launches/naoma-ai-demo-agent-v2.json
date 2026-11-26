@@ -12,8 +12,8 @@
   ],
   "tagline": "Turns website traffic into booked, qualified meetings",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunters 👋 Last time we launched Naoma here as an AI demo agent, and you made it #1 Product of the Day and #1 Product of the Month in Marketing. That launch is the reason everything below exists, so: thank you. Since then the agent has run 50,000 live demos on real B2B SaaS products - UXPressia, Hoteza, AiSDR and others - in 33 languages, at every hour of the day. Three things we didn't expect: 1. Nobody actually wanted more demos. They wanted fewer unqualified ones. The demo was nev",
   "gallery_first_card": "dark purple card: headline 'Skip the form. Get the demo now.' + 'AI ACCOUNT EXECUTIVE' tag + PH '#1 Product of the Day' badge tile + '50,000+ AI demos delivered' + live-demo product screenshot",
   "rank": 9,
   "votes": 552,
@@ -79,5 +79,8 @@
       "launches_before_this": 1,
       "featured_before": 1
     }
-  ]
+  ],
+  "maker_comment_votes": 33,
+  "maker_comment_count": 3,
+  "maker_comment_by": "maker"
 }

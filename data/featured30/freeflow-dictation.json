@@ -1,0 +1,14 @@
+{
+  "name": "FreeFlow Dictation",
+  "slug": "freeflow-dictation",
+  "url": "https://www.producthunt.com/products/freeflow-dictation",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "On-device Mac dictation with a Claude Code voice hook",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 66,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

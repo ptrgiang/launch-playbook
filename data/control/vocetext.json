@@ -1,0 +1,14 @@
+{
+  "name": "VoceText",
+  "slug": "vocetext",
+  "url": "https://www.producthunt.com/products/vocetext",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Turn audio and video into transcripts and subtitles",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

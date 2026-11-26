@@ -1,0 +1,14 @@
+{
+  "name": "Coffee",
+  "slug": "coffee-10",
+  "url": "https://www.producthunt.com/products/coffee-10",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "A quiet Markdown editor for Mac, with sums in your notes",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 107,
+  "comments": 11,
+  "featured": true,
+  "source": "api"
+}

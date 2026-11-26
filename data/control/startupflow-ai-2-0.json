@@ -10,5 +10,10 @@
   "votes": 58,
   "comments": 18,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "The worst email a founder gets isn't a \"no\". It's \"we only accept US-incorporated companies,\" after you spent your evening on the application. Hi Product Hunt 👋 That email is why we built StartupFlow AI, and today we're back with 2.0. It finds the cloud credits, AI credits and accelerators you actually qualify for: 🧭 Rules first, AI second. Your country, stage and funding are checked against each program's rules in code. AI only ranks what you already clear. 💬 Every match comes with a score a",
+  "maker_comment_votes": 6,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

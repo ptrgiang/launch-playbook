@@ -12,8 +12,8 @@
   ],
   "tagline": "Sell and grow your AI built products",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt 👋 I'm Gabriel, CEO and co-founder of Creem. We picked today on purpose. September 17 is Creem's founding anniversary, so shipping Creem 2.0 on the same day felt right. The thesis in three lines: Building a product went from months to a weekend. Getting paid for it did not. As AI collapses the cost of building, the winners are the ones who monetize and grow fastest, not the ones who code fastest. So we took the merchant of record and turned it into a full commerce surface: check",
   "gallery_first_card": "cream card: 'AFFILIATES' pill + headline 'Flexible commission per product' + subhead + illustrated sale-split diagram ($200 sale → Alice 75%/$150, James 25%/$50) + CREEM logo",
   "rank": 4,
   "votes": 630,
@@ -159,5 +159,8 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 59,
+  "maker_comment_count": 7,
+  "maker_comment_by": "maker"
 }

@@ -12,8 +12,8 @@
   ],
   "tagline": "Build and enrich B2B lists by chatting to your agent",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Want to pull any B2B data straight into your AI agent? Now you can. Today we’re launching http://Anysite.io — a live outbound data layer built right into your AI agent via MCP or API. • Find ICP companies across 50 countries? Done. • Enrich these companies with website and media data? Done. • Find people from these companies on social and get their emails? Done. • Enrich leads with live signals? Done. • Build repeatable workflows? Done. 650+ sources. 3500+ endpoints.&nbsp; Seamless and cost-effi",
   "gallery_first_card": "dark card: 'WORKS IN' agent pills (Claude, Codex, Cursor, Manus, Antigravity) + headline 'Live B2B data inside your AI-agent. One prompt away' + 6 data-type tiles (Companies, People, Emails, Phone Numbers, Enrichment, Signals)",
   "rank": 18,
   "votes": 497,
@@ -68,5 +68,8 @@
       "launches_before_this": 2,
       "featured_before": 2
     }
-  ]
+  ],
+  "maker_comment_votes": 9,
+  "maker_comment_count": 4,
+  "maker_comment_by": "maker"
 }

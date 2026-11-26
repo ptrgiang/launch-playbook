@@ -1,0 +1,14 @@
+{
+  "name": "Yogurt",
+  "slug": "yogurt",
+  "url": "https://www.producthunt.com/products/yogurt",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Free, private, open-source alternative to Granola",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 105,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

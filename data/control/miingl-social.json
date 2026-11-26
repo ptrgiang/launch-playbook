@@ -10,5 +10,22 @@
   "votes": 55,
   "comments": 3,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Why I built this As a founder of miingl, our interactive livestream app, I was spending most of my time on content instead of the product. I’d generate posts in AI tools, then copy and paste them into Hootsuite, Zoho Social or Buffer. Those tools are good at scheduling, but none of them told me what to post or when to post it. I was the strategy, the writer and the scheduler, every single week. So I built a process to generate content directly into time slots on a calendar. Each slot knew where ",
+  "maker_comment_votes": 4,
+  "maker_comment_count": 1,
+  "points": 55,
+  "daily_rank": 22,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

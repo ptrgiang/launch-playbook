@@ -1,0 +1,14 @@
+{
+  "name": "Co-Review",
+  "slug": "co-review-2",
+  "url": "https://www.producthunt.com/products/co-review-2",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Read the whole repository with the agent that built it",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 103,
+  "comments": 13,
+  "featured": true,
+  "source": "api"
+}

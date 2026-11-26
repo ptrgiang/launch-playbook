@@ -1,0 +1,14 @@
+{
+  "name": "Webdesly Club",
+  "slug": "webdesly-club",
+  "url": "https://www.producthunt.com/products/webdesly-club",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Membership, events and check-in for private clubs",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -10,5 +10,22 @@
   "votes": 33,
   "comments": 17,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt 👋 I’m Mohamed, the maker of Oya Browser. Oya gives your AI agent a real browser that’s already signed in to your accounts. Connect it to Claude Code, Cursor, Codex or any MCP client in 30 seconds. 🔐 Your real sessions. The agent works in your logged-in profiles, so no passwords in prompts. 🙋 Human Mode. Watch any run live, take over for 2FA or SSO, then hand it back. ⚡ Record once, replay free. Replays make zero LLM calls, or export them as Playwright code. 🏥 Built for produ",
+  "maker_comment_votes": 7,
+  "maker_comment_count": 2,
+  "points": 34,
+  "daily_rank": 47,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Ownkube",
+  "slug": "ownkube",
+  "url": "https://www.producthunt.com/products/ownkube",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Deploy apps from your coding agent with one prompt",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 66,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

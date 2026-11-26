@@ -1,0 +1,14 @@
+{
+  "name": "Neighbster",
+  "slug": "neighbster",
+  "url": "https://www.producthunt.com/products/neighbster",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "Post a job at your price, or claim jobs near you",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

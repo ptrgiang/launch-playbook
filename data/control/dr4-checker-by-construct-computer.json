@@ -10,5 +10,22 @@
   "votes": 27,
   "comments": 2,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt, Ankush here, cofounder of Construct Computer 👋 On November 5 Ahrefs announced DR4, a new Domain Rating model that goes live on December 1. I wanted to know what it would do to our own site, so I built a checker that asks Ahrefs' API for both versions and shows them side by side. Our own website https://construct.computer goes from 41 to 11, which stung us a bit. My old github.io blog goes from 94 to 10, because DR3 gave every subdomain its host's score and DR4 rates it on its ",
+  "maker_comment_votes": 2,
+  "maker_comment_count": 1,
+  "points": 27,
+  "daily_rank": 48,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

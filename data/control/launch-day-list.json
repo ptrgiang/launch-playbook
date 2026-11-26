@@ -1,0 +1,14 @@
+{
+  "name": "Launch Day List",
+  "slug": "launch-day-list",
+  "url": "https://www.producthunt.com/products/launch-day-list",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Attention, auctioned by the day. 100% share of voice.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

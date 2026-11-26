@@ -10,5 +10,22 @@
   "votes": 32,
   "comments": 5,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt, I'm Umesh, founder of Vibhaga Group. Dictate Safe began with our own clients. Their data is not allowed to leave their own systems, so their teams could not use the usual dictation apps. We built one where the speech engine runs on your own computer, and what you dictate never reaches us. Hold a key, talk, and the words are typed into whatever you are using: email, chat, a document, or the prompt box of your AI tool. By default nothing is uploaded and there is no telemetry. It w",
+  "maker_comment_votes": 2,
+  "maker_comment_count": 1,
+  "points": 32,
+  "daily_rank": 40,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

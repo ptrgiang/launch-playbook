@@ -10,5 +10,10 @@
   "votes": 31,
   "comments": 9,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt! Stephen here, solo founder of Pattern and a content creator myself. We first launched here in May. Since then 300+ creators have signed up, and their feedback changed the product a lot, and I'm excited to share the new version with you! What's new: • Draft review: upload your video before you post and see what to fix while you still can • Competitor analysis: paste any viral video link from your niche and Pattern breaks down why it worked, then turns it into ideas that fit your",
+  "maker_comment_votes": 2,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

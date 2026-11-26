@@ -1,0 +1,14 @@
+{
+  "name": "Omnigraph",
+  "slug": "omnigraph",
+  "url": "https://www.producthunt.com/products/omnigraph",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Open source graph database for your AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 309,
+  "comments": 36,
+  "featured": true,
+  "source": "api"
+}

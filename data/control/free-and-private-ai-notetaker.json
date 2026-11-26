@@ -10,5 +10,10 @@
   "votes": 35,
   "comments": 91,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt! 👋 We built Bookipi AI Notetaker because we wanted a meeting notetaker that’s free, local and private, and actually nice to use. The ones we tried either sent everything to the cloud or felt clunky, so we made our own. 💸 Free. There’s no subscription and no limits on meetings. You get every feature without paying anything. 💻 Local. Recording, transcription and summaries all happen on your device. No bot joins your call, and you don’t have to upload anything. 🔒 Private. Your ",
+  "maker_comment_votes": 25,
+  "maker_comment_count": 6,
+  "maker_comment_by": "maker"
 }

@@ -10,5 +10,10 @@
   "votes": 51,
   "comments": 10,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi! I’m Konstantin, maker of http://Blooper.ai, an AI video production workspace for professional creative teams. Making one AI video is easy. Making many that stay consistent is hard, and it’s even harder to get the AI to remember every decision and every piece of client feedback. That’s what Blooper is for. Everything lives in one project: your assets, references, images, videos and, most importantly, your decisions. Each new project builds on your team’s creative memory and reuses past work a",
+  "maker_comment_votes": 6,
+  "maker_comment_count": 3,
+  "maker_comment_by": "maker"
 }

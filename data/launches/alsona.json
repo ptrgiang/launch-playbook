@@ -12,8 +12,8 @@
   ],
   "tagline": "AI agents that turn buying signals into booked sales calls",
   "tagline_formula": "other",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt, I’m Jaclyn, co-founder and CEO of Alsona. Alsona finds the companies that are in market right now, so you can reach them before your competitors even know they’re looking. We built it for people who do their own outbound and secretly hate it. If your current strategy is buying a list and hoping somebody on it needs you this week, hi, this is for you. Quick confession: our team built the first cloud-based LinkedIn automation platform and sold it back in 2021. So yeah, we’re part",
   "gallery_first_card": "cream card: headline 'Find who's ready to buy this week.' with highlighted keyphrase + 'for founders and small teams' subhead + prospect signal card (posted SDR role, competitor comment, raised Series A) with LIVE badge",
   "rank": 8,
   "votes": 554,
@@ -82,5 +82,20 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 21,
+  "maker_comment_count": 1,
+  "points": 559,
+  "daily_rank": 1,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 8,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

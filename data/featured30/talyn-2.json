@@ -1,0 +1,14 @@
+{
+  "name": "Talyn",
+  "slug": "talyn-2",
+  "url": "https://www.producthunt.com/products/talyn-2",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "Run Claude Code and Codex in parallel cloud sandboxes",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 157,
+  "comments": 27,
+  "featured": true,
+  "source": "api"
+}

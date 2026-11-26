@@ -1,0 +1,14 @@
+{
+  "name": "Glassmail",
+  "slug": "glassmail",
+  "url": "https://www.producthunt.com/products/glassmail",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "A fast Mac email app with AI that never leaves your Mac",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 163,
+  "comments": 19,
+  "featured": true,
+  "source": "api"
+}

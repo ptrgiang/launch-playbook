@@ -13,8 +13,8 @@
   ],
   "tagline": "From issue to production, run by agents.",
   "tagline_formula": "other",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Alex from the video here 👋🏻 If you’re not familiar, Mastra is a TypeScript framework for building AI agents. We used Mastra to build Mastra Factory, and now we’re using Factory to build Mastra. It’s already writing more than 25% of our pull requests! Building agents is what we do at Mastra, and we’re invested in making this better. But most teams just want to build their product, not take on building and maintaining a factory too. That’s why we’re sharing ours. With Mastra Factory, you can own",
   "gallery_first_card": "black card: headline 'Build with an agent factory' + description + 'Sign in with Mastra Platform' button + abstract dotted pipeline columns (Intake/Build/Review/Ship)",
   "rank": 10,
   "votes": 547,
@@ -149,5 +149,8 @@
       "launches_before_this": 1,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 12,
+  "maker_comment_count": 7,
+  "maker_comment_by": "maker"
 }

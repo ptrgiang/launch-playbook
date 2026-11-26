@@ -12,8 +12,8 @@
   ],
   "tagline": "Auth, billing, and payments for AI builders",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt! 👋 I’m Nikolaos, one of the founders of tiun. AI tools now let one builder ship what once required an entire product team. The obvious gain is speed, but turning that product into a business still requires several systems that were never designed to work together. We saw this across 150+ founder conversations: You build the core product in days, then spend weeks connecting auth, payments, billing, and analytics. The Problem with \"Best-in-Class\" Tool Stacks: ❌ Sync Chaos: Every t",
   "gallery_first_card": "black minimal card: headline 'One backend. Sufficient to power your entire business.' + isometric layered cube + capability list (Authentication, Billing/Payments, Customer Database, Analytics)",
   "rank": 3,
   "votes": 633,
@@ -71,5 +71,27 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 10,
+  "maker_comment_count": 2,
+  "points": 636,
+  "daily_rank": 1,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 1,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": 2500000,
+  "funding_rounds": 1,
+  "is_bootstrapped": false,
+  "investors": [
+    "Founderful",
+    "Blue Wire Capital",
+    "Maximilian Lehmann (a16z Scout)",
+    "Founderful Campus",
+    "SICTIC",
+    "Maximilian Lehmann"
+  ],
+  "maker_comment_by": "maker"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Bubble5",
+  "slug": "bubble5",
+  "url": "https://www.producthunt.com/products/bubble5",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "AI chat assistant that answers from your own information",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

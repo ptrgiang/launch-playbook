@@ -1,0 +1,14 @@
+{
+  "name": "ImageReveal",
+  "slug": "imagereveal",
+  "url": "https://www.producthunt.com/products/imagereveal",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "100 image reveals for React portfolios and landing pages",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

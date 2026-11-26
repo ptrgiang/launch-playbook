@@ -10,5 +10,22 @@
   "votes": 30,
   "comments": 1,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt, I'm Reji, maker of COKIQ (from Hostao). We built COKIQ for Indian site owners getting ready for the DPDP Act, who need to know one thing first: what does my site load before a visitor says yes? COKIQ scans the page, holds trackers until a visitor chooses, and keeps dated consent records you can export. It has an India DPDP Act banner profile, prices in INR and a free plan for one site. EU/UK and US profiles are included too. Try the free checker on your own site (no sign-up) and",
+  "maker_comment_votes": 1,
+  "maker_comment_count": 1,
+  "points": 30,
+  "daily_rank": 26,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

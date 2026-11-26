@@ -1,0 +1,14 @@
+{
+  "name": "Replicate",
+  "slug": "replicate-3",
+  "url": "https://www.producthunt.com/products/replicate-3",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Turn Webflow/Framer app into a Claude/Codex project for free",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 236,
+  "comments": 14,
+  "featured": true,
+  "source": "api"
+}

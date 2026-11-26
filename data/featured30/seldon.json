@@ -1,0 +1,14 @@
+{
+  "name": "Seldon",
+  "slug": "seldon",
+  "url": "https://www.producthunt.com/products/seldon",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Behavioral QA agents that use your product like customers do",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 273,
+  "comments": 105,
+  "featured": true,
+  "source": "api"
+}

@@ -10,5 +10,22 @@
   "votes": 58,
   "comments": 39,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt 👋 Most B2B accounts aren't buying at any given moment, and the ones that are rarely fill in a form. They raise money, hire, switch tools and ask peers for advice, in public. Recepto reads those moments, scores each account 0–100 against your ICP, and shows you the source so it isn't a black box. Then it finds the decision maker, verifies the contact and drafts an opener that cites the signal. You get your first scored leads within 24 hours, and there's a 7-day refund. Tell us w",
+  "maker_comment_votes": 12,
+  "maker_comment_count": 4,
+  "points": 58,
+  "daily_rank": 51,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 4,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": true,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

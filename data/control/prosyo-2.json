@@ -10,5 +10,10 @@
   "votes": 42,
   "comments": 9,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt 👋 I'm Shubham, maker of Prosyo. I run a small dev agency, and outbound is how we land clients. My \"stack\" was a LinkedIn tool, a cold email tool, a data subscription and a spreadsheet holding it all together. Sending was never the problem. Replies were. Someone would say \"sounds interesting, how does it work?\" and it sat there for two days because it was buried in the wrong tab. Most of those leads went cold. So I built the tool I wanted. One agent that goes from \"who should I ",
+  "maker_comment_votes": 3,
+  "maker_comment_count": 3,
+  "maker_comment_by": "maker"
 }

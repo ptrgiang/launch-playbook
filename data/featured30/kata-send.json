@@ -1,0 +1,14 @@
+{
+  "name": "Kata Send",
+  "slug": "kata-send",
+  "url": "https://www.producthunt.com/products/kata-send",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Cold email infrastructure for AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 62,
+  "comments": 6,
+  "featured": true,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "de:volt",
+  "slug": "de-volt",
+  "url": "https://www.producthunt.com/products/de-volt",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "A breadboard simulator with real physics, in your browser",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 86,
+  "comments": 7,
+  "featured": true,
+  "source": "api"
+}

@@ -13,8 +13,8 @@
   ],
   "tagline": "Lovable for getting customers",
   "tagline_formula": "familiar-reframe",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt. Yuriy here, co-founder and CEO of AiSDR, 2x YC alumni. I once paid an outbound agency $30,000 and got zero meetings in 6 months. Then I built an AI SDR, sold it to 1,153 companies, and watched 80% of them get the same result, but faster and cheaper. The emails were fine. Nobody, including our software, solved the core problems - who should get them and why should they care to respond. AI SDR industry overpromised and underdelivered and people hated it. Ami is the thing I wish I ",
   "gallery_first_card": "purple gradient card: headline 'The AI GTM agent everyone was waiting for.' + 'Powered by GPT-6 Astra' badge + 3 proof metrics (17K+ campaigns, 19K+ meetings, $697M+ pipeline) + client logo strip (Google, Microsoft, Uber, Disney…)",
   "rank": 1,
   "votes": 704,
@@ -103,5 +103,28 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 35,
+  "maker_comment_count": 7,
+  "points": 704,
+  "daily_rank": 1,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 4,
+  "reviews_count": 1,
+  "open_source": false,
+  "pricing": "free_options",
+  "funding_usd": 3000000,
+  "funding_rounds": null,
+  "is_bootstrapped": false,
+  "investors": [
+    "Angel One Fund",
+    "Y Combinator",
+    "Flyer One Ventures",
+    "SID Venture Partners",
+    "Rebel Fund",
+    "Pioneer Fund",
+    "Bluepointe Ventures"
+  ],
+  "maker_comment_by": "maker"
 }

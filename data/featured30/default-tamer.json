@@ -1,0 +1,14 @@
+{
+  "name": "Default Tamer",
+  "slug": "default-tamer",
+  "url": "https://www.producthunt.com/products/default-tamer",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Open every link in the right browser on macOS",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 69,
+  "comments": 2,
+  "featured": true,
+  "source": "api"
+}

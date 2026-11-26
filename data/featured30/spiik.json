@@ -1,0 +1,14 @@
+{
+  "name": "Spiik",
+  "slug": "spiik",
+  "url": "https://www.producthunt.com/products/spiik",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "AI note taker for meetings & lectures. No bot on your calls.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 98,
+  "comments": 10,
+  "featured": true,
+  "source": "api"
+}

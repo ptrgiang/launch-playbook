@@ -1,0 +1,14 @@
+{
+  "name": "Ridian",
+  "slug": "ridian",
+  "url": "https://www.producthunt.com/products/ridian",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "The AI-first scheduling suite for everything around meetings",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 105,
+  "comments": 20,
+  "featured": true,
+  "source": "api"
+}

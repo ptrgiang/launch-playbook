@@ -13,8 +13,8 @@
   ],
   "tagline": "a social network for devs",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Wild 48 hours. Still processing it, to be honest. We went viral (Hacker News, X, etc.) using a format most marketing teams wouldn’t touch, precisely because it’s so uncomfortable: raw, unfiltered, no script, just us, locked in a 48-hour live stream showing every bit of it. The whole story: https://dev-null.sh/about Day 1: https://www.youtube.com/watch?v=6zCNQa3hNm0 Day 2: https://www.youtube.com/watch?v=nfmVdXZfzUE People don’t fall in love with a brand. They fall in love with the humans behind ",
   "gallery_first_card": "dark card: full product UI — sidebar with '/dev/null — a social network for devs' + commits feed showing real names (Guillermo Rauch) in a reply thread",
   "rank": 11,
   "votes": 547,
@@ -83,5 +83,20 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 27,
+  "maker_comment_count": 3,
+  "points": 549,
+  "daily_rank": 1,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 1,
+  "open_source": true,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": true,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

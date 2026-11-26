@@ -10,5 +10,10 @@
   "votes": 27,
   "comments": 5,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey everyone 👋 I’m Abid, one of the makers behind Slow Time Club. I’ve spent much of my career building digital products. As a product guy, you spend a lot of time thinking about what makes someone open an app and come back to it. With Slow Time Club, I wanted to ask a different question: What would we build if success meant someone putting their phone down? It’s easy to open an app for a minute and stay much longer than you meant to. The part that matters to me is what that time could have bee",
+  "maker_comment_votes": 2,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

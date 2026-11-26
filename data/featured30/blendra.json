@@ -1,0 +1,14 @@
+{
+  "name": "Blendra",
+  "slug": "blendra",
+  "url": "https://www.producthunt.com/products/blendra",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Record a flow once and get a Playwright test project you own",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 73,
+  "comments": 9,
+  "featured": true,
+  "source": "api"
+}

@@ -10,5 +10,22 @@
   "votes": 57,
   "comments": 17,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt 👋 We’re the Leadport AI team. Over the past year, we kept asking ourselves the same question: Why do sales teams still lose hot leads, even with great CRMs and automations? The problem isn’t just collecting leads. It’s reacting to them fast enough and connecting each one with the right salesperson at the right moment. So, we built Leadport AI, a system that: ⚡ Calls every new lead in under 10 seconds 🎯 Routes the call to the right salesperson based on your rules (source, regio",
+  "maker_comment_votes": 5,
+  "maker_comment_count": 1,
+  "points": 57,
+  "daily_rank": 35,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

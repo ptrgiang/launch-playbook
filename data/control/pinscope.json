@@ -1,0 +1,14 @@
+{
+  "name": "Pinscope",
+  "slug": "pinscope",
+  "url": "https://www.producthunt.com/products/pinscope",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "See inside every device you ship, in under 10 KB of RAM",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

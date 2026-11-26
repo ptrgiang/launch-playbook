@@ -10,5 +10,22 @@
   "votes": 30,
   "comments": 2,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "hey product hunt 👋 Luca here. today is hypership day and i'm launching two products at once: indexcyborg and blogfleet. one ships the content, the other gets it found. indexcyborg started as a tool for my own sites. i was spending way too much time in search console clicking \"request indexing\" one url at a time. now it runs the boring loop: reads your sitemaps, notices new, changed and removed pages pings bing and the other indexnow engines (google doesn't use indexnow, so it doesn't pretend) a",
+  "maker_comment_votes": 2,
+  "maker_comment_count": 1,
+  "points": 30,
+  "daily_rank": 58,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

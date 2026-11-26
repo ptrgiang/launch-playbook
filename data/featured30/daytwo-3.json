@@ -1,0 +1,14 @@
+{
+  "name": "Daytwo",
+  "slug": "daytwo-3",
+  "url": "https://www.producthunt.com/products/daytwo-3",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Let your team change your custom site without touching code",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": null,
+  "votes": 71,
+  "comments": 6,
+  "featured": true,
+  "source": "api"
+}

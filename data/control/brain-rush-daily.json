@@ -1,0 +1,14 @@
+{
+  "name": "Brain Rush Daily",
+  "slug": "brain-rush-daily",
+  "url": "https://www.producthunt.com/products/brain-rush-daily",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "5-minute brain games",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

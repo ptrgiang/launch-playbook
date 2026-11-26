@@ -10,5 +10,10 @@
   "votes": 43,
   "comments": 9,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "short",
+  "maker_comment_excerpt": "Hey guys, hope you like my newsletter! It's read by a lot of the world's top bootstrapped founders. When you sign up you get a database of startup acquisition info to keep you inspired 😀",
+  "maker_comment_votes": 4,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

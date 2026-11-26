@@ -1,0 +1,14 @@
+{
+  "name": "RunWars",
+  "slug": "runwars",
+  "url": "https://www.producthunt.com/products/runwars",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Turn your runs into a battle for real-world territory",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

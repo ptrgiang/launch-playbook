@@ -10,5 +10,22 @@
   "votes": 78,
   "comments": 37,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt, I’m Ivan, the maker of Stenograf. I built Stenograf because I wanted a private memory of my conversations: a way to find decisions, revisit commitments, and prepare for the next call while keeping the conversation on my computer. It captures your microphone and system audio without a bot joining the call. Transcription, summaries, and search run on your computer, and your recordings and complete transcripts stay local. You can identify follow-ups, prepare for an upcoming meeting",
+  "maker_comment_votes": 3,
+  "maker_comment_count": 3,
+  "points": 78,
+  "daily_rank": 36,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": true,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

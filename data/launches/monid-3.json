@@ -12,8 +12,8 @@
   ],
   "tagline": "OpenRouter for agent tools",
   "tagline_formula": "familiar-reframe",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey PH 👋 I'm Shengkun, cofounder of Monid. Today we're introducing Monid: OpenRouter for agent tools. Monid connects your AI agent to 1,800+ APIs without any subscriptions. You don't need to manually sign up for dozens of accounts or pay for subscriptions you barely use. Your agent can discover and use the tools it needs at runtime, and you simply pay as you go. This time, we're introducing more capabilities for your agents. With Monid, your agents can now: Run real SEO and search intelligence ",
   "gallery_first_card": "white editorial card: 'LIVE · 1,800+ TOOLS' kicker + headline 'The OpenRouter for agent tools.' (blue highlight) + 4 spec tiles (Catalog/Keys/Billing/Setup) + page number '01/05'",
   "rank": 19,
   "votes": 493,
@@ -69,5 +69,8 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 9,
+  "maker_comment_count": 4,
+  "maker_comment_by": "maker"
 }

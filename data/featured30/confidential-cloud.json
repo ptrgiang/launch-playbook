@@ -1,0 +1,14 @@
+{
+  "name": "Confidential Cloud",
+  "slug": "confidential-cloud",
+  "url": "https://www.producthunt.com/products/confidential-cloud",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Private AI cloud that can't see your stuff",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 64,
+  "comments": 1,
+  "featured": true,
+  "source": "api"
+}

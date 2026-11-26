@@ -10,5 +10,22 @@
   "votes": 33,
   "comments": 12,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunters, Joeri here, with my co-founder Arjen, from the Netherlands. We kept running into the same kind of argument: the rental car that \"already had that scratch\". The meter readings nobody wrote down when the keys changed hands. The parcel that arrived damaged, or did it? Everyone had photos. They settled nothing. That is the frustrating part: editing a photo or video, or the date on it, takes seconds these days. So footage turns into your word against theirs. Annoying when you are ",
+  "maker_comment_votes": 5,
+  "maker_comment_count": 2,
+  "points": 33,
+  "daily_rank": 20,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 2,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": true,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

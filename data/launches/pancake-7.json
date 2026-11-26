@@ -12,8 +12,8 @@
   ],
   "tagline": "The Vercel for GTM",
   "tagline_formula": "familiar-reframe",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt 👋 We hit #1 here in May, then rebuilt almost everything. Here's why. Claude and Codex can already plan your go-to-market. They can't run it: no data to find the right people, no way to reach them, no memory of your business. Pancake is that piece. One MCP connection gives your agent: • a GTM Brain that learns your business, ICP and voice from your website • 40+ data providers and enrichment • sending infrastructure, from your own accounts Describe who you want to reach in one s",
   "gallery_first_card": "cream minimal card: Pancake wordmark + rainbow arch graphic + kicker 'The Vercel for GTM' + giant headline 'Deploy GTM ideas that bring you customers'",
   "rank": 5,
   "votes": 614,
@@ -79,5 +79,8 @@
       "launches_before_this": 3,
       "featured_before": 3
     }
-  ]
+  ],
+  "maker_comment_votes": 22,
+  "maker_comment_count": 3,
+  "maker_comment_by": "maker"
 }

@@ -65,14 +65,16 @@ const distBlock = (title, arr, color) => {
 };
 
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;");
+const money = (v) => (v == null ? "—" : v >= 1e6 ? "$" + (v / 1e6).toFixed(1) + "M" : "$" + Math.round(v / 1e3) + "K");
 const safeRows = (list, n) =>
   list
     .slice(0, n)
     .map(
       (r, i) =>
-        `<tr><td class="rk">${i + 1}</td><td><a href="${r.url}">${esc(r.name)}</a></td><td class="num">${r.votes ?? "—"}</td><td class="num">${r.comments ?? "—"}</td><td class="dt">${r.launch_date ?? ""}</td></tr>`
+        `<tr><td class="rk">${i + 1}</td><td><a href="${r.url}">${esc(r.name)}</a></td><td class="num">${r.votes ?? "—"}</td><td class="num">${r.daily_rank != null ? "#" + r.daily_rank : "—"}</td><td class="num">${money(r.funding_usd)}</td><td class="num">${r.comments ?? "—"}</td><td class="dt">${r.launch_date ?? ""}</td></tr>`
     )
     .join("\n");
+const THEAD = `<tr><th>#</th><th>Launch</th><th style="text-align:right">Votes</th><th style="text-align:right">Day rank</th><th style="text-align:right">Funding</th><th style="text-align:right">Comments</th><th>Date</th></tr>`;
 
 const html = `<!doctype html>
 <html lang="en"><head>
@@ -118,6 +120,7 @@ ${stat("featured floor", featured.at(-1)?.votes ?? "?", "weakest of top 20")}
 ${stat("unfeatured ceiling", unfeatured[0]?.votes ?? "?", "best of " + unfeatured.length)}
 ${stat("unfeatured median", median(unfeatured), "votes per launch")}
 ${stat("unfeatured >100 votes", unfeatured.filter((r) => (r.votes ?? 0) > 100).length, "of " + unfeatured.length)}
+${stat("funded in top-20", featured.filter((r) => (r.funding_usd ?? 0) > 0).length + "/20", "funding isn't the gate")}
 ${featured30.length ? stat("featured median (30d)", median(featured30), "of " + featured30.length + " launches") : ""}
 </div>
 
@@ -128,13 +131,13 @@ ${featured30.length ? distBlock(`Featured launches, 30d (n=${featured30.length})
 
 <h2>Top ${featured.length} featured</h2>
 <div class="note">Highest-voted launches of the last ~90 days.</div>
-<table><tr><th>#</th><th>Launch</th><th style="text-align:right">Votes</th><th style="text-align:right">Comments</th><th>Date</th></tr>
+<table>${THEAD}
 ${safeRows(featured, 20)}
 </table>
 
 <h2>Top ${Math.min(30, unfeatured.length)} unfeatured</h2>
 <div class="note">Highest-voted launches that were never featured, last 30 days. ${unfeatured.length} total in corpus.</div>
-<table><tr><th>#</th><th>Launch</th><th style="text-align:right">Votes</th><th style="text-align:right">Comments</th><th>Date</th></tr>
+<table>${THEAD}
 ${safeRows(unfeatured, 30)}
 </table>
 

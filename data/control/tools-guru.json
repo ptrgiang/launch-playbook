@@ -1,0 +1,14 @@
+{
+  "name": "Tools Guru",
+  "slug": "tools-guru",
+  "url": "https://www.producthunt.com/products/tools-guru",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "150 free browser tools. Private, offline, no sign-up",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

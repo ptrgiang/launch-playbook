@@ -1,0 +1,14 @@
+{
+  "name": "Thunder",
+  "slug": "thunder-4",
+  "url": "https://www.producthunt.com/products/thunder-4",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "A blazing-fast, persistent, key-value AI workload database",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 68,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

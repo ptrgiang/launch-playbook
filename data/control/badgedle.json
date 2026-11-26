@@ -1,0 +1,14 @@
+{
+  "name": "Badgedle",
+  "slug": "badgedle",
+  "url": "https://www.producthunt.com/products/badgedle",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Guess 8 football badges. A fresh challenge every day.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

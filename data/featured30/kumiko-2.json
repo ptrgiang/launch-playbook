@@ -1,0 +1,14 @@
+{
+  "name": "Kumiko",
+  "slug": "kumiko-2",
+  "url": "https://www.producthunt.com/products/kumiko-2",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "AI window manager for ultrawide and big-screen Macs",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 62,
+  "comments": 5,
+  "featured": true,
+  "source": "api"
+}

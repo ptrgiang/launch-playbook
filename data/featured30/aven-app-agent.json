@@ -1,0 +1,14 @@
+{
+  "name": "Aven App Agent",
+  "slug": "aven-app-agent",
+  "url": "https://www.producthunt.com/products/aven-app-agent",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "AI that guides users through your app",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 96,
+  "comments": 17,
+  "featured": true,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Uber Parking",
+  "slug": "uber-parking",
+  "url": "https://www.producthunt.com/products/uber-parking",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Find, compare and reserve parking inside the Uber app",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 100,
+  "comments": 3,
+  "featured": true,
+  "source": "api"
+}

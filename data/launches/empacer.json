@@ -12,8 +12,8 @@
   ],
   "tagline": " The voice-first assistant for small and medium businesses",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt 👋 I’m Yerkebulan, Founder & CEO of Empacer. Everyone keeps telling small business owners to \"use AI.\" But watch a salon owner’s actual day: clients in the chair since morning, DMs piling up, this week’s posts still not written, and they are still expected to sit down, write prompts, and manage chat threads. Tools got smarter, but using them became another job. Before building anything, we talked to dozens of small business owners across the US: salons, barbershops, auto services",
   "gallery_first_card": "dark+blue split card: punchy 3-word headline 'Talk. Approve. Done.' + 'voice AI agent for small business owners' + phone mockup of assistant chat (suggestion chips + voice button)",
   "rank": 20,
   "votes": 488,
@@ -81,5 +81,20 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 43,
+  "maker_comment_count": 3,
+  "points": 490,
+  "daily_rank": 1,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 4,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

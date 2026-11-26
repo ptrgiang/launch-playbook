@@ -1,0 +1,14 @@
+{
+  "name": "Brickmoat",
+  "slug": "brickmoat",
+  "url": "https://www.producthunt.com/products/brickmoat",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Stop bot signups and fake orders on Shopify and WooCommerce",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

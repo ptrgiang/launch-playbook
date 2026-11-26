@@ -13,8 +13,8 @@
   ],
   "tagline": "Open-source self-improving memory for AI coding agents",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "One of my favorite things about Beacon is that it makes your coding agents smarter the more you use them. For everyone in the Product Hunt community building and shipping with Claude Code, Cursor, Codex, or other coding agents, you've probably experienced how frustrating it is to solve the same problem multiple times across different sessions and tools! Beacon learns from your past sessions, turns useful discoveries into reusable memories and skills, and makes them portable across all your codin",
   "gallery_first_card": "dark OG-ratio card: 'OPEN SOURCE' tag + headline 'The Self-Improving Memory Layer for Coding Agents' + subhead listing harnesses (Claude Code, Cursor, Codex, OpenCode, 20+) + GitHub repo URL footer",
   "rank": 14,
   "votes": 522,
@@ -42,5 +42,8 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 11,
+  "maker_comment_count": 2,
+  "maker_comment_by": "maker"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Cloudways Velocity",
+  "slug": "cloudways-velocity",
+  "url": "https://www.producthunt.com/products/cloudways-velocity",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Managed Node.js hosting. Always warm, never off.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 87,
+  "comments": 5,
+  "featured": true,
+  "source": "api"
+}

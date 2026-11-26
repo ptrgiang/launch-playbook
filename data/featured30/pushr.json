@@ -1,0 +1,14 @@
+{
+  "name": "pushr",
+  "slug": "pushr",
+  "url": "https://www.producthunt.com/products/pushr",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "iPhone push alerts from any script, server or AI agent",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 85,
+  "comments": 13,
+  "featured": true,
+  "source": "api"
+}

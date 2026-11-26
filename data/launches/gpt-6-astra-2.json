@@ -12,8 +12,8 @@
   ],
   "tagline": "OpenAI's most capable model for end-to-end work",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey PH community 👋 Excited to hunt GPT-6 Astra today. The frontier labs keep pushing each other. We saw what Fable 5.1 did earlier this week: https://www.producthunt.com/products/claude-fable-5-1?launch=claude-fable-5-1 This is OpenAI's next flagship, built for the hard end to end work. Coding, computer use, science, and long agent workflows that actually stay on track. Async tools and mid turn steering mean it can keep going while you course correct mid task. Feels less like a chat box and mor",
   "gallery_first_card": "orange gradient card: centered text only — 'Path to Astra: critical capabilities and frontier safeguards' — brand-name carry, no product visual",
   "rank": 12,
   "votes": 542,
@@ -82,5 +82,8 @@
       "launches_before_this": 1,
       "featured_before": 1
     }
-  ]
+  ],
+  "maker_comment_votes": 5,
+  "maker_comment_count": 1,
+  "maker_comment_by": "hunter"
 }

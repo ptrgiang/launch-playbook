@@ -1,0 +1,14 @@
+{
+  "name": "Close Testers",
+  "slug": "close-testers",
+  "url": "https://www.producthunt.com/products/close-testers",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Get 12 testers for your 14-day Google Play closed test",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

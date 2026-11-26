@@ -1,0 +1,14 @@
+{
+  "name": "VeilCC",
+  "slug": "veilcc",
+  "url": "https://www.producthunt.com/products/veilcc",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Ship code AI can't reverse engineer",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 64,
+  "comments": 6,
+  "featured": true,
+  "source": "api"
+}

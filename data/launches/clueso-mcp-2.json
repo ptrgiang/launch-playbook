@@ -12,8 +12,8 @@
   ],
   "tagline": "Create and edit videos by chatting",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt Community! 👋 I’m Neel, co-founder of Clueso. We launched Clueso here last year with a pretty simple idea: turn rough screen recordings into polished product videos in minutes. The response was incredible. Thousands of people started using Clueso, and this community made us #1 Product of the Day, Week, and Month. Over the last year, we kept seeing people push Clueso beyond what we originally built it for. They wanted to start with more than a screen recording. They wanted to mak",
   "gallery_first_card": "white card: headline 'Connect Clueso MCP' + input-type paragraph (recording/doc/PPT/URL/Figma/prompt) + URL bar mockup + row of agent logo cards (ChatGPT, Claude, Gemini, Cursor)",
   "rank": 6,
   "votes": 614,
@@ -151,5 +151,8 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 58,
+  "maker_comment_count": 11,
+  "maker_comment_by": "maker"
 }

@@ -12,8 +12,8 @@
   ],
   "tagline": "Make and publish 3D games with the first AI game engine",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt! 👋 &nbsp;I'm Yang, Founder & CEO of Wanaka. A bit about us: I scaled ByteDance's Helo to 50M DAU, and co-founded Livein (#1 on the US App Store) and AnswerAI (top-3 AI education app in North America, 6M+ users) My CTO spent 10 years at ByteDance leading recommendation & LLM RL at Seed, with a computer graphics background from SJTU Our core team comes from ByteDance Seed and miHoYo Together, we're uniting top-tier AI agent research with deep game-engine engineering. Today, we're",
   "gallery_first_card": "mint card: 'AI-NATIVE GAME ENGINE' kicker + headline 'Make AAA 3D games with AI.' (lime highlight) + editor screenshot (3D city scene + 'Build with AI' chat panel + inspector) + ticks 'No code · Multiplayer · 1-click publish'",
   "rank": 17,
   "votes": 499,
@@ -71,5 +71,22 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 22,
+  "maker_comment_count": 2,
+  "points": 499,
+  "daily_rank": 1,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": 1,
+  "is_bootstrapped": false,
+  "investors": [
+    "Jinqiu Fund (Jinqiu Capital)"
+  ],
+  "maker_comment_by": "maker"
 }

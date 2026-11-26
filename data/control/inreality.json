@@ -10,5 +10,22 @@
   "votes": 36,
   "comments": 11,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt! 👋 I'm Jeppe, founder of InReality. I spent 7 years researching technologies to fight misinformation and distinguish fake content from real content. Essentially, I was trying to use AI to detect what's fake. But I kept running into the same problem: AI was getting better at creating fake content faster than we could get better at detecting it. This led me to a realization: Instead of trying to prove what's fake, why not make it possible to prove what's real? That's why we built",
+  "maker_comment_votes": 7,
+  "maker_comment_count": 2,
+  "points": 38,
+  "daily_rank": 53,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 2,
+  "open_source": false,
+  "pricing": "free",
+  "funding_usd": 450000,
+  "funding_rounds": 1,
+  "is_bootstrapped": false,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

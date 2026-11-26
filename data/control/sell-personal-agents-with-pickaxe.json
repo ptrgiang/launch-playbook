@@ -10,5 +10,10 @@
   "votes": 49,
   "comments": 14,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt, I’m Chris from Pickaxe 👋 We’re building Pickaxe to help people sell agents as a service, using the expertise they already have. If you know how to solve a problem for someone, we want to help you turn that knowledge into an agent they can use and pay for, with your own brand and customer experience. Our biggest update is always-on personal agents. These agents can run automatic checks and work inside their own computer to carry out tasks. If you’ve used Muse or GrokBot, the id",
+  "maker_comment_votes": 14,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

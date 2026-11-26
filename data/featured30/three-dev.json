@@ -1,0 +1,14 @@
+{
+  "name": "three.dev",
+  "slug": "three-dev",
+  "url": "https://www.producthunt.com/products/three-dev",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Find out how your AI agent fails. Before your users do.",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 135,
+  "comments": 20,
+  "featured": true,
+  "source": "api"
+}

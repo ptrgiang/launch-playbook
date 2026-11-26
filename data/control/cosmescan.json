@@ -1,0 +1,14 @@
+{
+  "name": "CosmeScan",
+  "slug": "cosmescan",
+  "url": "https://www.producthunt.com/products/cosmescan",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Decode 2,375+ cosmetic batch codes & spot Vinted fakes",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

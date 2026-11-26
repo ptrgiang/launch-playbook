@@ -1,0 +1,14 @@
+{
+  "name": "QuotedPart",
+  "slug": "quotedpart",
+  "url": "https://www.producthunt.com/products/quotedpart",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "AI quoting for CNC and sheet metal job shops",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 64,
+  "comments": 2,
+  "featured": true,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Docker",
+  "slug": "docker",
+  "url": "https://www.producthunt.com/products/docker",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Built to run on trust, for the agentic era",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 273,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

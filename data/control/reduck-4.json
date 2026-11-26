@@ -10,5 +10,10 @@
   "votes": 29,
   "comments": 17,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi everyone 👋 It's Daniel, cofounder and CEO of Reduck AI. We've all experienced it: agents can be slow and hallucinate when using a browser. They have to learn sites from scratch, and they browse manually, one click at a time, burning many tokens. That's why we built Reduck MCP 🚀 Agents can now learn how a site works once, and store that knowledge as a deterministic script. When prompted, your agent can now search for an existing script, read it, then execute it for immediate and accurate res",
+  "maker_comment_votes": 6,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

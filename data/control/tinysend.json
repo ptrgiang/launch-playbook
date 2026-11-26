@@ -1,0 +1,14 @@
+{
+  "name": "Tinysend",
+  "slug": "tinysend",
+  "url": "https://www.producthunt.com/products/tinysend",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Write your newsletter in Gmail, press send, and it goes out",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

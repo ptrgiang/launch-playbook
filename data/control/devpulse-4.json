@@ -1,0 +1,14 @@
+{
+  "name": "DevPulse",
+  "slug": "devpulse-4",
+  "url": "https://www.producthunt.com/products/devpulse-4",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "A release radar for your dependencies, sorted by risk",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

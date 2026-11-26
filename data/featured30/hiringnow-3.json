@@ -1,0 +1,14 @@
+{
+  "name": "HiringNow",
+  "slug": "hiringnow-3",
+  "url": "https://www.producthunt.com/products/hiringnow-3",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "AI job agent that finds & apply for jobs before anyone else.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 351,
+  "comments": 29,
+  "featured": true,
+  "source": "api"
+}

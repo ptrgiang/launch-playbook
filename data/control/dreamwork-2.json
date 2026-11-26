@@ -10,5 +10,10 @@
   "votes": 48,
   "comments": 37,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt - Colin here, one of the makers of Dreamwork. Quick backstory. I originally started building the product when my pregnant wife was laid off from Indeed. I wanted to create a tool for her that looked exactly like the tool I would build for myself if I were looking for another job in tech. I also wanted to spite Indeed by building a better boat than they could. We now have 18,000 users and the spite has only minimally subsided. Why Dreamwork? Applying for a job is broken right now",
+  "maker_comment_votes": 35,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

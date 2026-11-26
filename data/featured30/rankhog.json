@@ -1,0 +1,14 @@
+{
+  "name": "Rankhog",
+  "slug": "rankhog",
+  "url": "https://www.producthunt.com/products/rankhog",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Get customers from Reddit on autopilot",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 360,
+  "comments": 41,
+  "featured": true,
+  "source": "api"
+}

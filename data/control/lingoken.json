@@ -10,5 +10,22 @@
   "votes": 43,
   "comments": 5,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hello Product Hunt 👋 I am Sumeeti and I've built Lingoken, a platform for language teachers to make learning super fun and engaging. I grew up speaking Sindhi, Hindi, and Marathi. When I went to college and was exposed to some more regional languages, I realised I really love them. I like how when you try and learn someone's language, it makes them warm up to you a bit more. And that feels like someone opening the door to a whole new culture for you. Learning about some common idioms and phrase",
+  "maker_comment_votes": 5,
+  "maker_comment_count": 1,
+  "points": 43,
+  "daily_rank": 26,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Codemany",
+  "slug": "codemany-2",
+  "url": "https://www.producthunt.com/products/codemany-2",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Run GitHub Actions 3x faster",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 206,
+  "comments": 23,
+  "featured": true,
+  "source": "api"
+}

@@ -43,6 +43,32 @@ featured when the product is notable enough. Serial launchers stay featured
 because editors already trust their output. If you are neither, you don't
 enter the bracket where votes decide anything.
 
+## Ruling out more variables (via the PH MCP)
+
+`tools/enrich-mcp.mjs` enriches each record through Product Hunt's MCP
+server, which returns data the GraphQL API hides: real commenter identities
+with `maker`/`hunter` badges, official `daily_rank` + `points`, funding
+rounds and investors, YC status. Applying it to the top-20 featured and the
+top-30 unfeatured launches:
+
+- **Maker comments are universal, not a signal.** 20/20 featured and 30/30
+  unfeatured launches have a staff comment — 18 of the featured ones written
+  by a maker, and all 30 unfeatured ones. "Leave a maker comment" is table
+  stakes; it cannot move you through the gate because everyone does it.
+- **Funding is not the gate either.** Only 4/20 top launches show recorded
+  funding ($1M–$40M, median $3M); 16/20 have none. Just 1/30 top unfeatured
+  launches is funded. Funding correlates weakly with featuring but explains
+  little — most featured products are unfunded indies.
+- **Points ≈ votes.** PH's score tracks the vote count almost 1:1
+  (e.g. 559 points vs 554 votes). The ranking formula isn't hiding a
+  secret multiplier.
+- **Unfeatured launches rank deep even on good days.** The best unfeatured
+  launch of the month (78 votes) reached only daily rank #36.
+
+What survives as the differentiator: editorial selection on the product
+itself — newsworthiness and clarity — plus serial-launcher trust for repeat
+teams. The launch page (tagline, first card, demo) is the gate's interface.
+
 ## Implications for the playbook
 
 1. Treat "will editors feature this?" as the first filter before launch-day

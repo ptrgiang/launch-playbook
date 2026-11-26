@@ -1,0 +1,14 @@
+{
+  "name": "Polylane for Azure",
+  "slug": "polylane-for-azure",
+  "url": "https://www.producthunt.com/products/polylane-for-azure",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "An AI on-call engineer for your Azure apps",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 85,
+  "comments": 3,
+  "featured": true,
+  "source": "api"
+}

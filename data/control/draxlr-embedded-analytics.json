@@ -10,5 +10,10 @@
   "votes": 36,
   "comments": 14,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hi Product Hunt! 👋 I'm Vivek, founder of Draxlr. Today we're launching the next step in our embedded analytics. You can now embed the complete Draxlr workspace inside your SaaS, not just individual dashboards. Embedded dashboards work well until customers start asking questions they weren't built for. One wants to know which accounts went quiet last month, another wants to compare this quarter to the last. Every small request turns into a ticket and a one-off report. Now customers can answer th",
+  "maker_comment_votes": 2,
+  "maker_comment_count": 2,
+  "maker_comment_by": "maker"
 }

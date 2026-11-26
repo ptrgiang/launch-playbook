@@ -1,0 +1,14 @@
+{
+  "name": "Sluice",
+  "slug": "sluice-2",
+  "url": "https://www.producthunt.com/products/sluice-2",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Room to build on your Mac, even with 20 agents at once",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 84,
+  "comments": 9,
+  "featured": true,
+  "source": "api"
+}

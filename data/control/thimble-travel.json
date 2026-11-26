@@ -1,0 +1,14 @@
+{
+  "name": "Thimble Travel",
+  "slug": "thimble-travel",
+  "url": "https://www.producthunt.com/products/thimble-travel",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Your whole trip, planned in minutes",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

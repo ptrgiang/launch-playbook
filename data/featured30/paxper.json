@@ -1,0 +1,14 @@
+{
+  "name": "Paxper",
+  "slug": "paxper",
+  "url": "https://www.producthunt.com/products/paxper",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Create cloud infrastructure visually and review every change",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 113,
+  "comments": 24,
+  "featured": true,
+  "source": "api"
+}

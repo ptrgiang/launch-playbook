@@ -1,0 +1,14 @@
+{
+  "name": "Invoicepak",
+  "slug": "invoicepak",
+  "url": "https://www.producthunt.com/products/invoicepak",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Branded PDF invoices for every Shopify order, automatically",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

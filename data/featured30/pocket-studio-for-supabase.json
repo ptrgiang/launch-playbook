@@ -1,0 +1,14 @@
+{
+  "name": "Pocket Studio for Supabase",
+  "slug": "pocket-studio-for-supabase",
+  "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Supabase dashboard & SQL editor for Android",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 80,
+  "comments": 10,
+  "featured": true,
+  "source": "api"
+}

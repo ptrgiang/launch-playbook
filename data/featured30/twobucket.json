@@ -1,0 +1,14 @@
+{
+  "name": "TwoBucket",
+  "slug": "twobucket",
+  "url": "https://www.producthunt.com/products/twobucket",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "Beginner-friendly mobile detailing software for bookings",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 115,
+  "comments": 22,
+  "featured": true,
+  "source": "api"
+}

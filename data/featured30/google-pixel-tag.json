@@ -1,0 +1,14 @@
+{
+  "name": "Google Pixel Tag",
+  "slug": "google-pixel-tag",
+  "url": "https://www.producthunt.com/products/google-pixel-tag",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Google’s $30 Android-ready tracking tag",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": null,
+  "votes": 112,
+  "comments": 4,
+  "featured": true,
+  "source": "api"
+}

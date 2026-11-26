@@ -1,0 +1,14 @@
+{
+  "name": "RunThru",
+  "slug": "runthru",
+  "url": "https://www.producthunt.com/products/runthru",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Video proof that your agent's pull request works",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 65,
+  "comments": 10,
+  "featured": true,
+  "source": "api"
+}

@@ -12,8 +12,8 @@
   ],
   "tagline": "Get discovered & recommended when customers ask AI",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": null,
-  "maker_comment_excerpt": null,
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "👋 Hey Product Hunt! I'm Swati, Co-founder of https://resollm.ai/ Having led marketing across B2B, B2C for 2 decades, organic has been my favorite revenue growth channel. Somewhere in the last two years I noticed my own buying behaviour change; every serious purchase started with a question to ChatGPT or Google AI.&nbsp; And when buyers ask AI \"which one should I choose?\" only 3-5 brands exist in the answer. In that moment every brand which is not in the answer loses a potential customer. The pr",
   "gallery_first_card": "blue gradient card: logo + headline 'Be the answer when your buyers ask AI' + subhead 'Your AI Search Optimisation agentic employee' + domain — headline-only, no product visual",
   "rank": 16,
   "votes": 507,
@@ -80,5 +80,8 @@
       "launches_before_this": 0,
       "featured_before": 0
     }
-  ]
+  ],
+  "maker_comment_votes": 20,
+  "maker_comment_count": 1,
+  "maker_comment_by": "maker"
 }

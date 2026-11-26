@@ -10,5 +10,22 @@
   "votes": 27,
   "comments": 9,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "Hey Product Hunt, I'm Robins, and I built RevampKey. Work comes in two types, tech and non-tech, and I don't think AI should handle them the same way. Tech work is things like code, design and testing. You're never really done with it. You check the result, change your mind, add something and go again. Here you want AI as a copilot, with you in the front seat steering it. Non-tech work is different. It comes back every day or every week: tracking SEO, screening candidates, preparing the same rep",
+  "maker_comment_votes": 7,
+  "maker_comment_count": 1,
+  "points": 27,
+  "daily_rank": 36,
+  "launches_total": 1,
+  "yc": false,
+  "rating": 5,
+  "reviews_count": 1,
+  "open_source": false,
+  "pricing": "free",
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": true,
+  "investors": [],
+  "maker_comment_by": "maker"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "DMARC Pulse",
+  "slug": "dmarc-pulse",
+  "url": "https://www.producthunt.com/products/dmarc-pulse",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Find out who's sending email as your domain",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 65,
+  "comments": 3,
+  "featured": true,
+  "source": "api"
+}

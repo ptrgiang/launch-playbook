@@ -10,5 +10,22 @@
   "votes": 32,
   "comments": 3,
   "featured": false,
-  "source": "api"
+  "source": "api",
+  "maker_comment_shape": "standard",
+  "maker_comment_excerpt": "hey product hunt 👋 luca here. today is hypership day and i'm launching two products at once: blogfleet and indexcyborg. one ships the content, the other gets it found. i grew my first saas mostly through seo and sold it. the hard part was never the strategy, it was writing every week as a solo founder. blogfleet plans three independent blogs about your sector, each with its own name, topic and audience. then it researches, drafts, reviews, revises and publishes every article, and checks that it",
+  "maker_comment_votes": 1,
+  "maker_comment_count": 1,
+  "points": 32,
+  "daily_rank": 57,
+  "launches_total": 1,
+  "yc": false,
+  "rating": null,
+  "reviews_count": 0,
+  "open_source": false,
+  "pricing": null,
+  "funding_usd": null,
+  "funding_rounds": null,
+  "is_bootstrapped": null,
+  "investors": null,
+  "maker_comment_by": "maker"
 }
