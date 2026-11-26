@@ -1,0 +1,14 @@
+{
+  "name": "RustAtlas",
+  "slug": "rustatlas",
+  "url": "https://www.producthunt.com/products/rustatlas",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Find Rust servers, track wipes, and plan your next raid",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2097,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

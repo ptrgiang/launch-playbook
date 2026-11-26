@@ -1,0 +1,14 @@
+{
+  "name": "Apify Tools",
+  "slug": "apify-tools",
+  "url": "https://www.producthunt.com/products/apify-tools",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "Free web data tools powered by Apify",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 94,
+  "votes": 12,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Revset",
+  "slug": "revset",
+  "url": "https://www.producthunt.com/products/revset",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Review large AI-written pull requests as a dependency graph",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1052,
+  "votes": 3,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

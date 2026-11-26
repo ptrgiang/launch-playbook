@@ -27,5 +27,57 @@
     "https://ph-files.imgix.net/7e29247c-f60c-4012-86ab-f400a0607bb6.png?auto=format",
     "https://ph-files.imgix.net/76be9e14-edb9-436a-abad-23bcc5a86157.png?auto=format",
     "https://ph-files.imgix.net/0025e164-b60f-4873-b9d7-5000a4743975.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "tricomte",
+      "name": "Tristan Comte",
+      "headline": "Building pancake.ai",
+      "account_created": "2026-04-03T14:58:54Z",
+      "followers": 70,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 1
+    },
+    {
+      "username": "francoisdefitte",
+      "name": "Francois de Fitte",
+      "headline": "Cofounder @Pancake",
+      "account_created": "2015-02-26T17:54:03Z",
+      "followers": 207,
+      "made_posts_total": 5,
+      "launches_before_this": 4,
+      "featured_before": 3
+    },
+    {
+      "username": "zakariabenhadi",
+      "name": "Zakaria Benhadi",
+      "headline": "Founding Engineer @ Pancake AI",
+      "account_created": "2026-05-19T22:16:37Z",
+      "followers": 22,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 1
+    },
+    {
+      "username": "theocousin",
+      "name": "Théophile Cousin",
+      "headline": "Software engineer",
+      "account_created": "2019-05-06T07:29:09Z",
+      "followers": 22,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 1
+    },
+    {
+      "username": "guillaume_marquis3",
+      "name": "Will Marquis",
+      "headline": "Chief cooking officier @ Pancake",
+      "account_created": "2025-01-09T08:20:47Z",
+      "followers": 94,
+      "made_posts_total": 4,
+      "launches_before_this": 3,
+      "featured_before": 3
+    }
   ]
 }

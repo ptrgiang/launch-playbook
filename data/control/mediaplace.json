@@ -1,0 +1,14 @@
+{
+  "name": "MediaPlace",
+  "slug": "mediaplace",
+  "url": "https://www.producthunt.com/products/mediaplace",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "One library for your photos, videos and design files",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 556,
+  "votes": 4,
+  "comments": 4,
+  "featured": false,
+  "source": "api"
+}

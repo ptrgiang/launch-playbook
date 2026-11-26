@@ -1,0 +1,14 @@
+{
+  "name": "Dopamine AI",
+  "slug": "dopamine-ai",
+  "url": "https://www.producthunt.com/products/dopamine-ai",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Turn every customer chat into a paid invoice",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 112,
+  "votes": 11,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

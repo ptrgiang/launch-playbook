@@ -1,0 +1,14 @@
+{
+  "name": "AVP Cloud",
+  "slug": "avp-cloud",
+  "url": "https://www.producthunt.com/products/avp-cloud",
+  "launch_date": "2026-11-05",
+  "day_of_week": "Thursday",
+  "tagline": "99.8% less CI, 55% less tokens (yes it's real)",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 675,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

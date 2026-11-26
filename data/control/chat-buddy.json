@@ -1,0 +1,14 @@
+{
+  "name": "Chat Buddy",
+  "slug": "chat-buddy",
+  "url": "https://www.producthunt.com/products/chat-buddy",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "AI Chatbot for Your Website, Live in 10 Minutes",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 725,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

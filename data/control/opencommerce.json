@@ -1,0 +1,14 @@
+{
+  "name": "opencommerce",
+  "slug": "opencommerce",
+  "url": "https://www.producthunt.com/products/opencommerce",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "OpenRouter for commerce: one endpoint, every online store",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 86,
+  "votes": 13,
+  "comments": 4,
+  "featured": false,
+  "source": "api"
+}

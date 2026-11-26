@@ -1,0 +1,14 @@
+{
+  "name": "PostHog MCP Analytics",
+  "slug": "posthog-mcp-analytics",
+  "url": "https://www.producthunt.com/products/posthog-mcp-analytics",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "See how AI agents actually use your MCP server",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2071,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

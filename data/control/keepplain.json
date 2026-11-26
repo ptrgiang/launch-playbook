@@ -1,0 +1,14 @@
+{
+  "name": "KeepPlain",
+  "slug": "keepplain",
+  "url": "https://www.producthunt.com/products/keepplain",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "git blame for AI code, down to the agent session",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 887,
+  "votes": 3,
+  "comments": 4,
+  "featured": false,
+  "source": "api"
+}

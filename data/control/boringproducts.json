@@ -1,0 +1,14 @@
+{
+  "name": "BoringProducts",
+  "slug": "boringproducts",
+  "url": "https://www.producthunt.com/products/boringproducts",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "A weekly launch board where rank is votes. Nothing else.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 697,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

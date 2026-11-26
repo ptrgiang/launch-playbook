@@ -1,0 +1,14 @@
+{
+  "name": "MarketSignal",
+  "slug": "marketsignal",
+  "url": "https://www.producthunt.com/products/marketsignal",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "See which stocks the news is most positive about today",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2016,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

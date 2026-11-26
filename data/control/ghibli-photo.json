@@ -1,0 +1,14 @@
+{
+  "name": "Ghibli Photo",
+  "slug": "ghibli-photo",
+  "url": "https://www.producthunt.com/products/ghibli-photo",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Turn a photo into a Ghibli-inspired portrait",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1959,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

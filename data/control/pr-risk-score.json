@@ -1,0 +1,14 @@
+{
+  "name": "pr-risk-score",
+  "slug": "pr-risk-score",
+  "url": "https://www.producthunt.com/products/pr-risk-score",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "Risk-score pull requests so only the risky ones need a human",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 422,
+  "votes": 5,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

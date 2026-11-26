@@ -1,0 +1,14 @@
+{
+  "name": "Cinema Hound",
+  "slug": "cinema-hound",
+  "url": "https://www.producthunt.com/products/cinema-hound",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Find your next great movie, from around the world",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1286,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PetHubble",
+  "slug": "pethubble",
+  "url": "https://www.producthunt.com/products/pethubble",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Your dog and cat health records, all in one app",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1574,
+  "votes": 2,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

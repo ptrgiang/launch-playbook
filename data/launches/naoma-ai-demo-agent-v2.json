@@ -27,5 +27,57 @@
     "https://ph-files.imgix.net/9253e2e6-dd89-4a3c-be6d-0da0bbef1d4a.png?auto=format",
     "https://ph-files.imgix.net/328ea02f-f2ea-4fae-80aa-47d0d6a643ff.png?auto=format",
     "https://ph-files.imgix.net/c62a21c4-c21c-4617-9056-dd5a9fe67367.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "dmitry_zakharov_ai",
+      "name": "Dmitry Zakharov",
+      "headline": "Founder & CEO at Naoma AI",
+      "account_created": "2024-07-11T19:27:07Z",
+      "followers": 284,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "david_klassen",
+      "name": "David Klassen",
+      "headline": "Co-founder, CTO, Go player",
+      "account_created": "2025-02-11T04:04:43Z",
+      "followers": 103,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "dzmitry_ivanouski",
+      "name": "Dima Ivanouski",
+      "headline": "Co-founder @ Naoma AI",
+      "account_created": "2023-10-03T08:25:27Z",
+      "followers": 67,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "anna_bunina",
+      "name": "Anna Bunina",
+      "headline": "Psychologist & coach ",
+      "account_created": "2025-02-17T10:53:32Z",
+      "followers": 34,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "trave",
+      "name": "Slava",
+      "headline": "SmartTV developer, Interfaced",
+      "account_created": "2016-11-29T11:58:06Z",
+      "followers": 28,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 1
+    }
   ]
 }

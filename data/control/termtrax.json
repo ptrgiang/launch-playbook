@@ -1,0 +1,14 @@
+{
+  "name": "TermTrax",
+  "slug": "termtrax",
+  "url": "https://www.producthunt.com/products/termtrax",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "AI review of vendor terms against your own playbook",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 622,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "LinkOpen",
+  "slug": "linkopen",
+  "url": "https://www.producthunt.com/products/linkopen",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Make slack://, obsidian:// and other app links clickable",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 921,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

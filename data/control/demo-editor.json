@@ -1,0 +1,14 @@
+{
+  "name": "Demo Editor",
+  "slug": "demo-editor",
+  "url": "https://www.producthunt.com/products/demo-editor",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "Promo video, Hook video, Product demo, Free trial, and more.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 135,
+  "votes": 10,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

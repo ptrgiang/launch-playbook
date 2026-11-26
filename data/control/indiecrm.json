@@ -1,0 +1,14 @@
+{
+  "name": "IndieCRM",
+  "slug": "indiecrm",
+  "url": "https://www.producthunt.com/products/indiecrm",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Simple sales CRM for indie builders and small teams",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 393,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

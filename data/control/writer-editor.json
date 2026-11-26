@@ -1,0 +1,14 @@
+{
+  "name": "Writer Editor",
+  "slug": "writer-editor",
+  "url": "https://www.producthunt.com/products/writer-editor",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "A text editor with AI working on your text with your context",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1200,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

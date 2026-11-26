@@ -1,0 +1,14 @@
+{
+  "name": "Glowly",
+  "slug": "glowly",
+  "url": "https://www.producthunt.com/products/glowly",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "Fix one face in a photo. Still you.",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 832,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

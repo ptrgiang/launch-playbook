@@ -1,0 +1,14 @@
+{
+  "name": "Downbit",
+  "slug": "downbit",
+  "url": "https://www.producthunt.com/products/downbit",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "Native video & audio downloader. No yt-dlp.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 780,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

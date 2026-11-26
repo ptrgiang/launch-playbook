@@ -1,0 +1,14 @@
+{
+  "name": "TalkOS",
+  "slug": "talkos",
+  "url": "https://www.producthunt.com/products/talkos",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "tagline": "Reply to any message by voice, right where you type",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 620,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

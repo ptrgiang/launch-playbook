@@ -1,0 +1,14 @@
+{
+  "name": "NapPilot",
+  "slug": "nappilot",
+  "url": "https://www.producthunt.com/products/nappilot",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Schedule your PC's shutdown, sleep, restart and wake-up.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 956,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

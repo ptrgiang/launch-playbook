@@ -1,0 +1,14 @@
+{
+  "name": "Hostinvo",
+  "slug": "hostinvo",
+  "url": "https://www.producthunt.com/products/hostinvo",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Self-hosted Billing & Automation for Hosting Providers",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 99,
+  "votes": 12,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

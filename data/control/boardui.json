@@ -1,0 +1,14 @@
+{
+  "name": "BoardUI",
+  "slug": "boardui",
+  "url": "https://www.producthunt.com/products/boardui",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "React design system for agentic products",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 694,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

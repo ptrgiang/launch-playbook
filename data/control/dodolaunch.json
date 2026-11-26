@@ -1,0 +1,14 @@
+{
+  "name": "DodoLaunch",
+  "slug": "dodolaunch",
+  "url": "https://www.producthunt.com/products/dodolaunch",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "Launch your SaaS free and get found on Google and AI search",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 776,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

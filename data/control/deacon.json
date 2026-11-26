@@ -1,0 +1,14 @@
+{
+  "name": "Deacon",
+  "slug": "deacon",
+  "url": "https://www.producthunt.com/products/deacon",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "AI support that talks to your users and your coding agent",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 297,
+  "votes": 6,
+  "comments": 5,
+  "featured": false,
+  "source": "api"
+}

@@ -29,5 +29,47 @@
     "https://ph-files.imgix.net/20b725f4-87a1-477e-9870-81eacb62eb74.jpeg?auto=format",
     "https://ph-files.imgix.net/5e7986d5-7aca-4718-b40f-1d0592a8a978.jpeg?auto=format",
     "https://ph-files.imgix.net/70fe28e5-0006-498f-adce-4f9fcb6f26f6.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "nikolaos_chr",
+      "name": "Nikolaos Christoforakos",
+      "headline": "Co-founder at tiun.io",
+      "account_created": "2026-02-06T09:13:19Z",
+      "followers": 67,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "sandro_zweig1",
+      "name": "Sandro Zweig",
+      "headline": "Co-founder at tiun.io",
+      "account_created": "2025-07-18T08:15:40Z",
+      "followers": 21,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "christian_heiduschke",
+      "name": "Christian Heiduschke",
+      "headline": "Co-founder at tiun.io",
+      "account_created": "2025-07-08T12:53:01Z",
+      "followers": 15,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "srdjan_pajic",
+      "name": "Srdjan Pajic",
+      "headline": "Software engineer at tiun.io",
+      "account_created": "2026-06-30T08:30:31Z",
+      "followers": 11,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "FollowX.today",
+  "slug": "followx-today",
+  "url": "https://www.producthunt.com/products/followx-today",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Grow on X with founders who follow back for real",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 34,
+  "votes": 25,
+  "comments": 8,
+  "featured": false,
+  "source": "api"
+}

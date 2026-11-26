@@ -1,0 +1,14 @@
+{
+  "name": "ArtefactFlow",
+  "slug": "artefactflow",
+  "url": "https://www.producthunt.com/products/artefactflow",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Everything you ship, tracked from build to production",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 666,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

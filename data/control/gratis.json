@@ -1,0 +1,14 @@
+{
+  "name": "gratis",
+  "slug": "gratis",
+  "url": "https://www.producthunt.com/products/gratis",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "Use open source AI models locally for free in a few clicks.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 2285,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

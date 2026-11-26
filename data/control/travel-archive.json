@@ -1,0 +1,14 @@
+{
+  "name": "Travel Archive",
+  "slug": "travel-archive",
+  "url": "https://www.producthunt.com/products/travel-archive",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Map your trips. Turn your photos into travel books.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2160,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

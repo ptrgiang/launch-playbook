@@ -1,0 +1,14 @@
+{
+  "name": "CaptchaNo",
+  "slug": "captchano",
+  "url": "https://www.producthunt.com/products/captchano",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "Captcha solver API for scrapers, QA tests and AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 713,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

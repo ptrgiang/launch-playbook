@@ -1,0 +1,14 @@
+{
+  "name": "vpsmon Cloud",
+  "slug": "vpsmon-cloud",
+  "url": "https://www.producthunt.com/products/vpsmon-cloud",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Monitor your VPSs and homelab with no inbound ports",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1778,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Lead Refresh",
+  "slug": "lead-refresh",
+  "url": "https://www.producthunt.com/products/lead-refresh",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Find job and company changes in your LinkedIn contact CSV",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1465,
+  "votes": 2,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

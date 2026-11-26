@@ -1,0 +1,14 @@
+{
+  "name": "BS Grid",
+  "slug": "bs-grid",
+  "url": "https://www.producthunt.com/products/bs-grid",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Free, open-source Angular data grid with no dependencies",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 190,
+  "votes": 8,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

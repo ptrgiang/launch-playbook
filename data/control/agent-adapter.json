@@ -1,0 +1,14 @@
+{
+  "name": "Agent Adapter",
+  "slug": "agent-adapter",
+  "url": "https://www.producthunt.com/products/agent-adapter",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "A new agentic framework that runs your tools anywhere",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1215,
+  "votes": 2,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

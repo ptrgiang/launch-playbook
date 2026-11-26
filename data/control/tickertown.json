@@ -1,0 +1,14 @@
+{
+  "name": "TickerTown",
+  "slug": "tickertown",
+  "url": "https://www.producthunt.com/products/tickertown",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "tagline": "Pixel-art stock market simulator.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 178,
+  "votes": 9,
+  "comments": 6,
+  "featured": false,
+  "source": "api"
+}

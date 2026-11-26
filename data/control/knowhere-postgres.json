@@ -1,0 +1,14 @@
+{
+  "name": "Knowhere Postgres",
+  "slug": "knowhere-postgres",
+  "url": "https://www.producthunt.com/products/knowhere-postgres",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Native PostgreSQL IDE for Mac, with notebooks that remember",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1453,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

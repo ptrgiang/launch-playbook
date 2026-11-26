@@ -1,0 +1,14 @@
+{
+  "name": "BookWorm: Reading Tracker",
+  "slug": "bookworm-reading-tracker",
+  "url": "https://www.producthunt.com/products/bookworm-reading-tracker",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Books and audiobooks, with daily goals, streaks and quests",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 473,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

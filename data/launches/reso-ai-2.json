@@ -28,5 +28,57 @@
     "https://ph-files.imgix.net/9b97dcd7-ad05-4825-9e01-69aa2aaaf684.png?auto=format",
     "https://ph-files.imgix.net/22abc50c-c8a5-4705-9ca5-078cc08b1f82.jpeg?auto=format",
     "https://ph-files.imgix.net/36d7aff5-8871-4641-ba77-19d965e4389b.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "swati_paliwal",
+      "name": "Swati Paliwal",
+      "headline": "Founder Resollm.ai (AI agent for GEO)",
+      "account_created": "2025-05-15T07:16:17Z",
+      "followers": 664,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "mohit_gupta138",
+      "name": "Mohit Gupta",
+      "headline": "Co-founder, ReSO",
+      "account_created": "2026-02-04T12:59:31Z",
+      "followers": 26,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "himani_sah1",
+      "name": "Himani Sah",
+      "headline": "On the way to explore and learn",
+      "account_created": "2024-01-06T04:51:19Z",
+      "followers": 192,
+      "made_posts_total": 6,
+      "launches_before_this": 5,
+      "featured_before": 5
+    },
+    {
+      "username": "aanchal_dahiya",
+      "name": "Aanchal Dahiya",
+      "headline": "Head of Customer Success, ReSO AI",
+      "account_created": "2026-02-04T12:13:30Z",
+      "followers": 40,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "bhawna_rathee",
+      "name": "Bhawna Rathee",
+      "headline": "Growth and Marketing Executive at ReSo",
+      "account_created": "2026-04-14T10:08:58Z",
+      "followers": 37,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

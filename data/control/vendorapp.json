@@ -1,0 +1,14 @@
+{
+  "name": "Vendorapp",
+  "slug": "vendorapp",
+  "url": "https://www.producthunt.com/products/vendorapp",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Vendor Management & Third-Party Risk Software",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 629,
+  "votes": 4,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Lapsed Member Mapper",
+  "slug": "lapsed-member-mapper",
+  "url": "https://www.producthunt.com/products/lapsed-member-mapper",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Sort a lapsed list into tiers",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 901,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

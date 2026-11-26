@@ -1,0 +1,14 @@
+{
+  "name": "MailCheckr",
+  "slug": "mailcheckr",
+  "url": "https://www.producthunt.com/products/mailcheckr",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Email verification infrastructure",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1489,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

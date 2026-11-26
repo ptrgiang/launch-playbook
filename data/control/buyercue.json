@@ -1,0 +1,14 @@
+{
+  "name": "BuyerCue",
+  "slug": "buyercue",
+  "url": "https://www.producthunt.com/products/buyercue",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Find SaaS prospects with evidence of growth investment",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 239,
+  "votes": 7,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

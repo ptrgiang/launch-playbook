@@ -1,0 +1,14 @@
+{
+  "name": "TrendsFast",
+  "slug": "trendsfast",
+  "url": "https://www.producthunt.com/products/trendsfast",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Niche trends & competitor intelligence via hosted API/MCP",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1147,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

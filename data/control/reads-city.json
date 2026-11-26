@@ -1,0 +1,14 @@
+{
+  "name": "reads.city",
+  "slug": "reads-city",
+  "url": "https://www.producthunt.com/products/reads-city",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Find reading clubs and places to read, city by city",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 340,
+  "votes": 6,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

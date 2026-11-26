@@ -1,0 +1,14 @@
+{
+  "name": "PWR",
+  "slug": "pwr",
+  "url": "https://www.producthunt.com/products/pwr",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Build playable games and apps with autonomous AI agents",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1617,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

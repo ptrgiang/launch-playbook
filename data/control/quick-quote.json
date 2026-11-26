@@ -1,0 +1,14 @@
+{
+  "name": "Quick Quote",
+  "slug": "quick-quote",
+  "url": "https://www.producthunt.com/products/quick-quote",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Quotes & invoices that Claude sets up for your business",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1622,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

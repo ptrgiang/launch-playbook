@@ -1,0 +1,14 @@
+{
+  "name": "Specbook",
+  "slug": "specbook",
+  "url": "https://www.producthunt.com/products/specbook",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Storybook for APIs - specs that come to life",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 612,
+  "votes": 4,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

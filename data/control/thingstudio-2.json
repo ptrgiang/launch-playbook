@@ -1,0 +1,14 @@
+{
+  "name": "ThingStudio",
+  "slug": "thingstudio-2",
+  "url": "https://www.producthunt.com/products/thingstudio-2",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Node-RED-style flow programming for microcontrollers",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1741,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

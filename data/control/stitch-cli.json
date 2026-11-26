@@ -1,0 +1,14 @@
+{
+  "name": "Stitch CLI",
+  "slug": "stitch-cli",
+  "url": "https://www.producthunt.com/products/stitch-cli",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Use Stitch designs directly from your CLI ",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1104,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

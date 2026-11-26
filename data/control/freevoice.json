@@ -1,0 +1,14 @@
+{
+  "name": "FreeVoice",
+  "slug": "freevoice",
+  "url": "https://www.producthunt.com/products/freevoice",
+  "launch_date": "2026-11-11",
+  "day_of_week": "Wednesday",
+  "tagline": "Voice rooms for you and your friends, with games built in",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 526,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

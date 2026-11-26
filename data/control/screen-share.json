@@ -1,0 +1,14 @@
+{
+  "name": "Screen Share",
+  "slug": "screen-share",
+  "url": "https://www.producthunt.com/products/screen-share",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Share your screen live with a link",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 343,
+  "votes": 6,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

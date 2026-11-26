@@ -1,0 +1,14 @@
+{
+  "name": "NPC Filter",
+  "slug": "npc-filter",
+  "url": "https://www.producthunt.com/products/npc-filter",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Filter AI slop on LinkedIn, X and Reddit, and see why",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 970,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

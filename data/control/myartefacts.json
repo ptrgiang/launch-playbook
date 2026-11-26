@@ -1,0 +1,14 @@
+{
+  "name": "myartefacts",
+  "slug": "myartefacts",
+  "url": "https://www.producthunt.com/products/myartefacts",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "A private home for everything your AI agents make",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 953,
+  "votes": 3,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

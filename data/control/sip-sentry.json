@@ -1,0 +1,14 @@
+{
+  "name": "SIP Sentry",
+  "slug": "sip-sentry",
+  "url": "https://www.producthunt.com/products/sip-sentry",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "SIP Monitoring for Trunks, Registrars and SBCs",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1085,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

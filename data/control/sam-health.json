@@ -1,0 +1,14 @@
+{
+  "name": "Sam Health",
+  "slug": "sam-health",
+  "url": "https://www.producthunt.com/products/sam-health",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "All-in-one chronic condition app, now on your Apple Watch",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 50,
+  "votes": 20,
+  "comments": 5,
+  "featured": false,
+  "source": "api"
+}

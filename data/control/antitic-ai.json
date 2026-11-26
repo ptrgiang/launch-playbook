@@ -1,0 +1,14 @@
+{
+  "name": "AntiTic AI",
+  "slug": "antitic-ai",
+  "url": "https://www.producthunt.com/products/antitic-ai",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Detect & strip AI slop from text with deterministic linting",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1836,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Listos.app",
+  "slug": "listos-app",
+  "url": "https://www.producthunt.com/products/listos-app",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Free browser productivity tools, no account needed",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2001,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

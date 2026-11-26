@@ -1,0 +1,14 @@
+{
+  "name": "Credit Ninja",
+  "slug": "credit-ninja",
+  "url": "https://www.producthunt.com/products/credit-ninja",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Track every credit card, due date and debt payoff",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 745,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

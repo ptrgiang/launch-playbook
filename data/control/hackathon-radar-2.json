@@ -1,0 +1,14 @@
+{
+  "name": "Hackathon Radar",
+  "slug": "hackathon-radar-2",
+  "url": "https://www.producthunt.com/products/hackathon-radar-2",
+  "launch_date": "2026-11-11",
+  "day_of_week": "Wednesday",
+  "tagline": "Find open hackathons that fit your team, with a fit score",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1966,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

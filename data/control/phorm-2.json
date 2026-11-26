@@ -1,0 +1,14 @@
+{
+  "name": "PHORM",
+  "slug": "phorm-2",
+  "url": "https://www.producthunt.com/products/phorm-2",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Turn any photo into a 3D print. No modeling, no fixing",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 144,
+  "votes": 10,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

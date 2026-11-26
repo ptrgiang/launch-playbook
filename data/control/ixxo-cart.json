@@ -1,0 +1,14 @@
+{
+  "name": "IXXO Cart",
+  "slug": "ixxo-cart",
+  "url": "https://www.producthunt.com/products/ixxo-cart",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Online store for €1 a month, 0% of your sales",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1982,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

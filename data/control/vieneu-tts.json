@@ -1,0 +1,14 @@
+{
+  "name": "VieNeu-TTS",
+  "slug": "vieneu-tts",
+  "url": "https://www.producthunt.com/products/vieneu-tts",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Vietnamese text-to-speech with voice cloning, on-device",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1180,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

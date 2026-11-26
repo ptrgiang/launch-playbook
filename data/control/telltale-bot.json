@@ -1,0 +1,14 @@
+{
+  "name": "Telltale Bot",
+  "slug": "telltale-bot",
+  "url": "https://www.producthunt.com/products/telltale-bot",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Bot and Agent Detection",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 352,
+  "votes": 6,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

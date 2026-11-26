@@ -1,0 +1,14 @@
+{
+  "name": "rungkit",
+  "slug": "rungkit",
+  "url": "https://www.producthunt.com/products/rungkit",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "AI agents edit PLC ladder logic and test it on a simulator",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2361,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

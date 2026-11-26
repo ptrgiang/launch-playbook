@@ -27,5 +27,127 @@
     "https://ph-files.imgix.net/2ebb13ee-589f-4f14-9eb6-1e70b413a863.png?auto=format",
     "https://ph-files.imgix.net/35123271-fa98-4b46-a958-159f87b0716f.png?auto=format",
     "https://ph-files.imgix.net/01fde82c-ad06-4b0a-b705-12593ba82245.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "fmerian",
+      "name": "fmerian",
+      "headline": "hunting devtools - kilo.ai, mastra.ai",
+      "account_created": "2014-07-07T07:52:28Z",
+      "followers": 115678,
+      "made_posts_total": 15,
+      "launches_before_this": 11,
+      "featured_before": 10
+    },
+    {
+      "username": "bookercodes",
+      "name": "Alex Booker",
+      "headline": null,
+      "account_created": "2015-08-23T08:33:29Z",
+      "followers": 645,
+      "made_posts_total": 6,
+      "launches_before_this": 5,
+      "featured_before": 4
+    },
+    {
+      "username": "calcsam",
+      "name": "Sam Bhagwat",
+      "headline": "Software Engineer",
+      "account_created": "2015-01-07T01:42:20Z",
+      "followers": 804,
+      "made_posts_total": 4,
+      "launches_before_this": 3,
+      "featured_before": 3
+    },
+    {
+      "username": "smthomas3",
+      "name": "Shane Thomas",
+      "headline": "Co-founder of Mastra",
+      "account_created": "2023-10-06T10:37:27Z",
+      "followers": 18,
+      "made_posts_total": 4,
+      "launches_before_this": 3,
+      "featured_before": 3
+    },
+    {
+      "username": "tonykovanen",
+      "name": "Tony Kovanen",
+      "headline": "Co-Founder & CTO @ ▲ZEIT",
+      "account_created": "2016-05-10T16:53:48Z",
+      "followers": 303,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 1
+    },
+    {
+      "username": "sam_bhagwat",
+      "name": "Sam Bhagwat",
+      "headline": null,
+      "account_created": "2019-07-19T12:54:22Z",
+      "followers": 12,
+      "made_posts_total": 4,
+      "launches_before_this": 3,
+      "featured_before": 3
+    },
+    {
+      "username": "abhi_aiyer",
+      "name": "Abhi Aiyer",
+      "headline": null,
+      "account_created": "2018-12-05T19:23:18Z",
+      "followers": 7,
+      "made_posts_total": 4,
+      "launches_before_this": 3,
+      "featured_before": 3
+    },
+    {
+      "username": "paulscanlon",
+      "name": "Paul Scanlon",
+      "headline": "Technical Product Marketing Manager",
+      "account_created": "2026-01-19T15:49:33Z",
+      "followers": 10,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "patrycja2",
+      "name": "Patrycja Jenkner",
+      "headline": "Product Marketer at Mastra",
+      "account_created": "2023-10-23T07:57:46Z",
+      "followers": 20,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "jalco",
+      "name": "Justin Levine",
+      "headline": "Product Engineer @ Mastra",
+      "account_created": "2026-03-13T00:09:39Z",
+      "followers": 25,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 0
+    },
+    {
+      "username": "suhdudeitsabhi",
+      "name": "Abhi Aiyer",
+      "headline": "Cofounder and CTO of Mastra.ai",
+      "account_created": "2025-03-04T01:31:17Z",
+      "followers": 8,
+      "made_posts_total": 4,
+      "launches_before_this": 3,
+      "featured_before": 3
+    },
+    {
+      "username": "jsumnersmith",
+      "name": "Joel Smith",
+      "headline": "Dev Tools PM",
+      "account_created": "2019-01-08T16:23:20Z",
+      "followers": 89,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 0
+    }
   ]
 }

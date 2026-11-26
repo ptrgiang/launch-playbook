@@ -1,0 +1,14 @@
+{
+  "name": "Agent City",
+  "slug": "agent-city",
+  "url": "https://www.producthunt.com/products/agent-city",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Your AI coding agents as gangs in a 3D Miami Beach",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1827,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

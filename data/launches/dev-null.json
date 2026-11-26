@@ -31,5 +31,57 @@
     "https://ph-files.imgix.net/36756073-ca6a-4216-b24d-974ef80c66d2.png?auto=format",
     "https://ph-files.imgix.net/1e09d2e1-4766-41f2-a750-c9065f90f80f.png?auto=format",
     "https://ph-files.imgix.net/86ed891e-3c9c-4100-ad99-5f4d522972be.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "nunomaduro",
+      "name": "nunomaduro",
+      "headline": "Laravel Core Team Member",
+      "account_created": "2018-02-13T13:52:11Z",
+      "followers": 2707,
+      "made_posts_total": 7,
+      "launches_before_this": 6,
+      "featured_before": 3
+    },
+    {
+      "username": "brendt_gd",
+      "name": "Brent",
+      "headline": "Author, programmer",
+      "account_created": "2020-10-30T08:20:45Z",
+      "followers": 1425,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 0
+    },
+    {
+      "username": "xheaven",
+      "name": "Márk Magyar",
+      "headline": "software engineer",
+      "account_created": "2026-10-19T09:23:36Z",
+      "followers": 29,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "matthieunapoli",
+      "name": "Matthieu Napoli",
+      "headline": "Creator of bref.sh",
+      "account_created": "2014-12-09T20:19:06Z",
+      "followers": 828,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 0
+    },
+    {
+      "username": "paulinevos",
+      "name": "Pauline -🦊- Vos",
+      "headline": null,
+      "account_created": "2026-10-19T09:26:40Z",
+      "followers": 18,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

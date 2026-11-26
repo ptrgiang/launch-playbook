@@ -29,5 +29,37 @@
     "https://ph-files.imgix.net/33ab5408-e18c-40ce-b174-8ddbb34d94be.jpeg?auto=format",
     "https://ph-files.imgix.net/2bd6e973-c360-4205-a2a3-11fde82b8dc2.jpeg?auto=format",
     "https://ph-files.imgix.net/2f839d96-5304-4b9a-814b-18dfbd9cc79d.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "diogo_almeida",
+      "name": "Diogo Almeida",
+      "headline": null,
+      "account_created": "2020-10-28T15:55:19Z",
+      "followers": 10,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "sashasheng",
+      "name": "Sasha Sheng",
+      "headline": "Software Engineer, Facebook",
+      "account_created": "2017-05-04T02:56:32Z",
+      "followers": 45,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "erik_gafni",
+      "name": "Erik Gafni",
+      "headline": null,
+      "account_created": "2023-12-13T00:59:07Z",
+      "followers": 6,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

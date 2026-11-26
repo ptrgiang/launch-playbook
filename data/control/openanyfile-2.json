@@ -1,0 +1,14 @@
+{
+  "name": "OpenAnyFile",
+  "slug": "openanyfile-2",
+  "url": "https://www.producthunt.com/products/openanyfile-2",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Open 1000+ file types in your browser. Nothing uploaded.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 2048,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

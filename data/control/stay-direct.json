@@ -1,0 +1,14 @@
+{
+  "name": "Stay Direct",
+  "slug": "stay-direct",
+  "url": "https://www.producthunt.com/products/stay-direct",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Commission-free booking calendar for your rental site",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1100,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

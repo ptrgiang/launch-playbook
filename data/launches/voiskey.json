@@ -30,5 +30,57 @@
     "https://ph-files.imgix.net/65d1a0df-79f9-47ca-8b66-8641a845b484.png?auto=format",
     "https://ph-files.imgix.net/8338e1a4-a998-4d96-99de-448881badbf8.png?auto=format",
     "https://ph-files.imgix.net/6ca0d529-b562-49e3-bb26-6e5fc80cc01b.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "jenny_liu9",
+      "name": "Jenny Liu",
+      "headline": "Product manager, AI voice keyboard",
+      "account_created": "2026-08-03T06:17:16Z",
+      "followers": 27,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "rayjun_1110",
+      "name": "Raymond Wang",
+      "headline": "AI Product Manager | Creative Builder",
+      "account_created": "2026-08-24T18:40:25Z",
+      "followers": 7,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "lilycoco",
+      "name": "lilycoco",
+      "headline": null,
+      "account_created": "2025-07-09T02:05:34Z",
+      "followers": 5,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "sherriiiizhang",
+      "name": "Sherry Zhang",
+      "headline": "Product Marketing + Design ",
+      "account_created": "2026-08-24T20:55:49Z",
+      "followers": 5,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "chloe_dong",
+      "name": "Chloe D",
+      "headline": "Head of GTM @Voiskey",
+      "account_created": "2026-08-31T13:32:26Z",
+      "followers": 8,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

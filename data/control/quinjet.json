@@ -1,0 +1,14 @@
+{
+  "name": "Quinjet",
+  "slug": "quinjet",
+  "url": "https://www.producthunt.com/products/quinjet",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "tagline": "Git, pull requests and CI logs in one terminal UI",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 121,
+  "votes": 11,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

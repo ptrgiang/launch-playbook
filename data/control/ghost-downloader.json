@@ -1,0 +1,14 @@
+{
+  "name": "Ghost Downloader",
+  "slug": "ghost-downloader",
+  "url": "https://www.producthunt.com/products/ghost-downloader",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Downloader that sniffs page media and records live streams.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1382,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

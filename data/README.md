@@ -29,6 +29,15 @@ Each launch is a JSON file, `launches/<slug>.json`:
 
 Postmortem contributions append a `postmortem` object with the metrics from `templates/postmortem.md`.
 
+Each record may also carry `maker_history`: each maker's prior launches,
+prior featured count, and follower count at pull time (`tools/maker-history.mjs`).
+
+## Control set
+
+`control/` holds the baseline group: all **unfeatured** launches Oct 27 →
+Nov 25, 2026 (~2,400 records) — used to test whether featured status actually
+decides outcomes. Findings: [../docs/featured-gate.md](../docs/featured-gate.md).
+
 ## Contributing
 
 Launched with this playbook? PR your launch JSON (or your `postmortem.md`) here. Every retro makes the corpus smarter for the next launch — that's the flywheel.

@@ -1,0 +1,14 @@
+{
+  "name": "UGCGen",
+  "slug": "ugcgen",
+  "url": "https://www.producthunt.com/products/ugcgen",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Direct an AI agent to create UGC video ads",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2164,
+  "votes": 1,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "EcomUp",
+  "slug": "ecomup",
+  "url": "https://www.producthunt.com/products/ecomup",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "AI that runs your online shop's chats, orders and posts",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 380,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

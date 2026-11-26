@@ -1,0 +1,14 @@
+{
+  "name": "FishkApp",
+  "slug": "fishkapp",
+  "url": "https://www.producthunt.com/products/fishkapp",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "Flashcards with smart spaced repetition (FSRS)",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 814,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

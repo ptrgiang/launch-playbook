@@ -1,0 +1,14 @@
+{
+  "name": "Gitt",
+  "slug": "gitt",
+  "url": "https://www.producthunt.com/products/gitt",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Weekly launches for GitHub projects",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1383,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

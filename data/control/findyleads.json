@@ -1,0 +1,14 @@
+{
+  "name": "FindyLeads",
+  "slug": "findyleads",
+  "url": "https://www.producthunt.com/products/findyleads",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "enriches B2B leads from real-time LinkedIn",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 245,
+  "votes": 7,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

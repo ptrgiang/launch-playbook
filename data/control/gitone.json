@@ -1,0 +1,14 @@
+{
+  "name": "GitOne",
+  "slug": "gitone",
+  "url": "https://www.producthunt.com/products/gitone",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Your GitHub, rated like an F1 driver",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1960,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

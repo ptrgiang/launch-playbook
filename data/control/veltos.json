@@ -1,0 +1,14 @@
+{
+  "name": "VeltOS",
+  "slug": "veltos",
+  "url": "https://www.producthunt.com/products/veltos",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "A Debian-based Linux desktop inspired by Windows 11",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1768,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

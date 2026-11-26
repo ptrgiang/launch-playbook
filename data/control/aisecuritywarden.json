@@ -1,0 +1,14 @@
+{
+  "name": "aiSecurityWarden",
+  "slug": "aisecuritywarden",
+  "url": "https://www.producthunt.com/products/aisecuritywarden",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Human approval gate for your AI agent's secrets and actions",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1222,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

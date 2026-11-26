@@ -1,0 +1,14 @@
+{
+  "name": "natbox.io",
+  "slug": "natbox-io",
+  "url": "https://www.producthunt.com/products/natbox-io",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "NAT VPS from $1/month",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 957,
+  "votes": 3,
+  "comments": 5,
+  "featured": false,
+  "source": "api"
+}

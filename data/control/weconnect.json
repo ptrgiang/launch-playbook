@@ -1,0 +1,14 @@
+{
+  "name": "WeConnect",
+  "slug": "weconnect",
+  "url": "https://www.producthunt.com/products/weconnect",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "Enterprise operating platform for people and AI",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 150,
+  "votes": 10,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

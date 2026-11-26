@@ -1,0 +1,14 @@
+{
+  "name": "TGMini",
+  "slug": "tgmini",
+  "url": "https://www.producthunt.com/products/tgmini",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Build a mini site behind a button in your Telegram channel",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 127,
+  "votes": 11,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

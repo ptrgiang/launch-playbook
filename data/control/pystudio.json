@@ -1,0 +1,14 @@
+{
+  "name": "PyStudio",
+  "slug": "pystudio",
+  "url": "https://www.producthunt.com/products/pystudio",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "A lightweight, beginner-friendly Python IDE / learning code",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1031,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

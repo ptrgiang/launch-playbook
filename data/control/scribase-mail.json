@@ -1,0 +1,14 @@
+{
+  "name": "Scribase Mail",
+  "slug": "scribase-mail",
+  "url": "https://www.producthunt.com/products/scribase-mail",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Resend-compatible email API, switch with one line",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1069,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

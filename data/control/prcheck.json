@@ -1,0 +1,14 @@
+{
+  "name": "PRcheck",
+  "slug": "prcheck",
+  "url": "https://www.producthunt.com/products/prcheck",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Prove a human understood the AI code before it merges",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1020,
+  "votes": 3,
+  "comments": 5,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fish Audio Realtime STT",
+  "slug": "fish-audio-realtime-stt",
+  "url": "https://www.producthunt.com/products/fish-audio-realtime-stt",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Realtime speech-to-text for voice agents, $0.36 an hour",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 519,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

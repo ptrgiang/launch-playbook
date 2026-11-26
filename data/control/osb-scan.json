@@ -1,0 +1,14 @@
+{
+  "name": "OSB Scan",
+  "slug": "osb-scan",
+  "url": "https://www.producthunt.com/products/osb-scan",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Free offline document scanner. No watermark, no login",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 988,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Toaster",
+  "slug": "toaster-2",
+  "url": "https://www.producthunt.com/products/toaster-2",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Play any song and watch it turn into live code",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 444,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

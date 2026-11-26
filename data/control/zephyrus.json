@@ -1,0 +1,14 @@
+{
+  "name": "Zephyrus",
+  "slug": "zephyrus",
+  "url": "https://www.producthunt.com/products/zephyrus",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "Local-first AI harness: A robust orchestration workspace",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1813,
+  "votes": 2,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

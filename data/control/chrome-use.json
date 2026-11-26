@@ -1,0 +1,14 @@
+{
+  "name": "chrome-use",
+  "slug": "chrome-use",
+  "url": "https://www.producthunt.com/products/chrome-use",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Let any AI agent use the Chrome you're signed in to",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 480,
+  "votes": 4,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

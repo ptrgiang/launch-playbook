@@ -1,0 +1,14 @@
+{
+  "name": "Flurry",
+  "slug": "flurry-5",
+  "url": "https://www.producthunt.com/products/flurry-5",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Git-compatible source control with immutable changes",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 818,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

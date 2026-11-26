@@ -1,0 +1,14 @@
+{
+  "name": "Notabot",
+  "slug": "notabot",
+  "url": "https://www.producthunt.com/products/notabot",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Stop bots, not humans!",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 965,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CrawlerScan",
+  "slug": "crawlerscan",
+  "url": "https://www.producthunt.com/products/crawlerscan",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Professional URL Scanner",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 496,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

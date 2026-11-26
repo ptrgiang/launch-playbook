@@ -1,0 +1,14 @@
+{
+  "name": "Shuttio",
+  "slug": "shuttio",
+  "url": "https://www.producthunt.com/products/shuttio",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "Switch CRMs without losing notes, files and links.",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 123,
+  "votes": 11,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

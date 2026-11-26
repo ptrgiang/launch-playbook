@@ -1,0 +1,14 @@
+{
+  "name": "MythShot",
+  "slug": "mythshot",
+  "url": "https://www.producthunt.com/products/mythshot",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Turn one sentence into a voiced, animated video",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1529,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

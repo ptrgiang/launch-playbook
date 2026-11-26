@@ -1,0 +1,14 @@
+{
+  "name": "Foldspace Product Agent",
+  "slug": "foldspace-product-agent",
+  "url": "https://www.producthunt.com/products/foldspace-product-agent",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Agent-led product experience. Users ask, it does the work",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 32,
+  "votes": 26,
+  "comments": 15,
+  "featured": false,
+  "source": "api"
+}

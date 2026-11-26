@@ -1,0 +1,14 @@
+{
+  "name": "Lirico",
+  "slug": "lirico",
+  "url": "https://www.producthunt.com/products/lirico",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "Synced lyrics in your Windows taskbar, any language",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2000,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

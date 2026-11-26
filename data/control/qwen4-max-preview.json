@@ -1,0 +1,14 @@
+{
+  "name": "Qwen4-Max-Preview",
+  "slug": "qwen4-max-preview",
+  "url": "https://www.producthunt.com/products/qwen4-max-preview",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "A multimodal AI model for reasoning, coding, and agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 67,
+  "votes": 16,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

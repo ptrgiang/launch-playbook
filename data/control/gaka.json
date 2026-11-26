@@ -1,0 +1,14 @@
+{
+  "name": "Gaka",
+  "slug": "gaka",
+  "url": "https://www.producthunt.com/products/gaka",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Open your apps and move your windows without a click",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 1379,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

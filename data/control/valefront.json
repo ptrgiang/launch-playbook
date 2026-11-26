@@ -1,0 +1,14 @@
+{
+  "name": "Valefront",
+  "slug": "valefront",
+  "url": "https://www.producthunt.com/products/valefront",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "One API that picks the right AI model for every prompt",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1169,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

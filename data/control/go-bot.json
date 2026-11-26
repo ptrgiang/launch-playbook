@@ -1,0 +1,14 @@
+{
+  "name": "go-bot",
+  "slug": "go-bot",
+  "url": "https://www.producthunt.com/products/go-bot",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "A self-hosted personal agent with memory and initiative",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2282,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

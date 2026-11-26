@@ -1,0 +1,14 @@
+{
+  "name": "Dx",
+  "slug": "dx",
+  "url": "https://www.producthunt.com/products/dx",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Pure-Rust AI TUI with LSP editor, media player & 47 ACPs",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1333,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Argus Agent Test Lab",
+  "slug": "argus-agent-test-lab",
+  "url": "https://www.producthunt.com/products/argus-agent-test-lab",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "adversarial testing for AI agents that move money",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 185,
+  "votes": 8,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

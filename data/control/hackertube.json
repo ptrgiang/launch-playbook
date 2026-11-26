@@ -1,0 +1,14 @@
+{
+  "name": "HackerTube",
+  "slug": "hackertube",
+  "url": "https://www.producthunt.com/products/hackertube",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "YouTube videos that HN keeps telling each other to watch",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1401,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

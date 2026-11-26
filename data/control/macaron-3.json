@@ -1,0 +1,14 @@
+{
+  "name": "Macaron",
+  "slug": "macaron-3",
+  "url": "https://www.producthunt.com/products/macaron-3",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Turn customer messages into fixes ready for review",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2012,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

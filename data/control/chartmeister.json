@@ -1,0 +1,14 @@
+{
+  "name": "Chartmeister",
+  "slug": "chartmeister",
+  "url": "https://www.producthunt.com/products/chartmeister",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Build interactive waterfall charts with custom colors",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1281,
+  "votes": 2,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

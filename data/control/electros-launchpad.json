@@ -1,0 +1,14 @@
+{
+  "name": "Electros LaunchPad",
+  "slug": "electros-launchpad",
+  "url": "https://www.producthunt.com/products/electros-launchpad",
+  "launch_date": "2026-11-05",
+  "day_of_week": "Thursday",
+  "tagline": "Turn your machine into a private AI cloud",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 198,
+  "votes": 8,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

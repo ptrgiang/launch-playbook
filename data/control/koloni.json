@@ -1,0 +1,14 @@
+{
+  "name": "Koloni",
+  "slug": "koloni",
+  "url": "https://www.producthunt.com/products/koloni",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Run Claude Code, Codex and Copilot CLI as one local team",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 894,
+  "votes": 3,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

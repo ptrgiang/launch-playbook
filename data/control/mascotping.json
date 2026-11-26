@@ -1,0 +1,14 @@
+{
+  "name": "MascotPing",
+  "slug": "mascotping",
+  "url": "https://www.producthunt.com/products/mascotping",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Animated mascots for WordPress and WooCommerce",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 2017,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

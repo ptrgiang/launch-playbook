@@ -1,0 +1,14 @@
+{
+  "name": "Caltunes",
+  "slug": "caltunes",
+  "url": "https://www.producthunt.com/products/caltunes",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "Every song you play in Apple Music, saved on a calendar",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 109,
+  "votes": 11,
+  "comments": 6,
+  "featured": false,
+  "source": "api"
+}

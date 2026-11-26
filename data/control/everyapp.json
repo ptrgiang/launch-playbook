@@ -1,0 +1,14 @@
+{
+  "name": "EveryApp",
+  "slug": "everyapp",
+  "url": "https://www.producthunt.com/products/everyapp",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Every app you need. Even the ones that don't exist.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 518,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

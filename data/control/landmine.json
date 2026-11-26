@@ -1,0 +1,14 @@
+{
+  "name": "landmine",
+  "slug": "landmine",
+  "url": "https://www.producthunt.com/products/landmine",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Lockfile in. Known bugs out. Before your agent edits.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 317,
+  "votes": 6,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

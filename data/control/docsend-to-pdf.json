@@ -1,0 +1,14 @@
+{
+  "name": "DocSend to PDF",
+  "slug": "docsend-to-pdf",
+  "url": "https://www.producthunt.com/products/docsend-to-pdf",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Keep a PDF of the DocSend decks you're sent",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1325,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

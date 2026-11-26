@@ -1,0 +1,14 @@
+{
+  "name": "Just Send Files",
+  "slug": "just-send-files",
+  "url": "https://www.producthunt.com/products/just-send-files",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Send files with one link. Others can add theirs too.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 883,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

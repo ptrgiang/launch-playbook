@@ -1,0 +1,14 @@
+{
+  "name": "HelplineCheck",
+  "slug": "helplinecheck",
+  "url": "https://www.producthunt.com/products/helplinecheck",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Test your helpline bot before someone in need does",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1970,
+  "votes": 1,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

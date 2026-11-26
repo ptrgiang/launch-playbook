@@ -1,0 +1,14 @@
+{
+  "name": "Shipcontent",
+  "slug": "shipcontent",
+  "url": "https://www.producthunt.com/products/shipcontent",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Turn your SaaS product into marketing posts with one command",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 275,
+  "votes": 7,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

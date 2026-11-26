@@ -1,0 +1,14 @@
+{
+  "name": "MeteorVid",
+  "slug": "meteorvid",
+  "url": "https://www.producthunt.com/products/meteorvid",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "AI video, image, voice and music generator",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 561,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

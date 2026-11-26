@@ -1,0 +1,14 @@
+{
+  "name": "Chronos Gateway",
+  "slug": "chronos-gateway",
+  "url": "https://www.producthunt.com/products/chronos-gateway",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "The firewall between AI agents and your production data",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 729,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

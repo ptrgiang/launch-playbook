@@ -1,0 +1,14 @@
+{
+  "name": "Runsite",
+  "slug": "runsite",
+  "url": "https://www.producthunt.com/products/runsite",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "Git push deploys with Postgres and Redis, hosted in Germany",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2096,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

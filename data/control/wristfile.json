@@ -1,0 +1,14 @@
+{
+  "name": "WristFile",
+  "slug": "wristfile",
+  "url": "https://www.producthunt.com/products/wristfile",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Read your PDFs, notes and photos on your Apple Watch",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1800,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

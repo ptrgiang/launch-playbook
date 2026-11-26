@@ -1,0 +1,14 @@
+{
+  "name": "Game of the Day",
+  "slug": "game-of-the-day",
+  "url": "https://www.producthunt.com/products/game-of-the-day",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Every game ranked, nothing spoiled",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 824,
+  "votes": 3,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

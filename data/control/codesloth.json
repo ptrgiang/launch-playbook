@@ -1,0 +1,14 @@
+{
+  "name": "CodeSloth",
+  "slug": "codesloth",
+  "url": "https://www.producthunt.com/products/codesloth",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "Review big GitHub PRs in a sensible order",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1296,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

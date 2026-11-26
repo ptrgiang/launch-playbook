@@ -1,0 +1,14 @@
+{
+  "name": "Lantern",
+  "slug": "lantern-10",
+  "url": "https://www.producthunt.com/products/lantern-10",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Map your codebase and review PRs for your AI coding agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 900,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

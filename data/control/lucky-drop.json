@@ -1,0 +1,14 @@
+{
+  "name": "Lucky Drop",
+  "slug": "lucky-drop",
+  "url": "https://www.producthunt.com/products/lucky-drop",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Drop, merge, and chase your next high score",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2009,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

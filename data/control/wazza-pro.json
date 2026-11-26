@@ -1,0 +1,14 @@
+{
+  "name": "Wazza Pro",
+  "slug": "wazza-pro",
+  "url": "https://www.producthunt.com/products/wazza-pro",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "AI production pipeline for film and animation studios",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 128,
+  "votes": 11,
+  "comments": 7,
+  "featured": false,
+  "source": "api"
+}

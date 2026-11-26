@@ -1,0 +1,14 @@
+{
+  "name": "MaxBot",
+  "slug": "maxbot",
+  "url": "https://www.producthunt.com/products/maxbot",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "Twitch roles in Discord, an economy and overlays, hosted",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2018,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

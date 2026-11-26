@@ -1,0 +1,14 @@
+{
+  "name": "Spa Day Pets",
+  "slug": "spa-day-pets",
+  "url": "https://www.producthunt.com/products/spa-day-pets",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Turn pet photos into AI portraits in 48 unique styles",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 611,
+  "votes": 4,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

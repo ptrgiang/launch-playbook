@@ -1,0 +1,14 @@
+{
+  "name": "mamitsu",
+  "slug": "mamitsu",
+  "url": "https://www.producthunt.com/products/mamitsu",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "An API and MCP that watches social videos and returns JSON",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 73,
+  "votes": 15,
+  "comments": 9,
+  "featured": false,
+  "source": "api"
+}

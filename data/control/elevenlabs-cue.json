@@ -1,0 +1,14 @@
+{
+  "name": "ElevenLabs Cue",
+  "slug": "elevenlabs-cue",
+  "url": "https://www.producthunt.com/products/elevenlabs-cue",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Character-level audio alignment in one pass, no chunking",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 788,
+  "votes": 3,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

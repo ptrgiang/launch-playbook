@@ -1,0 +1,14 @@
+{
+  "name": "Quoteo",
+  "slug": "quoteo",
+  "url": "https://www.producthunt.com/products/quoteo",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Invoicing and business management for French freelancers",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1040,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

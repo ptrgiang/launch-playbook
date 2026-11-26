@@ -1,0 +1,14 @@
+{
+  "name": "OrchesTerra",
+  "slug": "orchesterra-2",
+  "url": "https://www.producthunt.com/products/orchesterra-2",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Generate, govern and reconcile Terraform from any repo",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 985,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Vybscan",
+  "slug": "vybscan",
+  "url": "https://www.producthunt.com/products/vybscan",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Comprehensive secure SDLC: SAST, SCA, DAST, cloud posture",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 451,
+  "votes": 5,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

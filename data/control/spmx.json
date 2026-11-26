@@ -1,0 +1,14 @@
+{
+  "name": "spmx",
+  "slug": "spmx",
+  "url": "https://www.producthunt.com/products/spmx",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Cut SwiftPM & AI worktree disk usage to zero on macOS",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1096,
+  "votes": 3,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

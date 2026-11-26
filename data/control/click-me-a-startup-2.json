@@ -1,0 +1,14 @@
+{
+  "name": "Click me a Startup 2",
+  "slug": "click-me-a-startup-2",
+  "url": "https://www.producthunt.com/products/click-me-a-startup-2",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Can you build a Startup in 365 days one click at a time?",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 731,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

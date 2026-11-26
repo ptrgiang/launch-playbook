@@ -1,0 +1,14 @@
+{
+  "name": "Coldhold",
+  "slug": "coldhold",
+  "url": "https://www.producthunt.com/products/coldhold",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Free watch-only cold wallet tracker with 14 networks.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1894,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

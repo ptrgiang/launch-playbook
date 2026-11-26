@@ -1,0 +1,14 @@
+{
+  "name": "TaskOpp",
+  "slug": "taskopp",
+  "url": "https://www.producthunt.com/products/taskopp",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Post a task, set your price. Taskers keep 100%.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1122,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ADE",
+  "slug": "ade-3",
+  "url": "https://www.producthunt.com/products/ade-3",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Cloud computers for your coding agents, from 1¢ an hour",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 361,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

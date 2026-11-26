@@ -1,0 +1,14 @@
+{
+  "name": "n8n to prod",
+  "slug": "n8n-to-prod",
+  "url": "https://www.producthunt.com/products/n8n-to-prod",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Ship n8n to prod. Pay if the tests pass.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 955,
+  "votes": 3,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

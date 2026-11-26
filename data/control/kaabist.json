@@ -1,0 +1,14 @@
+{
+  "name": "Kaabist",
+  "slug": "kaabist",
+  "url": "https://www.producthunt.com/products/kaabist",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Web automation API that heals itself when sites change",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 885,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -29,5 +29,47 @@
     "https://ph-files.imgix.net/6f14347f-8b99-4528-be0e-a809f21f1295.png?auto=format",
     "https://ph-files.imgix.net/65ca3d36-f745-4856-9338-a4b724e1425a.jpeg?auto=format",
     "https://ph-files.imgix.net/eb2130b7-5f58-456a-9a69-0aaa314a65e6.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "yang_zhang21",
+      "name": "Yang Zhang",
+      "headline": null,
+      "account_created": "2025-12-09T07:57:20Z",
+      "followers": 22,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "stefania_chen",
+      "name": "Stefania Chen",
+      "headline": "Head of GTM",
+      "account_created": "2024-07-02T16:27:31Z",
+      "followers": 10,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "majortomlee",
+      "name": "Bowie",
+      "headline": "Product Lead @ Wanaka ",
+      "account_created": "2026-10-10T10:27:36Z",
+      "followers": 6,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "shaun_wanaka",
+      "name": "ZHANG SHUAI",
+      "headline": "Co-founder & CTO,  Wanaka",
+      "account_created": "2026-10-10T03:11:55Z",
+      "followers": 4,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

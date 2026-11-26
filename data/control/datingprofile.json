@@ -1,0 +1,14 @@
+{
+  "name": "DatingProfile",
+  "slug": "datingprofile",
+  "url": "https://www.producthunt.com/products/datingprofile",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Realistic dating profile photos from one selfie",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 96,
+  "votes": 12,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

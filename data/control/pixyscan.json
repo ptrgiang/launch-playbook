@@ -1,0 +1,14 @@
+{
+  "name": "PixyScan",
+  "slug": "pixyscan",
+  "url": "https://www.producthunt.com/products/pixyscan",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "tagline": "Audits pages for SEO and AI, showing what to fix first.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 47,
+  "votes": 21,
+  "comments": 17,
+  "featured": false,
+  "source": "api"
+}

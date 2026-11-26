@@ -1,0 +1,14 @@
+{
+  "name": "Dawnroom",
+  "slug": "dawnroom",
+  "url": "https://www.producthunt.com/products/dawnroom",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Make and edit images on your own GPU. No credits, no cloud",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 763,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

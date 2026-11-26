@@ -1,0 +1,14 @@
+{
+  "name": "embedio",
+  "slug": "embedio",
+  "url": "https://www.producthunt.com/products/embedio",
+  "launch_date": "2026-11-20",
+  "day_of_week": "Friday",
+  "tagline": "Get an HTML form endpoint without a backend",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 1926,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

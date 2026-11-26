@@ -1,0 +1,14 @@
+{
+  "name": "Kronumos",
+  "slug": "kronumos",
+  "url": "https://www.producthunt.com/products/kronumos",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Rust terminal coding agent. 91.3% lower token spend.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 897,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

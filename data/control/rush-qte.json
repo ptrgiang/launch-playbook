@@ -1,0 +1,14 @@
+{
+  "name": "Rush QTE",
+  "slug": "rush-qte",
+  "url": "https://www.producthunt.com/products/rush-qte",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "A 2-second quiz that does everything to make you fail",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 432,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

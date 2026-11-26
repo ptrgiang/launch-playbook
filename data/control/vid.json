@@ -1,0 +1,14 @@
+{
+  "name": "Vid",
+  "slug": "vid",
+  "url": "https://www.producthunt.com/products/vid",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Find sights nearby. See what's around you.",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1176,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

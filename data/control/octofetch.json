@@ -1,0 +1,14 @@
+{
+  "name": "OctoFetch",
+  "slug": "octofetch",
+  "url": "https://www.producthunt.com/products/octofetch",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Open Drive, Dropbox & iCloud links right inside Telegram",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1544,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

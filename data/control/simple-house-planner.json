@@ -1,0 +1,14 @@
+{
+  "name": "Simple House Planner",
+  "slug": "simple-house-planner",
+  "url": "https://www.producthunt.com/products/simple-house-planner",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Design a house to scale in ChatGPT, or draw it by hand",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2108,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CaramOS",
+  "slug": "caramos",
+  "url": "https://www.producthunt.com/products/caramos",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "A Linux distro for Vietnamese users, built on Linux Mint",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 716,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

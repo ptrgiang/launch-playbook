@@ -1,0 +1,14 @@
+{
+  "name": "Groundbox",
+  "slug": "groundbox-2",
+  "url": "https://www.producthunt.com/products/groundbox-2",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Linux sandboxes for agents + faster, cheaper CI. One key.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 840,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

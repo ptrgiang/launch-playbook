@@ -1,0 +1,14 @@
+{
+  "name": "piscout",
+  "slug": "piscout",
+  "url": "https://www.producthunt.com/products/piscout",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Find, control and flash your Raspberry Pis from Windows",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2063,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

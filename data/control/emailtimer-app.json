@@ -1,0 +1,14 @@
+{
+  "name": "EmailTimer.app",
+  "slug": "emailtimer-app",
+  "url": "https://www.producthunt.com/products/emailtimer-app",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Countdown timers that are right when the email opens",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1925,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wanderjet",
+  "slug": "wanderjet",
+  "url": "https://www.producthunt.com/products/wanderjet",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "Turn focus sessions into flights you take with others",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2185,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

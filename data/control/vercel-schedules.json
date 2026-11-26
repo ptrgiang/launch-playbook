@@ -1,0 +1,14 @@
+{
+  "name": "Vercel Schedules",
+  "slug": "vercel-schedules",
+  "url": "https://www.producthunt.com/products/vercel-schedules",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Let apps and AI agents schedule their own tasks on Vercel",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 449,
+  "votes": 5,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

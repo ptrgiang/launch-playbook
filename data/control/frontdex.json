@@ -1,0 +1,14 @@
+{
+  "name": "FrontDex",
+  "slug": "frontdex",
+  "url": "https://www.producthunt.com/products/frontdex",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Curated front-end resources, each with a reason to use it",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1376,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

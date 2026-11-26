@@ -1,0 +1,14 @@
+{
+  "name": "App Throttler",
+  "slug": "app-throttler",
+  "url": "https://www.producthunt.com/products/app-throttler",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Test your app on bad networks, without root or a server",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 1230,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

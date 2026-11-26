@@ -1,0 +1,14 @@
+{
+  "name": "Simple Chat",
+  "slug": "simple-chat",
+  "url": "https://www.producthunt.com/products/simple-chat",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "AI support for Shopify that asks before it refunds",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1084,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

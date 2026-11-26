@@ -1,0 +1,14 @@
+{
+  "name": "Hipliz AI",
+  "slug": "hipliz-ai",
+  "url": "https://www.producthunt.com/products/hipliz-ai",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "Build an AI customer support assistant without coding.",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 540,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

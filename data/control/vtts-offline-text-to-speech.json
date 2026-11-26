@@ -1,0 +1,14 @@
+{
+  "name": "vTTS: Offline Text to Speech",
+  "slug": "vtts-offline-text-to-speech",
+  "url": "https://www.producthunt.com/products/vtts-offline-text-to-speech",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Read EPUB & PDF aloud offline in 17 languages or your voice",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 2183,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

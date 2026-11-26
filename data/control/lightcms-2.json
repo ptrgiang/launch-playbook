@@ -1,0 +1,14 @@
+{
+  "name": "LightCMS",
+  "slug": "lightcms-2",
+  "url": "https://www.producthunt.com/products/lightcms-2",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Git based headless CMS for static site generators",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 918,
+  "votes": 3,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

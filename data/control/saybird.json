@@ -1,0 +1,14 @@
+{
+  "name": "Saybird",
+  "slug": "saybird",
+  "url": "https://www.producthunt.com/products/saybird",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Record on your Apple Watch, get the summary and to-dos",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1660,
+  "votes": 2,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

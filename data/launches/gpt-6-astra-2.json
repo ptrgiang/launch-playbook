@@ -30,5 +30,57 @@
     "https://ph-files.imgix.net/a6286bd6-4623-4872-b0f4-9655dafb8891.jpeg?auto=format",
     "https://ph-files.imgix.net/47fa0767-ce76-4893-8955-571fe0b765de.jpeg?auto=format",
     "https://ph-files.imgix.net/c32d60c3-f17e-413c-b10d-472f17d8c7fe.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "sama",
+      "name": "Sam Altman",
+      "headline": "President, YC",
+      "account_created": "2014-09-16T17:51:09Z",
+      "followers": 52994,
+      "made_posts_total": 20,
+      "launches_before_this": 13,
+      "featured_before": 13
+    },
+    {
+      "username": "greg_brockman",
+      "name": "Greg Brockman",
+      "headline": null,
+      "account_created": "2020-10-06T02:50:06Z",
+      "followers": 11752,
+      "made_posts_total": 20,
+      "launches_before_this": 17,
+      "featured_before": 17
+    },
+    {
+      "username": "attyopenai",
+      "name": "Atty Eleti",
+      "headline": null,
+      "account_created": "2025-03-11T21:37:16Z",
+      "followers": 24,
+      "made_posts_total": 4,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "kevin_weil",
+      "name": "Kevin Weil",
+      "headline": null,
+      "account_created": "2016-11-21T16:19:33Z",
+      "followers": 42,
+      "made_posts_total": 4,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "sid_goblinmode",
+      "name": "Sid Kumar",
+      "headline": "Startup Marketing at OpenAI",
+      "account_created": "2026-07-10T00:09:36Z",
+      "followers": 11,
+      "made_posts_total": 3,
+      "launches_before_this": 1,
+      "featured_before": 1
+    }
   ]
 }

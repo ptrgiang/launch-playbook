@@ -1,0 +1,14 @@
+{
+  "name": "TripMazer",
+  "slug": "tripmazer",
+  "url": "https://www.producthunt.com/products/tripmazer",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "The AI travel agent that runs the trip, not just the plan",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1152,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pdf2text",
+  "slug": "pdf2text",
+  "url": "https://www.producthunt.com/products/pdf2text",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Turn PDFs, scans and bank statements into Excel or text",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 999,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

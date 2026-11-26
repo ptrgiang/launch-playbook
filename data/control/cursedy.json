@@ -1,0 +1,14 @@
+{
+  "name": "Cursedy",
+  "slug": "cursedy",
+  "url": "https://www.producthunt.com/products/cursedy",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "A tiny macOS menu-bar haunting",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 500,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

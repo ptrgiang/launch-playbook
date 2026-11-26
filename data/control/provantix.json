@@ -1,0 +1,14 @@
+{
+  "name": "Provantix",
+  "slug": "provantix",
+  "url": "https://www.producthunt.com/products/provantix",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Provantix is the telemetry layer for enterprise AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 590,
+  "votes": 4,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

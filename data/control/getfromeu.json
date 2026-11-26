@@ -1,0 +1,14 @@
+{
+  "name": "GetFromEU",
+  "slug": "getfromeu",
+  "url": "https://www.producthunt.com/products/getfromeu",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "A directory of manufacturers selling products made in EU.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 829,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

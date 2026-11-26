@@ -1,0 +1,14 @@
+{
+  "name": "Oya Browser",
+  "slug": "oya-browser",
+  "url": "https://www.producthunt.com/products/oya-browser",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "A real, logged-in browser for your AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 19,
+  "votes": 33,
+  "comments": 17,
+  "featured": false,
+  "source": "api"
+}

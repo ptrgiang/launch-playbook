@@ -1,0 +1,14 @@
+{
+  "name": "Mission Boost",
+  "slug": "mission-boost",
+  "url": "https://www.producthunt.com/products/mission-boost",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Close and snap windows right inside Mission Control",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 563,
+  "votes": 4,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

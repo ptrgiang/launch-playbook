@@ -1,0 +1,14 @@
+{
+  "name": "pitchboom.io",
+  "slug": "pitchboom-io",
+  "url": "https://www.producthunt.com/products/pitchboom-io",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Paste a link, get a motion-design video ad. No avatars.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 12,
+  "votes": 41,
+  "comments": 4,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Waffle Iron: Podcast Maker",
+  "slug": "waffle-iron-podcast-maker",
+  "url": "https://www.producthunt.com/products/waffle-iron-podcast-maker",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Make a podcast without the tutorials.",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 630,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

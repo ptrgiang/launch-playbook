@@ -1,0 +1,14 @@
+{
+  "name": "BookTuning Reading Room",
+  "slug": "booktuning-reading-room",
+  "url": "https://www.producthunt.com/products/booktuning-reading-room",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "New: a free reading timer that plays your book's playlist",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 695,
+  "votes": 3,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

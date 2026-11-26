@@ -1,0 +1,14 @@
+{
+  "name": "Weavour",
+  "slug": "weavour",
+  "url": "https://www.producthunt.com/products/weavour",
+  "launch_date": "2026-11-02",
+  "day_of_week": "Monday",
+  "tagline": "Embed a visual email editor in your SaaS",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1190,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

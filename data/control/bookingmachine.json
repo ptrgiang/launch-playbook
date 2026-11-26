@@ -1,0 +1,14 @@
+{
+  "name": "BookingMachine",
+  "slug": "bookingmachine",
+  "url": "https://www.producthunt.com/products/bookingmachine",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Live prices, bookings and reviews on your own website",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1260,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

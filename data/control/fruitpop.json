@@ -1,0 +1,14 @@
+{
+  "name": "FruitPop",
+  "slug": "fruitpop",
+  "url": "https://www.producthunt.com/products/fruitpop",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "A match-3 with no lives, no timers, no ads, no account",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 527,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

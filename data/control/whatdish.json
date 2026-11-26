@@ -1,0 +1,14 @@
+{
+  "name": "WhatDish",
+  "slug": "whatdish",
+  "url": "https://www.producthunt.com/products/whatdish",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Snap any dish or your fridge and get a recipe to cook",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 281,
+  "votes": 7,
+  "comments": 6,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Email Provider Filter",
+  "slug": "email-provider-filter",
+  "url": "https://www.producthunt.com/products/email-provider-filter",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Email Provider Lookup & Domain Checker",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 789,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

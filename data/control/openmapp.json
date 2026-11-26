@@ -1,0 +1,14 @@
+{
+  "name": "OpenMapp",
+  "slug": "openmapp",
+  "url": "https://www.producthunt.com/products/openmapp",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "A free map of US BJJ gyms, open mats, and drop-in prices",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1552,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

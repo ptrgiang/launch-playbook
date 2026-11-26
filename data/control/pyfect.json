@@ -1,0 +1,14 @@
+{
+  "name": "pyfect",
+  "slug": "pyfect",
+  "url": "https://www.producthunt.com/products/pyfect",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Effect for Python: typed errors, services and concurrency",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1030,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

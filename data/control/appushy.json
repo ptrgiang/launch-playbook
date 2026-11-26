@@ -1,0 +1,14 @@
+{
+  "name": "Appushy",
+  "slug": "appushy",
+  "url": "https://www.producthunt.com/products/appushy",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "Self-hosted push notifications for WordPress, no API keys",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 2212,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

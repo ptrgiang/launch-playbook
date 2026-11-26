@@ -1,0 +1,14 @@
+{
+  "name": "supastack",
+  "slug": "supastack",
+  "url": "https://www.producthunt.com/products/supastack",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "tagline": "Production-ready Next.js, TanStack, Expo & Tauri monorepo",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 617,
+  "votes": 4,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

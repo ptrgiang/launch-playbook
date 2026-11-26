@@ -1,0 +1,14 @@
+{
+  "name": "Pharon",
+  "slug": "pharon",
+  "url": "https://www.producthunt.com/products/pharon",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Security incident alerts for your whole stack",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 337,
+  "votes": 6,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

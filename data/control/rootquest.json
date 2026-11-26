@@ -1,0 +1,14 @@
+{
+  "name": "RootQuest",
+  "slug": "rootquest",
+  "url": "https://www.producthunt.com/products/rootquest",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Learn real cybersecurity by hacking a simulated world",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2093,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Confible",
+  "slug": "confible",
+  "url": "https://www.producthunt.com/products/confible",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "SSH, databases, S3 and Redis in one desktop app",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 491,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

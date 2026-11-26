@@ -1,0 +1,14 @@
+{
+  "name": "astro-weights",
+  "slug": "astro-weights",
+  "url": "https://www.producthunt.com/products/astro-weights",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Agent-driven weight edits for open models, as LoRA adapters",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 672,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

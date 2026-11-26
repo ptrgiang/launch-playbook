@@ -1,0 +1,14 @@
+{
+  "name": "Bank Format Converter",
+  "slug": "bank-format-converter",
+  "url": "https://www.producthunt.com/products/bank-format-converter",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Convert bank statements to Excel, CSV & accounting formats",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1850,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

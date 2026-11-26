@@ -1,0 +1,14 @@
+{
+  "name": "Resource Pack Studio",
+  "slug": "resource-pack-studio",
+  "url": "https://www.producthunt.com/products/resource-pack-studio",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Design your Minecraft server's resource pack in the browser",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1050,
+  "votes": 3,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

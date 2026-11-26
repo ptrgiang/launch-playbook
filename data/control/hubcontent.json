@@ -1,0 +1,14 @@
+{
+  "name": "HubContent",
+  "slug": "hubcontent",
+  "url": "https://www.producthunt.com/products/hubcontent",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Turn a product photo or an idea into a finished video ad",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1975,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

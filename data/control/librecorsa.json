@@ -1,0 +1,14 @@
+{
+  "name": "LibreCorsa",
+  "slug": "librecorsa",
+  "url": "https://www.producthunt.com/products/librecorsa",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Free, open-source 500 Hz racing sim in a browser tab",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 400,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

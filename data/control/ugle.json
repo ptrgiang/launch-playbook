@@ -1,0 +1,14 @@
+{
+  "name": "Ugle",
+  "slug": "ugle",
+  "url": "https://www.producthunt.com/products/ugle",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Search across local audio/video archives by meaning, locally",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 279,
+  "votes": 7,
+  "comments": 7,
+  "featured": false,
+  "source": "api"
+}

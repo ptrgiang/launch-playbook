@@ -1,0 +1,14 @@
+{
+  "name": "Fizzlayer",
+  "slug": "fizzlayer",
+  "url": "https://www.producthunt.com/products/fizzlayer",
+  "launch_date": "2026-11-11",
+  "day_of_week": "Wednesday",
+  "tagline": "Open source, self-hostable physical layer for AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1356,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

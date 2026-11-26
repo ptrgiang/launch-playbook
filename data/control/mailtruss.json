@@ -1,0 +1,14 @@
+{
+  "name": "Mailtruss",
+  "slug": "mailtruss",
+  "url": "https://www.producthunt.com/products/mailtruss",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Transactional Email API with Delivery Traces",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 933,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

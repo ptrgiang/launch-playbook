@@ -1,0 +1,14 @@
+{
+  "name": "ShadcnStore",
+  "slug": "shadcnstore",
+  "url": "https://www.producthunt.com/products/shadcnstore",
+  "launch_date": "2026-11-04",
+  "day_of_week": "Wednesday",
+  "tagline": "Shadcn UI blocks and templates for React, built on Base UI",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 603,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

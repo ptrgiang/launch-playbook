@@ -1,0 +1,14 @@
+{
+  "name": "Reduck",
+  "slug": "reduck-4",
+  "url": "https://www.producthunt.com/products/reduck-4",
+  "launch_date": "2026-11-09",
+  "day_of_week": "Monday",
+  "tagline": "Fast, reliable web access for your AI agents and n8n",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 25,
+  "votes": 29,
+  "comments": 17,
+  "featured": false,
+  "source": "api"
+}

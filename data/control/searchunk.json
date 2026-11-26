@@ -1,0 +1,14 @@
+{
+  "name": "Searchunk",
+  "slug": "searchunk",
+  "url": "https://www.producthunt.com/products/searchunk",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Find your photos and videos by describing them",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2102,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

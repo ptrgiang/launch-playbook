@@ -1,0 +1,14 @@
+{
+  "name": "Run My Agents",
+  "slug": "run-my-agents",
+  "url": "https://www.producthunt.com/products/run-my-agents",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Run many Claude Code sessions on one repo without clashes",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 1653,
+  "votes": 2,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

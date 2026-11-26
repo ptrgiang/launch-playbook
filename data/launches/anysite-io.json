@@ -26,5 +26,47 @@
     "https://ph-files.imgix.net/12506f60-5e88-4c26-9024-1d13d183acf4.png?auto=format",
     "https://ph-files.imgix.net/5b094ddd-1763-4d6c-80f1-a9ce8cbed2d1.png?auto=format",
     "https://ph-files.imgix.net/cb1c8b99-1117-40e0-bd24-93a19756dac6.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "miksmirnov",
+      "name": "Mike Smirnov",
+      "headline": "Growth → 4dev.com | Advisor → Anysite.io",
+      "account_created": "2025-11-19T09:39:01Z",
+      "followers": 26,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "4kulia",
+      "name": "Andrey Kulikov",
+      "headline": "CEO & Founder Anysite.io",
+      "account_created": "2025-02-22T19:57:13Z",
+      "followers": 32,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "dekeyel",
+      "name": "Dmitrii Kononov",
+      "headline": "CTO & Founder Anysite.io",
+      "account_created": "2026-09-02T10:57:39Z",
+      "followers": 16,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "dvoretskii",
+      "name": "Sviatoslav Dvoretskii",
+      "headline": "CCO & Co-Founder Anysite.io",
+      "account_created": "2023-02-27T13:37:27Z",
+      "followers": 155,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    }
   ]
 }

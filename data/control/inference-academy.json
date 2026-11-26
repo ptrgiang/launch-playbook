@@ -1,0 +1,14 @@
+{
+  "name": "Inference Academy",
+  "slug": "inference-academy",
+  "url": "https://www.producthunt.com/products/inference-academy",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "Learn LLM inference engineering with hands-on courses",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 2299,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

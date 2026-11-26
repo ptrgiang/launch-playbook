@@ -1,0 +1,14 @@
+{
+  "name": "CricketOrganizer",
+  "slug": "cricketorganizer",
+  "url": "https://www.producthunt.com/products/cricketorganizer",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "The cricket tournament platform with live player auctions",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1308,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

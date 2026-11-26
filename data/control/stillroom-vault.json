@@ -1,0 +1,14 @@
+{
+  "name": "Stillroom Vault",
+  "slug": "stillroom-vault",
+  "url": "https://www.producthunt.com/products/stillroom-vault",
+  "launch_date": "2026-11-08",
+  "day_of_week": "Sunday",
+  "tagline": "Encrypted vault for your Mac that never goes online",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1103,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

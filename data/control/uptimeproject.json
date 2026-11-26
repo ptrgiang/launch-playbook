@@ -1,0 +1,14 @@
+{
+  "name": "UptimeProject",
+  "slug": "uptimeproject",
+  "url": "https://www.producthunt.com/products/uptimeproject",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Independent uptime rankings from our own probes",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2166,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Steerglass",
+  "slug": "steerglass",
+  "url": "https://www.producthunt.com/products/steerglass",
+  "launch_date": "2026-11-17",
+  "day_of_week": "Tuesday",
+  "tagline": "Fast desktop app for many Kubernetes clusters at once",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1711,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

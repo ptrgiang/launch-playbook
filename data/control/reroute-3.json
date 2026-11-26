@@ -1,0 +1,14 @@
+{
+  "name": "Reroute",
+  "slug": "reroute-3",
+  "url": "https://www.producthunt.com/products/reroute-3",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "Per-app proxy for Mac, alongside Tailscale and VPN apps",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1640,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

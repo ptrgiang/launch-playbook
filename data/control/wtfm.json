@@ -1,0 +1,14 @@
+{
+  "name": "WTFM",
+  "slug": "wtfm",
+  "url": "https://www.producthunt.com/products/wtfm",
+  "launch_date": "2026-11-11",
+  "day_of_week": "Wednesday",
+  "tagline": "Write the F***ing Manual. Your agent writes the user docs",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 37,
+  "votes": 25,
+  "comments": 11,
+  "featured": false,
+  "source": "api"
+}

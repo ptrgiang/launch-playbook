@@ -1,0 +1,14 @@
+{
+  "name": "ArtifactSend",
+  "slug": "artifactsend",
+  "url": "https://www.producthunt.com/products/artifactsend",
+  "launch_date": "2026-11-01",
+  "day_of_week": "Sunday",
+  "tagline": "Free DocSend alternative that Claude and ChatGPT can drive",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 186,
+  "votes": 8,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Chorono",
+  "slug": "chorono",
+  "url": "https://www.producthunt.com/products/chorono",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Open-source 2D animation editor for Claude and Codex via MCP",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 479,
+  "votes": 4,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

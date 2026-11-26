@@ -1,0 +1,14 @@
+{
+  "name": "QuerySail",
+  "slug": "querysail",
+  "url": "https://www.producthunt.com/products/querysail",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Search Console & GA4 in ChatGPT and Claude. Unlimited sites.",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1037,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

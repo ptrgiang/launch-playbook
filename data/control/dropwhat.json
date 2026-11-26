@@ -1,0 +1,14 @@
+{
+  "name": "Dropwhat",
+  "slug": "dropwhat",
+  "url": "https://www.producthunt.com/products/dropwhat",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Turn photos into listings with AI built for resellers",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 302,
+  "votes": 6,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -27,5 +27,47 @@
     "https://ph-files.imgix.net/36cb2f40-6e5f-4f43-8570-b49c7b7568ae.png?auto=format",
     "https://ph-files.imgix.net/02d32dbc-610a-4134-a174-1304c1865c5e.png?auto=format",
     "https://ph-files.imgix.net/fa1860cc-9875-4b5c-b3ca-23af41c4fcbd.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "shengkun_ye",
+      "name": "Shengkun Ye",
+      "headline": "Creating things",
+      "account_created": "2024-01-04T09:13:05Z",
+      "followers": 174,
+      "made_posts_total": 7,
+      "launches_before_this": 5,
+      "featured_before": 5
+    },
+    {
+      "username": "feiyou_guo",
+      "name": "Feiyou Guo",
+      "headline": null,
+      "account_created": "2023-07-29T06:50:24Z",
+      "followers": 35,
+      "made_posts_total": 5,
+      "launches_before_this": 3,
+      "featured_before": 3
+    },
+    {
+      "username": "jasper0122",
+      "name": "Zongrong(Jasper) Li",
+      "headline": null,
+      "account_created": "2026-07-03T07:45:30Z",
+      "followers": 67,
+      "made_posts_total": 2,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "octo_dang_7",
+      "name": "Octo Dang",
+      "headline": null,
+      "account_created": "2026-08-31T02:47:35Z",
+      "followers": 17,
+      "made_posts_total": 2,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Parchi.Invoices",
+  "slug": "parchi-invoices",
+  "url": "https://www.producthunt.com/products/parchi-invoices",
+  "launch_date": "2026-11-16",
+  "day_of_week": "Monday",
+  "tagline": "Turn WhatsApp orders into GST invoices in seconds",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1563,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

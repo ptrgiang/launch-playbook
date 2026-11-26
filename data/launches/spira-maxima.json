@@ -29,5 +29,67 @@
     "https://ph-files.imgix.net/c5473229-85fc-4e93-9ea6-028849eddad1.jpeg?auto=format",
     "https://ph-files.imgix.net/a8d95925-a797-44b7-b1a0-364639fc338f.png?auto=format",
     "https://ph-files.imgix.net/968af607-10d8-4aab-9ae7-49024a8d5b9b.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "llma",
+      "name": "Long Ma",
+      "headline": "CEO @ Spira AI",
+      "account_created": "2024-07-31T09:41:12Z",
+      "followers": 144,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "upasana_pradhan",
+      "name": "Upasana Pradhan",
+      "headline": "AI Product Designer",
+      "account_created": "2026-06-29T17:34:49Z",
+      "followers": 12,
+      "made_posts_total": 2,
+      "launches_before_this": 1,
+      "featured_before": 1
+    },
+    {
+      "username": "xi_baoyu",
+      "name": "Felix",
+      "headline": "Researcher @Spira AI",
+      "account_created": "2025-01-07T07:40:18Z",
+      "followers": 23,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "kangchainx",
+      "name": "Chris Kang",
+      "headline": "Full Stack @Spira AI",
+      "account_created": "2026-03-24T12:49:31Z",
+      "followers": 26,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "solforspira",
+      "name": "Sol",
+      "headline": "sleep-deprived & overworked",
+      "account_created": "2026-04-15T09:54:45Z",
+      "followers": 17,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "jm_ramirez",
+      "name": "Jeff Mouie Ramirez",
+      "headline": "CCO @ Spira ai",
+      "account_created": "2026-04-13T18:50:34Z",
+      "followers": 23,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

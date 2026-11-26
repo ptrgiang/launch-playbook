@@ -1,0 +1,14 @@
+{
+  "name": "Zeno Download Manager",
+  "slug": "zeno-download-manager",
+  "url": "https://www.producthunt.com/products/zeno-download-manager",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "Fast macOS & Windows downloader with 1-click browser capture",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 2199,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

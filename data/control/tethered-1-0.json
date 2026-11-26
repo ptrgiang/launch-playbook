@@ -1,0 +1,14 @@
+{
+  "name": "tethered 1.0",
+  "slug": "tethered-1-0",
+  "url": "https://www.producthunt.com/products/tethered-1-0",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "A firewall inside your Python app, in one line",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 623,
+  "votes": 4,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

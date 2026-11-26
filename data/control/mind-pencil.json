@@ -1,0 +1,14 @@
+{
+  "name": "Mind Pencil",
+  "slug": "mind-pencil",
+  "url": "https://www.producthunt.com/products/mind-pencil",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "An AI journalist that turns your stories into articles",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2023,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

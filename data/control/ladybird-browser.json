@@ -1,0 +1,14 @@
+{
+  "name": "Ladybird Browser",
+  "slug": "ladybird-browser",
+  "url": "https://www.producthunt.com/products/ladybird-browser",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "An independent, open-source browser with its own engine",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2312,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

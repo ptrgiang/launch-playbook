@@ -1,0 +1,14 @@
+{
+  "name": "Bidstage",
+  "slug": "bidstage",
+  "url": "https://www.producthunt.com/products/bidstage",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "Search open public-sector tenders in 70 countries, free",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1255,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

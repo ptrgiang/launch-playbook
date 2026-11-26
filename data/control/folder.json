@@ -1,0 +1,14 @@
+{
+  "name": "Folder",
+  "slug": "folder",
+  "url": "https://www.producthunt.com/products/folder",
+  "launch_date": "2026-11-14",
+  "day_of_week": "Saturday",
+  "tagline": "One folder on your Mac, iPhone and the web, on Cloudflare R2",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 2276,
+  "votes": 0,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Kilowhiz",
+  "slug": "kilowhiz",
+  "url": "https://www.producthunt.com/products/kilowhiz",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Texas electricity plans, priced on your own meter readings",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 890,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Contour",
+  "slug": "contour-8001",
+  "url": "https://www.producthunt.com/products/contour-8001",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Segment Anything (SAM 3) on your Mac, fully on-device",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1898,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

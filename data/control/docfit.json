@@ -1,0 +1,14 @@
+{
+  "name": "DocFit",
+  "slug": "docfit",
+  "url": "https://www.producthunt.com/products/docfit",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "Docs PRs opened for you when your code merges",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 31,
+  "votes": 26,
+  "comments": 13,
+  "featured": false,
+  "source": "api"
+}

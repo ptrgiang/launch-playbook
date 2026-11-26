@@ -29,5 +29,57 @@
     "https://ph-files.imgix.net/33dd463b-18fd-400e-8f51-3594c1ed3723.png?auto=format",
     "https://ph-files.imgix.net/0da12497-d71c-44e5-94ce-3d885dd6b391.png?auto=format",
     "https://ph-files.imgix.net/a1505ee2-c8de-4f69-a32f-a5f4325d924e.jpeg?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "yakhmetzaki",
+      "name": "Yerkebulan Akhmetzaki",
+      "headline": "Founder & CEO at Empacer",
+      "account_created": "2026-10-23T12:48:25Z",
+      "followers": 38,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "vehsakam",
+      "name": "Galymzhan Makashev",
+      "headline": "Growth Manager at Empacer",
+      "account_created": "2026-09-23T12:47:37Z",
+      "followers": 34,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "kenessary",
+      "name": "Kenessary",
+      "headline": "Product Manager at Empacer",
+      "account_created": "2026-09-24T10:47:30Z",
+      "followers": 11,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "yesmakhan",
+      "name": "Yesmakhan Adilov",
+      "headline": "Software Engineer at Empacer",
+      "account_created": "2026-09-21T05:47:50Z",
+      "followers": 12,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "cool_person_v2",
+      "name": "Dariga Abdikarimova",
+      "headline": "Interested in building cool things",
+      "account_created": "2026-09-21T05:47:36Z",
+      "followers": 12,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Crowdboard",
+  "slug": "crowdboard",
+  "url": "https://www.producthunt.com/products/crowdboard",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "The team game show for work, on any TV",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 497,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

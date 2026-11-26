@@ -1,0 +1,14 @@
+{
+  "name": "My Box Map",
+  "slug": "my-box-map",
+  "url": "https://www.producthunt.com/products/my-box-map",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Label boxes with QR codes and find anything fast",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1524,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

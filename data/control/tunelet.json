@@ -1,0 +1,14 @@
+{
+  "name": "tunelet",
+  "slug": "tunelet",
+  "url": "https://www.producthunt.com/products/tunelet",
+  "launch_date": "2026-11-12",
+  "day_of_week": "Thursday",
+  "tagline": "Real-time vocal DSP engine in Rust & WebAssembly",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2161,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

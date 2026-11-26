@@ -1,0 +1,14 @@
+{
+  "name": "ThinkingOrbs",
+  "slug": "thinkingorbs",
+  "url": "https://www.producthunt.com/products/thinkingorbs",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Dotted, genuinely 3D loading indicators for AI in SwiftUI",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 227,
+  "votes": 8,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

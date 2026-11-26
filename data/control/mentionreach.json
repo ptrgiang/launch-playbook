@@ -1,0 +1,14 @@
+{
+  "name": "MentionReach",
+  "slug": "mentionreach",
+  "url": "https://www.producthunt.com/products/mentionreach",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "See if ChatGPT, Gemini and Claude recommend your product",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 559,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

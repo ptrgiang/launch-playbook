@@ -1,0 +1,14 @@
+{
+  "name": "GemSpot",
+  "slug": "gemspot",
+  "url": "https://www.producthunt.com/products/gemspot",
+  "launch_date": "2026-11-18",
+  "day_of_week": "Wednesday",
+  "tagline": "A map of local spots that aren't on review sites",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1957,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

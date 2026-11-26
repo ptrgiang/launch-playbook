@@ -1,0 +1,14 @@
+{
+  "name": "NoteFlare",
+  "slug": "noteflare",
+  "url": "https://www.producthunt.com/products/noteflare",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Encrypted notes that run free on your own Cloudflare",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1539,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

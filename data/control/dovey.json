@@ -1,0 +1,14 @@
+{
+  "name": "Dovey",
+  "slug": "dovey",
+  "url": "https://www.producthunt.com/products/dovey",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Make 100+ static ads using Claude or ChatGPT, in minutes",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 512,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

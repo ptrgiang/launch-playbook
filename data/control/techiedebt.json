@@ -1,0 +1,14 @@
+{
+  "name": "TechieDebt",
+  "slug": "techiedebt",
+  "url": "https://www.producthunt.com/products/techiedebt",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "Measure technical debt. Showcase your engineering standards.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 442,
+  "votes": 5,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

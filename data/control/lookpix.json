@@ -1,0 +1,14 @@
+{
+  "name": "Lookpix",
+  "slug": "lookpix",
+  "url": "https://www.producthunt.com/products/lookpix",
+  "launch_date": "2026-11-10",
+  "day_of_week": "Tuesday",
+  "tagline": "Find any photo on your iPhone. Just describe it.",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 552,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

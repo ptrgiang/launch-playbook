@@ -1,0 +1,14 @@
+{
+  "name": "Starry",
+  "slug": "starry-6",
+  "url": "https://www.producthunt.com/products/starry-6",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "A chart of your GitHub stars that updates itself",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 2125,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

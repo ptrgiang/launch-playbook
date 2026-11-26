@@ -1,0 +1,14 @@
+{
+  "name": "Minted",
+  "slug": "minted-2",
+  "url": "https://www.producthunt.com/products/minted-2",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Turn SVG into a physically-lit 3D gold medallion for SwiftUI",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 101,
+  "votes": 12,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

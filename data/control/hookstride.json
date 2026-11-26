@@ -1,0 +1,14 @@
+{
+  "name": "Hookstride",
+  "slug": "hookstride",
+  "url": "https://www.producthunt.com/products/hookstride",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "Signed webhook delivery with retries, logs and replay",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1413,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

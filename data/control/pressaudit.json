@@ -1,0 +1,14 @@
+{
+  "name": "PressAudit",
+  "slug": "pressaudit",
+  "url": "https://www.producthunt.com/products/pressaudit",
+  "launch_date": "2026-10-28",
+  "day_of_week": "Wednesday",
+  "tagline": "Real-time news dashboard & midterm election forecaster",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 588,
+  "votes": 4,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

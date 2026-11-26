@@ -1,0 +1,14 @@
+{
+  "name": "LikeRemote",
+  "slug": "likeremote",
+  "url": "https://www.producthunt.com/products/likeremote",
+  "launch_date": "2026-11-21",
+  "day_of_week": "Saturday",
+  "tagline": "Find a job faster. Hire real people, not bots.",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 401,
+  "votes": 5,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

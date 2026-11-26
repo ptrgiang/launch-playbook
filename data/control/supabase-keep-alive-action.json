@@ -1,0 +1,14 @@
+{
+  "name": "Supabase Keep-Alive Action",
+  "slug": "supabase-keep-alive-action",
+  "url": "https://www.producthunt.com/products/supabase-keep-alive-action",
+  "launch_date": "2026-11-19",
+  "day_of_week": "Thursday",
+  "tagline": "Stop Supabase free-tier pausing with one GitHub Action",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 1114,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

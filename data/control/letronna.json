@@ -1,0 +1,14 @@
+{
+  "name": "Letronna",
+  "slug": "letronna",
+  "url": "https://www.producthunt.com/products/letronna",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "An open-source AI agent with its own cloud and wallet",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 915,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

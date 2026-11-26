@@ -1,0 +1,14 @@
+{
+  "name": "ReviewToWeb",
+  "slug": "reviewtoweb",
+  "url": "https://www.producthunt.com/products/reviewtoweb",
+  "launch_date": "2026-10-30",
+  "day_of_week": "Friday",
+  "tagline": "Your Google reviews become a website that takes bookings",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 429,
+  "votes": 5,
+  "comments": 4,
+  "featured": false,
+  "source": "api"
+}

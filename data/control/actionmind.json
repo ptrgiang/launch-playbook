@@ -1,0 +1,14 @@
+{
+  "name": "ActionMind",
+  "slug": "actionmind",
+  "url": "https://www.producthunt.com/products/actionmind",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Turn meetings in any language into tasks you approve",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": 44,
+  "votes": 21,
+  "comments": 5,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "25posts",
+  "slug": "25posts",
+  "url": "https://www.producthunt.com/products/25posts",
+  "launch_date": "2026-11-06",
+  "day_of_week": "Friday",
+  "tagline": "Whoop for LinkedIn. Reverse-engineer your algorithm.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 151,
+  "votes": 9,
+  "comments": 10,
+  "featured": false,
+  "source": "api"
+}

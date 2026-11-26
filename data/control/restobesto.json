@@ -1,0 +1,14 @@
+{
+  "name": "Restobesto",
+  "slug": "restobesto",
+  "url": "https://www.producthunt.com/products/restobesto",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Restaurant posts from your own dish photo, without AI slop",
+  "tagline_formula": "contrast",
+  "rank_in_unfeatured": 2086,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

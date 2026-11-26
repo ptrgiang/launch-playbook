@@ -1,0 +1,14 @@
+{
+  "name": "Finansealy",
+  "slug": "finansealy",
+  "url": "https://www.producthunt.com/products/finansealy",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Expense tracker that logs payments from your notifications",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1940,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

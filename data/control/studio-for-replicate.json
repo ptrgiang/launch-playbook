@@ -1,0 +1,14 @@
+{
+  "name": "Studio for Replicate",
+  "slug": "studio-for-replicate",
+  "url": "https://www.producthunt.com/products/studio-for-replicate",
+  "launch_date": "2026-11-22",
+  "day_of_week": "Sunday",
+  "tagline": "Run 100+ AI models from Replicate in one free desktop app",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1714,
+  "votes": 2,
+  "comments": 3,
+  "featured": false,
+  "source": "api"
+}

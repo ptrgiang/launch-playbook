@@ -1,0 +1,14 @@
+{
+  "name": "Nik",
+  "slug": "nik",
+  "url": "https://www.producthunt.com/products/nik",
+  "launch_date": "2026-11-07",
+  "day_of_week": "Saturday",
+  "tagline": "Hi, I’m Nik. Your new family member.",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 961,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

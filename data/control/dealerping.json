@@ -1,0 +1,14 @@
+{
+  "name": "DealerPing",
+  "slug": "dealerping",
+  "url": "https://www.producthunt.com/products/dealerping",
+  "launch_date": "2026-11-15",
+  "day_of_week": "Sunday",
+  "tagline": "Reply to every car lead in 5 minutes or less",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1910,
+  "votes": 1,
+  "comments": 0,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Monospace",
+  "slug": "monospace-7f5d69fe-6d1c-4bda-8623-97cc97e980fe",
+  "url": "https://www.producthunt.com/products/monospace-7f5d69fe-6d1c-4bda-8623-97cc97e980fe",
+  "launch_date": "2026-11-13",
+  "day_of_week": "Friday",
+  "tagline": "ASCII & Box-Drawing Diagram Editor (Rust)",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 1518,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Routine Cleanup",
+  "slug": "routine-cleanup",
+  "url": "https://www.producthunt.com/products/routine-cleanup",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "Clean up your Claude Code scheduled task runs in bulk",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 430,
+  "votes": 5,
+  "comments": 6,
+  "featured": false,
+  "source": "api"
+}

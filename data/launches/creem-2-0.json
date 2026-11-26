@@ -27,5 +27,137 @@
     "https://ph-files.imgix.net/88edf02d-2664-422a-b150-b18370f7b1c3.png?auto=format",
     "https://ph-files.imgix.net/5e41b5c8-a552-4d60-abeb-75c27f0caa79.png?auto=format",
     "https://ph-files.imgix.net/95019b82-1cf7-46ea-bf17-dac923ced472.png?auto=format"
+  ],
+  "maker_history": [
+    {
+      "username": "sudoferraz",
+      "name": "Gabriel Ferraz",
+      "headline": "Cofounder and Software Engineer",
+      "account_created": "2024-04-03T10:10:25Z",
+      "followers": 99,
+      "made_posts_total": 3,
+      "launches_before_this": 2,
+      "featured_before": 2
+    },
+    {
+      "username": "mart_creem",
+      "name": "Märt",
+      "headline": "Building Creem.",
+      "account_created": "2026-08-24T08:48:52Z",
+      "followers": 9,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "tahafromcreem",
+      "name": "Taha Erel",
+      "headline": "Product Engineer @ Creem",
+      "account_created": "2026-08-24T08:48:19Z",
+      "followers": 13,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "kuldar",
+      "name": "Kuldar",
+      "headline": "Design Engineer",
+      "account_created": "2022-12-07T23:57:13Z",
+      "followers": 38,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "thisisgravy",
+      "name": "Eli Zucker",
+      "headline": "Customer Success @ Creem",
+      "account_created": "2026-08-24T08:50:39Z",
+      "followers": 14,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "martinsyuu",
+      "name": "Martins Jurkans",
+      "headline": null,
+      "account_created": "2025-02-04T09:56:51Z",
+      "followers": 9,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "oliverfromcreem",
+      "name": "Oliver Steinert",
+      "headline": "Risk & Compliance at Creem",
+      "account_created": "2026-08-24T09:08:06Z",
+      "followers": 9,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "samuelcreem",
+      "name": "Samuel",
+      "headline": "Building Creem.",
+      "account_created": "2026-08-24T10:23:58Z",
+      "followers": 15,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "toms_creem",
+      "name": "Toms",
+      "headline": null,
+      "account_created": "2026-08-27T08:27:48Z",
+      "followers": 8,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "paul_creem",
+      "name": "Pavel",
+      "headline": null,
+      "account_created": "2026-08-27T08:30:36Z",
+      "followers": 19,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "vumck",
+      "name": "Vyacheslav Koliyanov",
+      "headline": "CTO",
+      "account_created": "2025-08-26T20:32:09Z",
+      "followers": 14,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "joosep_creem",
+      "name": "Joosep Kõljalg",
+      "headline": null,
+      "account_created": "2026-08-27T11:10:35Z",
+      "followers": 17,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    },
+    {
+      "username": "nelery_creem",
+      "name": "Nelery Rästas",
+      "headline": "Founder's Associate @ CREEM",
+      "account_created": "2016-04-08T19:13:08Z",
+      "followers": 33,
+      "made_posts_total": 1,
+      "launches_before_this": 0,
+      "featured_before": 0
+    }
   ]
 }

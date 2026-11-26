@@ -1,0 +1,14 @@
+{
+  "name": "Fedora 45",
+  "slug": "fedora-45",
+  "url": "https://www.producthunt.com/products/fedora-45",
+  "launch_date": "2026-11-03",
+  "day_of_week": "Tuesday",
+  "tagline": "A modern, open-source Linux OS for developers and creators.",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 805,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Terminay",
+  "slug": "terminay",
+  "url": "https://www.producthunt.com/products/terminay",
+  "launch_date": "2026-10-31",
+  "day_of_week": "Saturday",
+  "tagline": "Open-source terminal workspace for projects and AI agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": 1125,
+  "votes": 3,
+  "comments": 2,
+  "featured": false,
+  "source": "api"
+}

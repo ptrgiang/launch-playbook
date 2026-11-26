@@ -1,0 +1,14 @@
+{
+  "name": "Weekly Threads",
+  "slug": "weekly-threads",
+  "url": "https://www.producthunt.com/products/weekly-threads",
+  "launch_date": "2026-10-29",
+  "day_of_week": "Thursday",
+  "tagline": "30-second daily check-ins for better therapy sessions",
+  "tagline_formula": "number-led",
+  "rank_in_unfeatured": 1193,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

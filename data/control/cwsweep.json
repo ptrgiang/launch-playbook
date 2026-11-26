@@ -1,0 +1,14 @@
+{
+  "name": "cwsweep",
+  "slug": "cwsweep",
+  "url": "https://www.producthunt.com/products/cwsweep",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Clean up CloudWatch Logs across your whole AWS Organization",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": 755,
+  "votes": 3,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}
