@@ -1,0 +1,14 @@
+{
+  "name": "Pinned",
+  "slug": "pinned",
+  "url": "https://www.producthunt.com/products/pinned",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Ask the city where to go tonight with your friends",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 93,
+  "comments": 11,
+  "featured": true,
+  "source": "api"
+}

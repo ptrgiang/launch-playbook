@@ -12,7 +12,7 @@
   ],
   "tagline": "Auth, billing, and payments for AI builders",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "black minimal card: headline 'One backend. Sufficient to power your entire business.' + isometric layered cube + capability list (Authentication, Billing/Payments, Customer Database, Analytics)",
   "rank": 3,

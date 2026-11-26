@@ -12,7 +12,7 @@
   ],
   "tagline": "Build and enrich B2B lists by chatting to your agent",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "dark card: 'WORKS IN' agent pills (Claude, Codex, Cursor, Manus, Antigravity) + headline 'Live B2B data inside your AI-agent. One prompt away' + 6 data-type tiles (Companies, People, Emails, Phone Numbers, Enrichment, Signals)",
   "rank": 18,

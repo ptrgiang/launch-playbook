@@ -12,7 +12,7 @@
   ],
   "tagline": "AI voice typing that sounds right in every app",
   "tagline_formula": "other",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "mint card: headline 'AI voice typing that gets what you meant' + laptop mockup of Gmail compose showing dictation with strikethrough auto-correction ('thursday—I mean Friday') + floating voice pill",
   "rank": 13,

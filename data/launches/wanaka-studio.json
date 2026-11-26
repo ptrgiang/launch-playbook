@@ -12,7 +12,7 @@
   ],
   "tagline": "Make and publish 3D games with the first AI game engine",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "mint card: 'AI-NATIVE GAME ENGINE' kicker + headline 'Make AAA 3D games with AI.' (lime highlight) + editor screenshot (3D city scene + 'Build with AI' chat panel + inspector) + ticks 'No code · Multiplayer · 1-click publish'",
   "rank": 17,

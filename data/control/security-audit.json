@@ -1,0 +1,14 @@
+{
+  "name": "Security Audit",
+  "slug": "security-audit",
+  "url": "https://www.producthunt.com/products/security-audit",
+  "launch_date": "2026-11-25",
+  "day_of_week": "Wednesday",
+  "tagline": "Website security scan that goes beyond Mozilla Observatory",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 1,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

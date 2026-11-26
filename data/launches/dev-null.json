@@ -13,7 +13,7 @@
   ],
   "tagline": "a social network for devs",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "dark card: full product UI — sidebar with '/dev/null — a social network for devs' + commits feed showing real names (Guillermo Rauch) in a reply thread",
   "rank": 11,

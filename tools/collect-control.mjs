@@ -125,7 +125,10 @@ function toRecord(n) {
 // launches (800 top posts → 1 unfeatured). The reliable control set is day
 // iteration: every post of every day, filtered client-side.
 // Records are written incrementally so a mid-run kill still keeps raw data.
-async function collectUnfeatured(days, seen) {
+const FEATURED_DIR = join(ROOT, "data", "featured30");
+const COLLECT_ALL = args.includes("--all");
+
+async function collectUnfeatured(days, seen, seenFeatured) {
   const unfeatured = [];
   let total = 0;
   for (const dateStr of days) {
@@ -145,17 +148,22 @@ async function collectUnfeatured(days, seen) {
         const conn = data.posts;
         total += conn.edges.length;
         for (const e of conn.edges) {
-          if (e.node.featuredAt == null && !seen.has(e.node.slug)) {
-            seen.add(e.node.slug);
-            unfeatured.push(e.node);
-            writeFileSync(join(OUT_DIR, `${e.node.slug}.json`), JSON.stringify(toRecord(e.node), null, 2) + "\n");
+          const isFeatured = e.node.featuredAt != null;
+          const dir = isFeatured ? FEATURED_DIR : OUT_DIR;
+          const seenSet = isFeatured ? seenFeatured : seen;
+          if ((COLLECT_ALL || !isFeatured) && !seenSet.has(e.node.slug)) {
+            seenSet.add(e.node.slug);
+            if (!isFeatured) unfeatured.push(e.node);
+            const rec = toRecord(e.node);
+            rec.featured = isFeatured;
+            writeFileSync(join(dir, `${e.node.slug}.json`), JSON.stringify(rec, null, 2) + "\n");
           }
         }
         if (!conn.pageInfo.hasNextPage) break;
         cursor = conn.pageInfo.endCursor;
         await sleep(1500);
       }
-      log(`  ${dateStr}: done (${seen.size} unfeatured total)`);
+      log(`  ${dateStr}: done (${seen.size} unfeatured${COLLECT_ALL ? `, ${seenFeatured.size} featured` : ""} total)`);
     } catch (e) {
       log(`  ${dateStr}: FAIL ${e.message.slice(0, 80)}`);
     }
@@ -175,15 +183,17 @@ async function main() {
     days.push(pstFormatter.format(new Date(Date.now() - i * 86_400_000)));
   }
   mkdirSync(OUT_DIR, { recursive: true });
+  mkdirSync(FEATURED_DIR, { recursive: true });
   // Resume-safe: slugs already on disk are skipped, so reruns don't rescan
   // the same launches (the day query still runs — API has no per-day resume).
   const { readdirSync } = await import("node:fs");
-  const seen = new Set(
-    readdirSync(OUT_DIR).filter((f) => f.endsWith(".json") && !f.startsWith("_")).map((f) => f.replace(/\.json$/, ""))
-  );
-  log(`collect-control: unfeatured launches, ${days[days.length - 1]} → ${days[0]}, top ${LIMIT} by votes (${seen.size} already on disk)`);
+  const loadSeen = (dir) =>
+    new Set(readdirSync(dir).filter((f) => f.endsWith(".json") && !f.startsWith("_")).map((f) => f.replace(/\.json$/, "")));
+  const seen = loadSeen(OUT_DIR);
+  const seenFeatured = loadSeen(FEATURED_DIR);
+  log(`collect-control: ${days[days.length - 1]} → ${days[0]}, top ${LIMIT} (${seen.size} unfeatured${COLLECT_ALL ? `, ${seenFeatured.size} featured` : ""} already on disk)`);
 
-  await collectUnfeatured(days, seen);
+  await collectUnfeatured(days, seen, seenFeatured);
 
   // Rebuild index from ALL records on disk (this run + previous runs).
   const { readFileSync: rf } = await import("node:fs");

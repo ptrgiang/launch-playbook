@@ -13,7 +13,7 @@
   ],
   "tagline": "Open-source self-improving memory for AI coding agents",
   "tagline_formula": "outcome-for-audience",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "dark OG-ratio card: 'OPEN SOURCE' tag + headline 'The Self-Improving Memory Layer for Coding Agents' + subhead listing harnesses (Claude Code, Cursor, Codex, OpenCode, 20+) + GitHub repo URL footer",
   "rank": 14,

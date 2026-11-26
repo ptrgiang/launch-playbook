@@ -12,7 +12,7 @@
   ],
   "tagline": "Video model that turns script into viral social media videos",
   "tagline_formula": "other",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "dark card: headline 'Turn scripts into viral social media videos' + 3 phone-frame mockups of generated TikTok-style videos with text overlays",
   "rank": 2,

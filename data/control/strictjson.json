@@ -1,0 +1,14 @@
+{
+  "name": "StrictJson",
+  "slug": "strictjson",
+  "url": "https://www.producthunt.com/products/strictjson",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Turn plain words into strict JSON schemas & prompts",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

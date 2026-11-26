@@ -1,0 +1,14 @@
+{
+  "name": "freddy",
+  "slug": "freddy-3",
+  "url": "https://www.producthunt.com/products/freddy-3",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Private health data server: talk to your health with any AI",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 88,
+  "comments": 13,
+  "featured": true,
+  "source": "api"
+}

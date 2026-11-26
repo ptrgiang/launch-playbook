@@ -1,0 +1,14 @@
+{
+  "name": "Bento terminal",
+  "slug": "bento-terminal",
+  "url": "https://www.producthunt.com/products/bento-terminal",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "A multi-pane terminal workspace for one project",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 68,
+  "comments": 5,
+  "featured": true,
+  "source": "api"
+}

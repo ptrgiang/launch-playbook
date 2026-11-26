@@ -12,7 +12,7 @@
   ],
   "tagline": "Create and edit videos by chatting",
   "tagline_formula": "verb-first",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "white card: headline 'Connect Clueso MCP' + input-type paragraph (recording/doc/PPT/URL/Figma/prompt) + URL bar mockup + row of agent logo cards (ChatGPT, Claude, Gemini, Cursor)",
   "rank": 6,

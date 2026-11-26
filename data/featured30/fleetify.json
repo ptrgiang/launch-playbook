@@ -1,0 +1,14 @@
+{
+  "name": "Fleetify",
+  "slug": "fleetify",
+  "url": "https://www.producthunt.com/products/fleetify",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Open-source command center for your AI coding agents",
+  "tagline_formula": "outcome-for-audience",
+  "rank_in_unfeatured": null,
+  "votes": 90,
+  "comments": 9,
+  "featured": true,
+  "source": "api"
+}

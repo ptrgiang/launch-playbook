@@ -1,0 +1,14 @@
+{
+  "name": "Veloce",
+  "slug": "veloce",
+  "url": "https://www.producthunt.com/products/veloce",
+  "launch_date": "2026-11-23",
+  "day_of_week": "Monday",
+  "tagline": "Rust terminal apps: routes, flexbox, no event loop",
+  "tagline_formula": "other",
+  "rank_in_unfeatured": null,
+  "votes": 2,
+  "comments": 1,
+  "featured": false,
+  "source": "api"
+}

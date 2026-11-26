@@ -13,7 +13,7 @@
   ],
   "tagline": "From issue to production, run by agents.",
   "tagline_formula": "other",
-  "maker_comment_shape": "none",
+  "maker_comment_shape": null,
   "maker_comment_excerpt": null,
   "gallery_first_card": "black card: headline 'Build with an agent factory' + description + 'Sign in with Mastra Platform' button + abstract dotted pipeline columns (Intake/Build/Review/Ship)",
   "rank": 10,

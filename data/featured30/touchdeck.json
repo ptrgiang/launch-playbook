@@ -1,0 +1,14 @@
+{
+  "name": "TouchDeck",
+  "slug": "touchdeck",
+  "url": "https://www.producthunt.com/products/touchdeck",
+  "launch_date": "2026-11-24",
+  "day_of_week": "Tuesday",
+  "tagline": "Turn your iPhone or iPad into a control deck for your Mac",
+  "tagline_formula": "verb-first",
+  "rank_in_unfeatured": null,
+  "votes": 70,
+  "comments": 3,
+  "featured": true,
+  "source": "api"
+}
